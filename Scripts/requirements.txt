@@ -1,0 +1,7 @@
+numpy
+requests
+sqlalchemy
+xlwt
+pymysql
+thefuzz
+openpyxl

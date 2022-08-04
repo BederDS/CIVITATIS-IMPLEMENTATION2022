@@ -1,0 +1,1979 @@
+post_id,user_id,place_id,name,latitude,longitude,level,NOM,geo
+5791,314,19597,Estació de França,41.3848,2.1854,bus_station,"Sant Pere, Santa Caterina i la Ribera
+","41.3848,2.1854"
+7729,1211,25820,Grand Hotel Central,41.385,2.17777,spa,"Sant Pere, Santa Caterina i la Ribera
+","41.385,2.17777"
+7756,1211,25820,Grand Hotel Central,41.385,2.17777,spa,"Sant Pere, Santa Caterina i la Ribera
+","41.385,2.17777"
+5781,314,19569,Correos,41.3816,2.18132,post_office,"el Barri Gòtic
+","41.3816,2.18132"
+736,59,2781,"Galeries Maldà, Carrer de la Portaferrissa, Barcelona, Spain",41.3832,2.17334,shopping_mall,"el Barri Gòtic
+","41.3832,2.17334"
+4361,54,15080,Arxiu Diocesà de Barcelona,41.3838,2.17565,church,"el Barri Gòtic
+","41.3838,2.17565"
+4362,54,15080,Arxiu Diocesà de Barcelona,41.3838,2.17565,church,"el Barri Gòtic
+","41.3838,2.17565"
+4363,54,15080,Arxiu Diocesà de Barcelona,41.3838,2.17565,church,"el Barri Gòtic
+","41.3838,2.17565"
+7890,1776,26412,Chocolat-Box,41.3846,2.17518,store,"el Barri Gòtic
+","41.3846,2.17518"
+7645,1428,25559,Marsalada Barcelona,41.3859,2.17941,painter,"Sant Pere, Santa Caterina i la Ribera
+","41.3859,2.17941"
+1010,54,1427,"Universitat de Barcelona, Gran Via de les Corts Catalanes, Barcelona, Spain",41.3867,2.16387,university,"l'Antiga Esquerra de l'Eixample
+","41.3867,2.16387"
+1046,54,1427,"Universitat de Barcelona, Gran Via de les Corts Catalanes, Barcelona, Spain",41.3867,2.16387,university,"l'Antiga Esquerra de l'Eixample
+","41.3867,2.16387"
+3529,245,12027,De Cruz Morales,41.3885,2.15452,food,"l'Antiga Esquerra de l'Eixample
+","41.3885,2.15452"
+1111,54,3789,"Pg. de Gràcia, 26, 08007 Barcelona, Spain",41.3903,2.16779,art_gallery,"la Dreta de l'Eixample
+","41.3903,2.16779"
+1102,54,3783,"Hotel Majestic, Passeig de Gràcia, Barcelona, Spain",41.3935,2.16398,spa,"la Dreta de l'Eixample
+","41.3935,2.16398"
+5493,85,18612,Gelateria La Romana,41.3964,2.15057,food,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3964,2.15057"
+5498,85,18612,Gelateria La Romana,41.3964,2.15057,food,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3964,2.15057"
+3537,85,480,Gràcia,41.4112,2.15747,political,"Vallcarca, el Coll i la Salut
+
+
+","41.4112,2.15747"
+5044,490,480,Gràcia,41.4112,2.15747,political,"Vallcarca, el Coll i la Salut
+
+
+","41.4112,2.15747"
+585,68,2267,"Av. del Litoral, 86-96, 08005 Barcelona, Spain",41.4,2.21173,"","el Poblenou i Diagonal Mar
+
+","41.4,2.21173"
+877,54,3233,Escultura Feníxia,41.37,2.15386,"","el Poble Sec i Montjuïc
+
+","41.37,2.15386"
+878,54,3234,Escultura Feníxia,41.37,2.15386,"","el Poble Sec i Montjuïc
+
+","41.37,2.15386"
+1079,54,3233,Escultura Feníxia,41.37,2.15386,"","el Poble Sec i Montjuïc
+
+","41.37,2.15386"
+1081,54,3233,Escultura Feníxia,41.37,2.15386,"","el Poble Sec i Montjuïc
+
+","41.37,2.15386"
+7150,150,24225,Cascada del Parc de la Ciutadella,41.39,2.18655,"","Sant Pere, Santa Caterina i la Ribera
+","41.39,2.18655"
+7193,150,24225,Cascada del Parc de la Ciutadella,41.39,2.18655,"","Sant Pere, Santa Caterina i la Ribera
+","41.39,2.18655"
+1608,60,5485,Mirandoalmar Restaurante,41.375,2.18329,"","el Barri Gòtic
+","41.375,2.18329"
+1062,54,3703,La Gavina,41.3808,2.1853,"",la Barceloneta,"41.3808,2.1853"
+1063,54,3704,La Gavina,41.3808,2.1853,"",la Barceloneta,"41.3808,2.1853"
+4727,54,16240,Archdiocese of Barcelona,41.384,2.17625,"","el Barri Gòtic
+","41.384,2.17625"
+891,54,3250,Plaça de Catalunya,41.387,2.17005,"","la Dreta de l'Eixample
+","41.387,2.17005"
+1109,54,3250,Plaça de Catalunya,41.387,2.17005,"","la Dreta de l'Eixample
+","41.387,2.17005"
+1539,54,3250,Plaça de Catalunya,41.387,2.17005,"","la Dreta de l'Eixample
+","41.387,2.17005"
+1540,54,3250,Plaça de Catalunya,41.387,2.17005,"","la Dreta de l'Eixample
+","41.387,2.17005"
+2887,54,3250,Plaça de Catalunya,41.387,2.17005,"","la Dreta de l'Eixample
+","41.387,2.17005"
+8003,1977,3250,Plaça de Catalunya,41.387,2.17005,"","la Dreta de l'Eixample
+","41.387,2.17005"
+1144,54,3796,"Pg. de Gràcia, 1, 08007 Barcelona, Spain",41.388,2.16947,"","la Dreta de l'Eixample
+","41.388,2.16947"
+1099,54,3237,"Pg. de Gràcia, 58, 08007 Barcelona, Spain",41.3927,2.1649,"","la Dreta de l'Eixample
+","41.3927,2.1649"
+7149,150,24222,Jardín de Aclimatacion,41.3657,2.15315,"","el Poble Sec i Montjuïc
+
+","41.3657,2.15315"
+7211,150,24222,Jardín de Aclimatacion,41.3657,2.15315,"","el Poble Sec i Montjuïc
+
+","41.3657,2.15315"
+7191,150,24400,Estadi Olímpic,41.3662,2.15532,"","el Poble Sec i Montjuïc
+
+","41.3662,2.15532"
+7490,312,24400,Estadi Olímpic,41.3662,2.15532,"","el Poble Sec i Montjuïc
+
+","41.3662,2.15532"
+4742,54,16286,Poble Espanyol,41.3688,2.14827,"","el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+1082,54,3741,Fresc la terrassa del MNAC,41.3688,2.15333,"","el Poble Sec i Montjuïc
+
+","41.3688,2.15333"
+1083,54,3742,Mirador Barcelona,41.3696,2.15445,"","el Poble Sec i Montjuïc
+
+","41.3696,2.15445"
+3795,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3796,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3797,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3798,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3799,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3800,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3801,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3802,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3803,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3804,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3805,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3806,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3807,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3808,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3809,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3810,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+3811,54,13058,Catalan Museum of Archaeology,41.3698,2.15766,"","el Poble Sec i Montjuïc
+
+","41.3698,2.15766"
+1048,54,3686,"Pl. de Carles Buïgas, 7-11, 08038 Barcelona, Spain",41.3706,2.15206,"","el Poble Sec i Montjuïc
+
+","41.3706,2.15206"
+1049,54,3686,"Pl. de Carles Buïgas, 7-11, 08038 Barcelona, Spain",41.3706,2.15206,"","el Poble Sec i Montjuïc
+
+","41.3706,2.15206"
+2983,1,10158,Pizzeria Trattoria La Briciola,41.3738,2.13655,"",Sants i Badal,"41.3738,2.13655"
+2984,1,10159,Pizzeria Trattoria La Briciola,41.3738,2.13655,"",Sants i Badal,"41.3738,2.13655"
+2065,116,6993,"Carrer Nou de la Rambla, 113, 08004 Barcelona, Spain",41.3744,2.16961,"","el Poble Sec i Montjuïc
+
+","41.3744,2.16961"
+2097,116,6993,"Carrer Nou de la Rambla, 113, 08004 Barcelona, Spain",41.3744,2.16961,"","el Poble Sec i Montjuïc
+
+","41.3744,2.16961"
+5889,279,6993,"Carrer Nou de la Rambla, 113, 08004 Barcelona, Spain",41.3744,2.16961,"","el Poble Sec i Montjuïc
+
+","41.3744,2.16961"
+1045,54,1422,Pl Espanya - Fira Barcelona,41.3747,2.14988,"","el Poble Sec i Montjuïc
+
+","41.3747,2.14988"
+1047,54,1422,Pl Espanya - Fira Barcelona,41.3747,2.14988,"","el Poble Sec i Montjuïc
+
+","41.3747,2.14988"
+1806,59,1422,Pl Espanya - Fira Barcelona,41.3747,2.14988,"","el Poble Sec i Montjuïc
+
+","41.3747,2.14988"
+1808,59,1422,Pl Espanya - Fira Barcelona,41.3747,2.14988,"","el Poble Sec i Montjuïc
+
+","41.3747,2.14988"
+1591,60,5340,Chiringuito ONA,41.3749,2.19019,"",la Barceloneta,"41.3749,2.19019"
+1021,54,3677,Arenas de Barcelona,41.3763,2.14931,"",la Nova Esquerra de l'Eixample,"41.3763,2.14931"
+1022,54,3678,Arenas de Barcelona,41.3763,2.14931,"",la Nova Esquerra de l'Eixample,"41.3763,2.14931"
+1068,54,3716,La Plata,41.3804,2.18059,"","el Barri Gòtic
+","41.3804,2.18059"
+1064,54,3702,MUELLE ESPAÑA,41.3805,2.18363,"",la Barceloneta,"41.3805,2.18363"
+1066,54,3715,"Pas de Sota Muralla, 3, 08003 Barcelona, Spain",41.3813,2.18287,"","Sant Pere, Santa Caterina i la Ribera
+","41.3813,2.18287"
+1067,54,3715,"Pas de Sota Muralla, 3, 08003 Barcelona, Spain",41.3813,2.18287,"","Sant Pere, Santa Caterina i la Ribera
+","41.3813,2.18287"
+1078,54,3736,Acta BCN 40,41.3827,2.16583,"","el Raval
+","41.3827,2.16583"
+730,59,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+731,59,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1075,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1077,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1113,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1114,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1115,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1116,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1117,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1118,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1119,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1120,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1121,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1122,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1123,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1124,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1125,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1126,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1127,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1128,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1129,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1130,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1131,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1132,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1133,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1134,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1135,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1136,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1137,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1138,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1139,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1140,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1141,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1142,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+1143,54,2767,Museu d'Art Contemporani de Barcelona,41.3832,2.16687,"","el Raval
+","41.3832,2.16687"
+6866,150,23424,Basilica of Santa Maria del Mar,41.3839,2.18207,"","Sant Pere, Santa Caterina i la Ribera
+","41.3839,2.18207"
+7151,150,23424,Basilica of Santa Maria del Mar,41.3839,2.18207,"","Sant Pere, Santa Caterina i la Ribera
+","41.3839,2.18207"
+234,1,971,"Carrer de la Princesa, 59, 08003 Barcelona, Spain",41.3873,2.18271,"","Sant Pere, Santa Caterina i la Ribera
+","41.3873,2.18271"
+1541,54,5254,"Gran Via de les Corts Catalanes, 595, 08007 Barcelona, Spain",41.3882,2.16609,"","la Dreta de l'Eixample
+","41.3882,2.16609"
+1041,54,443,Arco de Triunfo de Barcelona,41.3911,2.18064,"","Sant Pere, Santa Caterina i la Ribera
+","41.3911,2.18064"
+1043,54,443,Arco de Triunfo de Barcelona,41.3911,2.18064,"","Sant Pere, Santa Caterina i la Ribera
+","41.3911,2.18064"
+1044,54,443,Arco de Triunfo de Barcelona,41.3911,2.18064,"","Sant Pere, Santa Caterina i la Ribera
+","41.3911,2.18064"
+7194,150,443,Arco de Triunfo de Barcelona,41.3911,2.18064,"","Sant Pere, Santa Caterina i la Ribera
+","41.3911,2.18064"
+297,1,1218,Bar El Tomàs de Sarrià,41.3975,2.12305,"",Sarrià i les Tres Torres,"41.3975,2.12305"
+1455,132,5102,Mens Venilia Curso Coaching y PNL Barcelona,41.4015,2.19757,"","el Poblenou i Diagonal Mar
+
+","41.4015,2.19757"
+559,33,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+560,33,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+561,33,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+562,33,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+1050,54,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+1052,54,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+1053,54,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+1054,54,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+1899,138,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+1900,138,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+4547,155,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+6448,282,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+6449,282,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+6451,282,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+7685,1776,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+7750,1211,1436,Basílica de la Sagrada Família,41.4036,2.17436,"",la Sagrada Família,"41.4036,2.17436"
+4332,255,14976,Bonavida Cocktail Bar,41.3893,2.1708,bar,"la Dreta de l'Eixample
+","41.3893,2.1708"
+5226,312,17938,Paco Meralgo,41.3916,2.1525,bar,"l'Antiga Esquerra de l'Eixample
+","41.3916,2.1525"
+5612,85,19062,ILUZIONE Barcelona,41.396,2.14055,bar,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.396,2.14055"
+5613,85,19062,ILUZIONE Barcelona,41.396,2.14055,bar,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.396,2.14055"
+4158,314,14362,Salts - Terrassa Bar Montjuïc,41.3692,2.16557,bar,"el Poble Sec i Montjuïc
+
+","41.3692,2.16557"
+7498,312,14362,Salts - Terrassa Bar Montjuïc,41.3692,2.16557,bar,"el Poble Sec i Montjuïc
+
+","41.3692,2.16557"
+7499,312,14362,Salts - Terrassa Bar Montjuïc,41.3692,2.16557,bar,"el Poble Sec i Montjuïc
+
+","41.3692,2.16557"
+7500,312,14362,Salts - Terrassa Bar Montjuïc,41.3692,2.16557,bar,"el Poble Sec i Montjuïc
+
+","41.3692,2.16557"
+863,54,3228,"La Carioca, Plaça de Pau Vila, Barcelona, Spain",41.3808,2.18635,bar,la Barceloneta,"41.3808,2.18635"
+864,54,3228,"La Carioca, Plaça de Pau Vila, Barcelona, Spain",41.3808,2.18635,bar,la Barceloneta,"41.3808,2.18635"
+865,54,3228,"La Carioca, Plaça de Pau Vila, Barcelona, Spain",41.3808,2.18635,bar,la Barceloneta,"41.3808,2.18635"
+866,54,3229,"La Carioca, Plaça de Pau Vila, Barcelona, Spain",41.3808,2.18635,bar,la Barceloneta,"41.3808,2.18635"
+1055,54,3228,"La Carioca, Plaça de Pau Vila, Barcelona, Spain",41.3808,2.18635,bar,la Barceloneta,"41.3808,2.18635"
+1057,54,3228,"La Carioca, Plaça de Pau Vila, Barcelona, Spain",41.3808,2.18635,bar,la Barceloneta,"41.3808,2.18635"
+1058,54,3228,"La Carioca, Plaça de Pau Vila, Barcelona, Spain",41.3808,2.18635,bar,la Barceloneta,"41.3808,2.18635"
+1059,54,3228,"La Carioca, Plaça de Pau Vila, Barcelona, Spain",41.3808,2.18635,bar,la Barceloneta,"41.3808,2.18635"
+1060,54,3228,"La Carioca, Plaça de Pau Vila, Barcelona, Spain",41.3808,2.18635,bar,la Barceloneta,"41.3808,2.18635"
+3619,81,12421,Bodega del Born,41.3839,2.18163,bar,"Sant Pere, Santa Caterina i la Ribera
+","41.3839,2.18163"
+2859,33,9705,El Drapaire de la Cervesa Artesana,41.3847,2.16943,bar,"el Raval
+","41.3847,2.16943"
+2860,33,9706,El Drapaire de la Cervesa Artesana,41.3847,2.16943,bar,"el Raval
+","41.3847,2.16943"
+5037,490,17229,Skybar,41.3849,2.17765,bar,"Sant Pere, Santa Caterina i la Ribera
+","41.3849,2.17765"
+1668,59,5645,"Icebarcelona, Carrer de Ramon Trias Fargas, Barcelona, Spain",41.3853,2.19703,bar,la Barceloneta,"41.3853,2.19703"
+1543,54,5269,"Pl. de Catalunya, 21, 08002 Barcelona, Spain",41.3859,2.17076,bar,"el Barri Gòtic
+","41.3859,2.17076"
+1544,54,5269,"Pl. de Catalunya, 21, 08002 Barcelona, Spain",41.3859,2.17076,bar,"el Barri Gòtic
+","41.3859,2.17076"
+7512,312,25197,Sagardi,41.3872,2.15885,bar,"l'Antiga Esquerra de l'Eixample
+","41.3872,2.15885"
+6782,279,23174,Antic Teatre,41.3872,2.17596,bar,"Sant Pere, Santa Caterina i la Ribera
+","41.3872,2.17596"
+1542,54,5258,"Rambla de Catalunya, 18, 08007 Barcelona, Spain",41.3888,2.16683,bar,"la Dreta de l'Eixample
+","41.3888,2.16683"
+5367,25,18237,Barcelona Axe Throwing (B.A.T),41.3888,2.17479,bar,"Sant Pere, Santa Caterina i la Ribera
+","41.3888,2.17479"
+5394,25,18237,Barcelona Axe Throwing (B.A.T),41.3888,2.17479,bar,"Sant Pere, Santa Caterina i la Ribera
+","41.3888,2.17479"
+2659,160,8953,Carpe Diem,41.3893,2.16357,bar,"la Dreta de l'Eixample
+","41.3893,2.16357"
+2665,160,8953,Carpe Diem,41.3893,2.16357,bar,"la Dreta de l'Eixample
+","41.3893,2.16357"
+1802,60,6070,"Rambla de Catalunya, 26, 08007 Barcelona, Spain",41.3895,2.16627,bar,"la Dreta de l'Eixample
+","41.3895,2.16627"
+1803,60,6070,"Rambla de Catalunya, 26, 08007 Barcelona, Spain",41.3895,2.16627,bar,"la Dreta de l'Eixample
+","41.3895,2.16627"
+811,59,3052,"Metric, Avinguda Diagonal, Barcelona, Spain",41.3916,2.14164,bar,"les Corts
+","41.3916,2.14164"
+812,59,3052,"Metric, Avinguda Diagonal, Barcelona, Spain",41.3916,2.14164,bar,"les Corts
+","41.3916,2.14164"
+813,59,3053,"Metric, Avinguda Diagonal, Barcelona, Spain",41.3916,2.14164,bar,"les Corts
+","41.3916,2.14164"
+814,59,3054,"Metric, Avinguda Diagonal, Barcelona, Spain",41.3916,2.14164,bar,"les Corts
+","41.3916,2.14164"
+3538,85,12059,El Quatre de Londres,41.3929,2.15017,bar,"l'Antiga Esquerra de l'Eixample
+","41.3929,2.15017"
+5746,85,12059,El Quatre de Londres,41.3929,2.15017,bar,"l'Antiga Esquerra de l'Eixample
+","41.3929,2.15017"
+5747,85,12059,El Quatre de Londres,41.3929,2.15017,bar,"l'Antiga Esquerra de l'Eixample
+","41.3929,2.15017"
+5751,85,12059,El Quatre de Londres,41.3929,2.15017,bar,"l'Antiga Esquerra de l'Eixample
+","41.3929,2.15017"
+5752,85,12059,El Quatre de Londres,41.3929,2.15017,bar,"l'Antiga Esquerra de l'Eixample
+","41.3929,2.15017"
+3180,126,10874,Cachitos Diagonal,41.3953,2.15369,bar,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3953,2.15369"
+896,54,3264,"Oasis, Carrer d'Àvila, Barcelona, Spain",41.3993,2.19213,bar,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.3993,2.19213"
+4448,155,15289,Bobby Gin,41.3997,2.15839,bar,"la Vila de Gràcia
+","41.3997,2.15839"
+4720,693,16235,Bar-Terraza Ayre Rosellón,41.4048,2.17288,bar,la Sagrada Família,"41.4048,2.17288"
+7477,1776,16235,Bar-Terraza Ayre Rosellón,41.4048,2.17288,bar,la Sagrada Família,"41.4048,2.17288"
+5045,490,17245,Bus Terrassa,41.4093,2.22221,bar,"el Besòs, el Maresme i Provençals
+
+","41.4093,2.22221"
+5221,490,17245,Bus Terrassa,41.4093,2.22221,bar,"el Besòs, el Maresme i Provençals
+
+","41.4093,2.22221"
+4206,73,14495,Barcelona Zoo,41.3862,2.18712,zoo,"Sant Pere, Santa Caterina i la Ribera
+","41.3862,2.18712"
+4207,73,14495,Barcelona Zoo,41.3862,2.18712,zoo,"Sant Pere, Santa Caterina i la Ribera
+","41.3862,2.18712"
+4208,73,14495,Barcelona Zoo,41.3862,2.18712,zoo,"Sant Pere, Santa Caterina i la Ribera
+","41.3862,2.18712"
+4209,73,14495,Barcelona Zoo,41.3862,2.18712,zoo,"Sant Pere, Santa Caterina i la Ribera
+","41.3862,2.18712"
+4210,73,14495,Barcelona Zoo,41.3862,2.18712,zoo,"Sant Pere, Santa Caterina i la Ribera
+","41.3862,2.18712"
+4211,73,14495,Barcelona Zoo,41.3862,2.18712,zoo,"Sant Pere, Santa Caterina i la Ribera
+","41.3862,2.18712"
+5227,312,17940,Brunch & Cake,41.3883,2.1615,cafe,"l'Antiga Esquerra de l'Eixample
+","41.3883,2.1615"
+7487,312,25108,La Cala Barceloneta,41.3759,2.18771,cafe,la Barceloneta,"41.3759,2.18771"
+1076,54,3260,"KINO, Barcelona, Spain",41.3826,2.16659,cafe,"el Raval
+","41.3826,2.16659"
+4367,54,15092,El Flako Corn Flakes & Co.,41.3829,2.18175,cafe,"Sant Pere, Santa Caterina i la Ribera
+","41.3829,2.18175"
+4368,54,15093,El Flako Corn Flakes & Co.,41.3829,2.18175,cafe,"Sant Pere, Santa Caterina i la Ribera
+","41.3829,2.18175"
+4369,54,15094,El Flako Corn Flakes & Co.,41.3829,2.18175,cafe,"Sant Pere, Santa Caterina i la Ribera
+","41.3829,2.18175"
+7913,2035,26469,Sweet Lima,41.3864,2.18298,cafe,"Sant Pere, Santa Caterina i la Ribera
+","41.3864,2.18298"
+5741,85,19489,Bopan Forners Artesans,41.3945,2.15836,cafe,"la Dreta de l'Eixample
+","41.3945,2.15836"
+1532,54,5239,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.16171,cafe,"la Dreta de l'Eixample
+","41.3952,2.16171"
+6902,34,5239,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.16171,cafe,"la Dreta de l'Eixample
+","41.3952,2.16171"
+7488,312,25113,Jardins de Laribal,41.3688,2.15945,park,"el Poble Sec i Montjuïc
+
+","41.3688,2.15945"
+5035,490,17225,Ciutadella Park,41.3881,2.18602,park,"Sant Pere, Santa Caterina i la Ribera
+","41.3881,2.18602"
+6970,150,17225,Ciutadella Park,41.3881,2.18602,park,"Sant Pere, Santa Caterina i la Ribera
+","41.3881,2.18602"
+7722,1211,17225,Ciutadella Park,41.3881,2.18602,park,"Sant Pere, Santa Caterina i la Ribera
+","41.3881,2.18602"
+7723,1211,17225,Ciutadella Park,41.3881,2.18602,park,"Sant Pere, Santa Caterina i la Ribera
+","41.3881,2.18602"
+7731,1211,17225,Ciutadella Park,41.3881,2.18602,park,"Sant Pere, Santa Caterina i la Ribera
+","41.3881,2.18602"
+7736,1211,17225,Ciutadella Park,41.3881,2.18602,park,"Sant Pere, Santa Caterina i la Ribera
+","41.3881,2.18602"
+7737,1211,17225,Ciutadella Park,41.3881,2.18602,park,"Sant Pere, Santa Caterina i la Ribera
+","41.3881,2.18602"
+7747,1211,17225,Ciutadella Park,41.3881,2.18602,park,"Sant Pere, Santa Caterina i la Ribera
+","41.3881,2.18602"
+7752,1211,17225,Ciutadella Park,41.3881,2.18602,park,"Sant Pere, Santa Caterina i la Ribera
+","41.3881,2.18602"
+7142,282,24196,Water Walls,41.3906,2.19352,park,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.3906,2.19352"
+7143,282,24197,Water Walls,41.3906,2.19352,park,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.3906,2.19352"
+2917,1,9807,Plaça Reial,41.38,2.17504,route,"el Barri Gòtic
+","41.38,2.17504"
+6938,282,23636,Avenue Parallèle,41.3749,2.1632,route,"el Poble Sec i Montjuïc
+
+","41.3749,2.1632"
+7141,282,24186,Avinguda d'Icària,41.3911,2.1967,route,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.3911,2.1967"
+7882,1869,26383,Carrer del Rosselló,41.397,2.16226,route,"la Dreta de l'Eixample
+","41.397,2.16226"
+2504,138,8456,"Paseo Juan de Borbón, Barcelona, Spain",41.3734,2.18804,route,la Barceloneta,"41.3734,2.18804"
+6936,282,23632,Passeig de Joan de Borbó,41.3734,2.18804,route,la Barceloneta,"41.3734,2.18804"
+4737,54,16276,Carrer dels Templers,41.3817,2.17809,route,"el Barri Gòtic
+","41.3817,2.17809"
+4392,54,15172,Plaça de Sant Felip Neri,41.3834,2.17505,route,"el Barri Gòtic
+","41.3834,2.17505"
+4393,54,15173,Plaça de Sant Felip Neri,41.3834,2.17505,route,"el Barri Gòtic
+","41.3834,2.17505"
+4725,54,15172,Plaça de Sant Felip Neri,41.3834,2.17505,route,"el Barri Gòtic
+","41.3834,2.17505"
+6868,150,23425,Plaça de Sant Felip Neri,41.3834,2.17505,route,"el Barri Gòtic
+","41.3834,2.17505"
+6863,150,23409,Plaça de les Olles,41.3837,2.18324,route,"Sant Pere, Santa Caterina i la Ribera
+","41.3837,2.18324"
+7654,1428,25604,Carrer de la Volta dels Tamborets,41.3839,2.18257,route,"Sant Pere, Santa Caterina i la Ribera
+","41.3839,2.18257"
+7655,1428,25604,Carrer de la Volta dels Tamborets,41.3839,2.18257,route,"Sant Pere, Santa Caterina i la Ribera
+","41.3839,2.18257"
+2995,1,10214,Plaça de Ramon Berenguer el Gran,41.3843,2.17763,route,"el Barri Gòtic
+","41.3843,2.17763"
+6865,150,23419,Carrer de l'Arc de Sant Vicenç,41.3847,2.18183,route,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18183"
+3633,81,12468,Passeig del Born,41.3847,2.18286,route,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18286"
+1820,60,3095,"Plaça d'Isidre Nonell, Barcelona, Spain",41.3851,2.17492,route,"el Barri Gòtic
+","41.3851,2.17492"
+5151,312,17664,Plaça d'Isidre Nonell,41.3851,2.17492,route,"el Barri Gòtic
+","41.3851,2.17492"
+7038,312,17664,Plaça d'Isidre Nonell,41.3851,2.17492,route,"el Barri Gòtic
+","41.3851,2.17492"
+7761,1211,3095,"Plaça d'Isidre Nonell, Barcelona, Spain",41.3851,2.17492,route,"el Barri Gòtic
+","41.3851,2.17492"
+729,59,2759,"Plaça de la Universitat, Barcelona, Spain",41.3856,2.16426,route,"Sant Antoni
+","41.3856,2.16426"
+2890,54,9748,La Rambla,41.3856,2.16982,route,"la Dreta de l'Eixample
+","41.3856,2.16982"
+2891,54,9749,La Rambla,41.3856,2.16982,route,"la Dreta de l'Eixample
+","41.3856,2.16982"
+4272,60,14737,La Rambla,41.3856,2.16982,route,"la Dreta de l'Eixample
+","41.3856,2.16982"
+1545,54,5270,"Avinguda del Portal de l'Àngel, Barcelona, Spain",41.3858,2.17275,route,"el Barri Gòtic
+","41.3858,2.17275"
+7906,1776,26455,Plaça de Catalunya,41.3866,2.16939,route,"la Dreta de l'Eixample
+","41.3866,2.16939"
+5740,85,19484,Rambla de Catalunya,41.3919,2.16221,route,"la Dreta de l'Eixample
+","41.3919,2.16221"
+1110,54,3791,"Passeig de Gràcia, Barcelona, Spain",41.3927,2.16459,route,"la Dreta de l'Eixample
+","41.3927,2.16459"
+1538,54,3791,"Passeig de Gràcia, Barcelona, Spain",41.3927,2.16459,route,"la Dreta de l'Eixample
+","41.3927,2.16459"
+1818,60,3791,"Passeig de Gràcia, Barcelona, Spain",41.3927,2.16459,route,"la Dreta de l'Eixample
+","41.3927,2.16459"
+2601,159,3791,"Passeig de Gràcia, Barcelona, Spain",41.3927,2.16459,route,"la Dreta de l'Eixample
+","41.3927,2.16459"
+6948,282,23669,Passeig de Gràcia,41.3927,2.16459,route,"la Dreta de l'Eixample
+","41.3927,2.16459"
+6610,135,22575,Ronda del General Mitre,41.4018,2.13693,route,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.4018,2.13693"
+6288,282,21438,Carrer dels Quatre Camins,41.4105,2.13119,route,Sant Gervasi - la Bonanova i el Putget,"41.4105,2.13119"
+670,33,2512,"Carretera de les Aigües, Barcelona, Spain",41.4124,2.11934,route,Sarrià i les Tres Torres,"41.4124,2.11934"
+5232,856,17969,Carretera de les Aigües,41.4124,2.11941,route,Sarrià i les Tres Torres,"41.4124,2.11941"
+662,33,2513,"Plaça del Doctor Andreu, Barcelona, Spain",41.4158,2.12975,route,Sant Gervasi - la Bonanova i el Putget,"41.4158,2.12975"
+7807,1923,26038,Passatge del Dipòsit,41.4173,2.16169,route,"el Carmel i Can Baró
+
+","41.4173,2.16169"
+7643,1428,25552,Brunells,41.3854,2.18068,bakery,"Sant Pere, Santa Caterina i la Ribera
+","41.3854,2.18068"
+7081,1428,23985,Demasié,41.3856,2.18094,bakery,"Sant Pere, Santa Caterina i la Ribera
+","41.3856,2.18094"
+6350,314,21654,DeLaCrem,41.3879,2.16194,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3879,2.16194"
+3378,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3402,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3403,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3404,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3405,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3406,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3407,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3408,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3409,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3410,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3411,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3412,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3413,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3414,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3415,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3416,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3417,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3418,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3419,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3421,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+3422,262,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+7501,312,11534,COOKONA,41.3914,2.15505,bakery,"l'Antiga Esquerra de l'Eixample
+","41.3914,2.15505"
+429,68,1701,"Moco Museum Barcelona, Carrer de Montcada, Barcelona, Spain",41.3847,2.18156,museum,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18156"
+1226,61,1701,"Moco Museum Barcelona, Carrer de Montcada, Barcelona, Spain",41.3847,2.18156,museum,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18156"
+1228,61,1701,"Moco Museum Barcelona, Carrer de Montcada, Barcelona, Spain",41.3847,2.18156,museum,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18156"
+1896,61,1701,"Moco Museum Barcelona, Carrer de Montcada, Barcelona, Spain",41.3847,2.18156,museum,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18156"
+4434,155,1701,"Moco Museum Barcelona, Carrer de Montcada, Barcelona, Spain",41.3847,2.18156,museum,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18156"
+4435,155,1701,"Moco Museum Barcelona, Carrer de Montcada, Barcelona, Spain",41.3847,2.18156,museum,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18156"
+4436,155,1701,"Moco Museum Barcelona, Carrer de Montcada, Barcelona, Spain",41.3847,2.18156,museum,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18156"
+4889,255,1701,"Moco Museum Barcelona, Carrer de Montcada, Barcelona, Spain",41.3847,2.18156,museum,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18156"
+4893,255,1701,"Moco Museum Barcelona, Carrer de Montcada, Barcelona, Spain",41.3847,2.18156,museum,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18156"
+5150,312,1701,"Moco Museum Barcelona, Carrer de Montcada, Barcelona, Spain",41.3847,2.18156,museum,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18156"
+6954,282,1701,"Moco Museum Barcelona, Carrer de Montcada, Barcelona, Spain",41.3847,2.18156,museum,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18156"
+7574,1776,1701,"Moco Museum Barcelona, Carrer de Montcada, Barcelona, Spain",41.3847,2.18156,museum,"Sant Pere, Santa Caterina i la Ribera
+","41.3847,2.18156"
+4541,476,15563,Hotel Colón,41.385,2.17584,lodging,"el Barri Gòtic
+","41.385,2.17584"
+7892,2032,15563,Hotel Colón,41.385,2.17584,lodging,"el Barri Gòtic
+","41.385,2.17584"
+683,59,2562,"Hotel W Barcelona, Passeig de Joan de Borbó, Barcelona, Spain",41.3684,2.19015,lodging,la Barceloneta,"41.3684,2.19015"
+685,59,2562,"Hotel W Barcelona, Passeig de Joan de Borbó, Barcelona, Spain",41.3684,2.19015,lodging,la Barceloneta,"41.3684,2.19015"
+2503,138,2562,"Hotel W Barcelona, Passeig de Joan de Borbó, Barcelona, Spain",41.3684,2.19015,lodging,la Barceloneta,"41.3684,2.19015"
+2529,138,2562,"Hotel W Barcelona, Passeig de Joan de Borbó, Barcelona, Spain",41.3684,2.19015,lodging,la Barceloneta,"41.3684,2.19015"
+2530,138,2562,"Hotel W Barcelona, Passeig de Joan de Borbó, Barcelona, Spain",41.3684,2.19015,lodging,la Barceloneta,"41.3684,2.19015"
+6896,856,2562,"Hotel W Barcelona, Passeig de Joan de Borbó, Barcelona, Spain",41.3684,2.19015,lodging,la Barceloneta,"41.3684,2.19015"
+7140,282,2562,"Hotel W Barcelona, Passeig de Joan de Borbó, Barcelona, Spain",41.3684,2.19015,lodging,la Barceloneta,"41.3684,2.19015"
+5036,490,17228,Hotel NH Collection Barcelona Gran Hotel Calderón,41.3893,2.16604,lodging,"la Dreta de l'Eixample
+","41.3893,2.16604"
+1106,54,3245,"Pg. de Gràcia, 24, 08007 Barcelona, Spain",41.3902,2.16795,lodging,"la Dreta de l'Eixample
+","41.3902,2.16795"
+3536,85,12053,Hotel Vincci Mae,41.3935,2.14598,lodging,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3935,2.14598"
+7356,1096,12053,Hotel Vincci Mae,41.3935,2.14598,lodging,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3935,2.14598"
+1194,108,458,"Las Arenas, Barcelona, Spain",41.365,2.1492,premise,"el Poble Sec i Montjuïc
+
+","41.365,2.1492"
+1807,59,458,"Las Arenas, Barcelona, Spain",41.365,2.1492,premise,"el Poble Sec i Montjuïc
+
+","41.365,2.1492"
+4648,1,10670,Mercat del Born,41.3854,2.1841,premise,"Sant Pere, Santa Caterina i la Ribera
+","41.3854,2.1841"
+489,60,440,Arc de Triomf,41.391,2.18066,premise,"Sant Pere, Santa Caterina i la Ribera
+","41.391,2.18066"
+1040,54,440,Arc de Triomf,41.391,2.18066,premise,"Sant Pere, Santa Caterina i la Ribera
+","41.391,2.18066"
+1042,54,440,Arc de Triomf,41.391,2.18066,premise,"Sant Pere, Santa Caterina i la Ribera
+","41.391,2.18066"
+1615,60,440,Arc de Triomf,41.391,2.18066,premise,"Sant Pere, Santa Caterina i la Ribera
+","41.391,2.18066"
+1801,154,6065,"C. de Floridablanca, 119, 08011 Barcelona, Spain",41.3808,2.16126,premise,"Sant Antoni
+","41.3808,2.16126"
+3626,81,10211,Palau Reial Major,41.3842,2.17756,premise,"el Barri Gòtic
+","41.3842,2.17756"
+2107,54,1423,Edifici històric de la Universitat de Barcelona,41.3865,2.16367,premise,"l'Antiga Esquerra de l'Eixample
+","41.3865,2.16367"
+2108,54,1423,Edifici històric de la Universitat de Barcelona,41.3865,2.16367,premise,"l'Antiga Esquerra de l'Eixample
+","41.3865,2.16367"
+2109,54,1423,Edifici històric de la Universitat de Barcelona,41.3865,2.16367,premise,"l'Antiga Esquerra de l'Eixample
+","41.3865,2.16367"
+2110,54,1423,Edifici històric de la Universitat de Barcelona,41.3865,2.16367,premise,"l'Antiga Esquerra de l'Eixample
+","41.3865,2.16367"
+5432,59,18408,Palau Blaugrana,41.3801,2.12013,stadium,"la Maternitat i Sant Ramon
+","41.3801,2.12013"
+5433,59,18408,Palau Blaugrana,41.3801,2.12013,stadium,"la Maternitat i Sant Ramon
+","41.3801,2.12013"
+5434,59,18408,Palau Blaugrana,41.3801,2.12013,stadium,"la Maternitat i Sant Ramon
+","41.3801,2.12013"
+214,1,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+215,1,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+216,1,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+1796,115,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+1797,115,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+1798,115,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+1799,115,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+1800,115,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+2101,175,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+2102,175,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+2880,54,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+2881,54,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+2882,54,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+2883,54,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+2884,54,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+2885,54,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+2886,54,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+5743,85,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+7452,518,858,"C. d'Arístides Maillol, 12, 08028 Barcelona, Spain",41.3809,2.12282,stadium,"la Maternitat i Sant Ramon
+","41.3809,2.12282"
+5792,54,19439,Aquàrium Barcelona,41.3768,2.18434,aquarium,"el Barri Gòtic
+","41.3768,2.18434"
+5793,54,19439,Aquàrium Barcelona,41.3768,2.18434,aquarium,"el Barri Gòtic
+","41.3768,2.18434"
+5794,54,19439,Aquàrium Barcelona,41.3768,2.18434,aquarium,"el Barri Gòtic
+","41.3768,2.18434"
+5795,54,19439,Aquàrium Barcelona,41.3768,2.18434,aquarium,"el Barri Gòtic
+","41.3768,2.18434"
+5796,54,19439,Aquàrium Barcelona,41.3768,2.18434,aquarium,"el Barri Gòtic
+","41.3768,2.18434"
+5797,54,19439,Aquàrium Barcelona,41.3768,2.18434,aquarium,"el Barri Gòtic
+","41.3768,2.18434"
+6266,54,19439,Aquàrium Barcelona,41.3768,2.18434,aquarium,"el Barri Gòtic
+","41.3768,2.18434"
+6267,54,19439,Aquàrium Barcelona,41.3768,2.18434,aquarium,"el Barri Gòtic
+","41.3768,2.18434"
+6268,54,19439,Aquàrium Barcelona,41.3768,2.18434,aquarium,"el Barri Gòtic
+","41.3768,2.18434"
+6269,54,19439,Aquàrium Barcelona,41.3768,2.18434,aquarium,"el Barri Gòtic
+","41.3768,2.18434"
+6270,54,19439,Aquàrium Barcelona,41.3768,2.18434,aquarium,"el Barri Gòtic
+","41.3768,2.18434"
+487,60,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+488,60,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+627,75,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+3260,31,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+4161,315,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+4965,109,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+5042,490,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+5435,1137,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+5730,377,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+5787,644,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+5788,644,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+5789,644,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+6505,1270,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+7739,1211,433,Barcelona,41.3874,2.16857,locality,"la Dreta de l'Eixample
+","41.3874,2.16857"
+5039,490,17236,The Bunker,41.3897,2.174,night_club,"la Dreta de l'Eixample
+","41.3897,2.174"
+5040,490,17238,CDLC Barcelona (Carpe Diem),41.385,2.19627,night_club,la Barceloneta,"41.385,2.19627"
+5041,490,17238,CDLC Barcelona (Carpe Diem),41.385,2.19627,night_club,la Barceloneta,"41.385,2.19627"
+1666,59,5639,"Carrer de Tuset, 13, 08006 Barcelona, Spain",41.396,2.15163,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.396,2.15163"
+2410,160,5639,"Carrer de Tuset, 13, 08006 Barcelona, Spain",41.396,2.15163,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.396,2.15163"
+2411,160,5639,"Carrer de Tuset, 13, 08006 Barcelona, Spain",41.396,2.15163,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.396,2.15163"
+2580,59,5639,"Carrer de Tuset, 13, 08006 Barcelona, Spain",41.396,2.15163,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.396,2.15163"
+5046,490,17247,La Terrrazza,41.3688,2.14937,night_club,"el Poble Sec i Montjuïc
+
+","41.3688,2.14937"
+920,30,3336,"Pl. Reial, 17, 08002 Barcelona, Spain",41.3797,2.17522,night_club,"el Barri Gòtic
+","41.3797,2.17522"
+2664,160,8970,Opium Barcelona Restaurant and Club,41.3853,2.19678,night_club,la Barceloneta,"41.3853,2.19678"
+2654,160,8951,Shôko,41.3855,2.19698,night_club,la Barceloneta,"41.3855,2.19698"
+2655,160,8951,Shôko,41.3855,2.19698,night_club,la Barceloneta,"41.3855,2.19698"
+2662,160,8951,Shôko,41.3855,2.19698,night_club,la Barceloneta,"41.3855,2.19698"
+1665,59,5633,"Carrer de Ramon Trias Fargas, 2, 08005 Barcelona, Spain",41.3857,2.19706,night_club,la Barceloneta,"41.3857,2.19706"
+1341,117,4773,"Milano Jazz Club, Ronda de la Universitat, Barcelona, Spain",41.3872,2.16768,night_club,"la Dreta de l'Eixample
+","41.3872,2.16768"
+7758,1211,25857,Sky Bar Hotel Iberostar,41.3878,2.16927,night_club,"la Dreta de l'Eixample
+","41.3878,2.16927"
+2857,33,9700,Sala Bikini Barcelona,41.3899,2.13678,night_club,"les Corts
+","41.3899,2.13678"
+6379,59,21715,La Biblio Barcelona,41.3955,2.15223,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3955,2.15223"
+748,59,2818,"Carrer de Tuset, 8, 08006 Barcelona, Spain",41.3955,2.15271,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3955,2.15271"
+1809,59,6090,"WOLF Barcelona, Carrer dels Almogàvers, Barcelona, Spain",41.3959,2.18859,night_club,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.3959,2.18859"
+2262,160,7641,"Gatsby Barcelona, Carrer de Tuset, Barcelona, Spain",41.3962,2.15141,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3962,2.15141"
+2266,160,7641,"Gatsby Barcelona, Carrer de Tuset, Barcelona, Spain",41.3962,2.15141,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3962,2.15141"
+2267,160,7641,"Gatsby Barcelona, Carrer de Tuset, Barcelona, Spain",41.3962,2.15141,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3962,2.15141"
+2268,160,7641,"Gatsby Barcelona, Carrer de Tuset, Barcelona, Spain",41.3962,2.15141,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3962,2.15141"
+2652,160,7641,"Gatsby Barcelona, Carrer de Tuset, Barcelona, Spain",41.3962,2.15141,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3962,2.15141"
+2660,160,7641,"Gatsby Barcelona, Carrer de Tuset, Barcelona, Spain",41.3962,2.15141,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3962,2.15141"
+2661,160,7641,"Gatsby Barcelona, Carrer de Tuset, Barcelona, Spain",41.3962,2.15141,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3962,2.15141"
+2667,160,7641,"Gatsby Barcelona, Carrer de Tuset, Barcelona, Spain",41.3962,2.15141,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3962,2.15141"
+2668,160,7641,"Gatsby Barcelona, Carrer de Tuset, Barcelona, Spain",41.3962,2.15141,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3962,2.15141"
+2669,160,7641,"Gatsby Barcelona, Carrer de Tuset, Barcelona, Spain",41.3962,2.15141,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3962,2.15141"
+2693,160,7641,"Gatsby Barcelona, Carrer de Tuset, Barcelona, Spain",41.3962,2.15141,night_club,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3962,2.15141"
+1663,59,5621,"C/ dels Almogàvers, 122, 08018 Barcelona, Spain",41.3977,2.19111,night_club,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.3977,2.19111"
+3812,54,13064,Vegan Junk Food Bar,41.3833,2.1804,restaurant,"Sant Pere, Santa Caterina i la Ribera
+","41.3833,2.1804"
+3813,54,13064,Vegan Junk Food Bar,41.3833,2.1804,restaurant,"Sant Pere, Santa Caterina i la Ribera
+","41.3833,2.1804"
+3814,54,13064,Vegan Junk Food Bar,41.3833,2.1804,restaurant,"Sant Pere, Santa Caterina i la Ribera
+","41.3833,2.1804"
+2858,33,9701,Majide,41.385,2.16756,restaurant,"el Raval
+","41.385,2.16756"
+2627,118,8880,"Disfrutar, Carrer de Villarroel, Barcelona, Spain",41.3878,2.1532,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3878,2.1532"
+1112,54,3792,"Oassis Natural Cooking, Passeig de Gràcia, Barcelona, Spain",41.3902,2.1679,restaurant,"la Dreta de l'Eixample
+","41.3902,2.1679"
+4449,155,15293,Restaurant Negro Rojo,41.3909,2.1352,restaurant,"les Corts
+","41.3909,2.1352"
+6783,59,15293,Restaurant Negro Rojo,41.3909,2.1352,restaurant,"les Corts
+","41.3909,2.1352"
+1723,138,5859,"Carrer de Còrsega, 200, 08036 Barcelona, Spain",41.391,2.15233,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.391,2.15233"
+1724,138,5859,"Carrer de Còrsega, 200, 08036 Barcelona, Spain",41.391,2.15233,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.391,2.15233"
+1725,138,5859,"Carrer de Còrsega, 200, 08036 Barcelona, Spain",41.391,2.15233,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.391,2.15233"
+1726,138,5859,"Carrer de Còrsega, 200, 08036 Barcelona, Spain",41.391,2.15233,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.391,2.15233"
+1727,138,5859,"Carrer de Còrsega, 200, 08036 Barcelona, Spain",41.391,2.15233,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.391,2.15233"
+1728,138,5859,"Carrer de Còrsega, 200, 08036 Barcelona, Spain",41.391,2.15233,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.391,2.15233"
+1729,138,5859,"Carrer de Còrsega, 200, 08036 Barcelona, Spain",41.391,2.15233,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.391,2.15233"
+1732,138,5859,"Carrer de Còrsega, 200, 08036 Barcelona, Spain",41.391,2.15233,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.391,2.15233"
+1733,138,5859,"Carrer de Còrsega, 200, 08036 Barcelona, Spain",41.391,2.15233,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.391,2.15233"
+1737,138,5859,"Carrer de Còrsega, 200, 08036 Barcelona, Spain",41.391,2.15233,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.391,2.15233"
+1738,138,5859,"Carrer de Còrsega, 200, 08036 Barcelona, Spain",41.391,2.15233,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.391,2.15233"
+1739,138,5859,"Carrer de Còrsega, 200, 08036 Barcelona, Spain",41.391,2.15233,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.391,2.15233"
+1774,138,5859,"Carrer de Còrsega, 200, 08036 Barcelona, Spain",41.391,2.15233,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.391,2.15233"
+2412,160,8259,"Restaurant Salvaje, Carrer d'Enric Granados, Barcelona, Spain",41.393,2.15592,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.393,2.15592"
+2413,160,8260,"Restaurant Salvaje, Carrer d'Enric Granados, Barcelona, Spain",41.393,2.15592,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.393,2.15592"
+4605,61,15770,Hotpot de Sichuan,41.3941,2.1752,restaurant,"la Dreta de l'Eixample
+","41.3941,2.1752"
+6975,279,23745,Kook,41.398,2.17102,restaurant,"la Dreta de l'Eixample
+","41.398,2.17102"
+3638,54,12437,LA BURRATA,41.4009,2.1477,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.4009,2.1477"
+3639,54,12437,LA BURRATA,41.4009,2.1477,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.4009,2.1477"
+3640,54,12437,LA BURRATA,41.4009,2.1477,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.4009,2.1477"
+3641,54,12437,LA BURRATA,41.4009,2.1477,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.4009,2.1477"
+3642,54,12437,LA BURRATA,41.4009,2.1477,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.4009,2.1477"
+4983,349,17047,Peix Vela,41.3691,2.19046,restaurant,la Barceloneta,"41.3691,2.19046"
+5761,85,19522,Terraza Martínez,41.3696,2.17246,restaurant,"el Poble Sec i Montjuïc
+
+","41.3696,2.17246"
+1997,173,6754,"Rambla del Raval, 2, 08001 Barcelona, Spain",41.3794,2.16798,restaurant,"el Raval
+","41.3794,2.16798"
+2003,173,6754,"Rambla del Raval, 2, 08001 Barcelona, Spain",41.3794,2.16798,restaurant,"el Raval
+","41.3794,2.16798"
+2009,173,6754,"Rambla del Raval, 2, 08001 Barcelona, Spain",41.3794,2.16798,restaurant,"el Raval
+","41.3794,2.16798"
+2019,173,6754,"Rambla del Raval, 2, 08001 Barcelona, Spain",41.3794,2.16798,restaurant,"el Raval
+","41.3794,2.16798"
+3504,81,6754,"Rambla del Raval, 2, 08001 Barcelona, Spain",41.3794,2.16798,restaurant,"el Raval
+","41.3794,2.16798"
+3505,81,6754,"Rambla del Raval, 2, 08001 Barcelona, Spain",41.3794,2.16798,restaurant,"el Raval
+","41.3794,2.16798"
+3506,81,6754,"Rambla del Raval, 2, 08001 Barcelona, Spain",41.3794,2.16798,restaurant,"el Raval
+","41.3794,2.16798"
+3508,81,6754,"Rambla del Raval, 2, 08001 Barcelona, Spain",41.3794,2.16798,restaurant,"el Raval
+","41.3794,2.16798"
+4528,81,6754,"Rambla del Raval, 2, 08001 Barcelona, Spain",41.3794,2.16798,restaurant,"el Raval
+","41.3794,2.16798"
+6955,282,23686,Grasshopper Ramen Bar,41.3851,2.17927,restaurant,"Sant Pere, Santa Caterina i la Ribera
+","41.3851,2.17927"
+7653,1428,25603,La Plassohla restaurant,41.3869,2.17426,restaurant,"el Barri Gòtic
+","41.3869,2.17426"
+7656,1428,25603,La Plassohla restaurant,41.3869,2.17426,restaurant,"el Barri Gòtic
+","41.3869,2.17426"
+7657,1428,25603,La Plassohla restaurant,41.3869,2.17426,restaurant,"el Barri Gòtic
+","41.3869,2.17426"
+7475,255,25070,Billy Brunch & Garden,41.3871,2.15924,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3871,2.15924"
+1425,54,4955,"Carrer d'Aribau, 39, 08011 Barcelona, Spain",41.3877,2.16009,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3877,2.16009"
+1426,54,4955,"Carrer d'Aribau, 39, 08011 Barcelona, Spain",41.3877,2.16009,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3877,2.16009"
+1427,54,4955,"Carrer d'Aribau, 39, 08011 Barcelona, Spain",41.3877,2.16009,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3877,2.16009"
+1428,54,4955,"Carrer d'Aribau, 39, 08011 Barcelona, Spain",41.3877,2.16009,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3877,2.16009"
+1429,115,4955,"Carrer d'Aribau, 39, 08011 Barcelona, Spain",41.3877,2.16009,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3877,2.16009"
+1430,115,4955,"Carrer d'Aribau, 39, 08011 Barcelona, Spain",41.3877,2.16009,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3877,2.16009"
+7805,1978,26030,Restaurant Belbo Dos Besos,41.3881,2.16717,restaurant,"la Dreta de l'Eixample
+","41.3881,2.16717"
+1189,108,3996,"C. del Consell de Cent, 303, 08007 Barcelona, Spain",41.3888,2.16246,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3888,2.16246"
+2584,138,8730,"Carrer del Dr. Ferran, 23, 08034 Barcelona, Spain",41.3895,2.12437,restaurant,Pedralbes,"41.3895,2.12437"
+2585,138,8730,"Carrer del Dr. Ferran, 23, 08034 Barcelona, Spain",41.3895,2.12437,restaurant,Pedralbes,"41.3895,2.12437"
+2586,138,8730,"Carrer del Dr. Ferran, 23, 08034 Barcelona, Spain",41.3895,2.12437,restaurant,Pedralbes,"41.3895,2.12437"
+2587,138,8730,"Carrer del Dr. Ferran, 23, 08034 Barcelona, Spain",41.3895,2.12437,restaurant,Pedralbes,"41.3895,2.12437"
+2588,138,8730,"Carrer del Dr. Ferran, 23, 08034 Barcelona, Spain",41.3895,2.12437,restaurant,Pedralbes,"41.3895,2.12437"
+2589,138,8730,"Carrer del Dr. Ferran, 23, 08034 Barcelona, Spain",41.3895,2.12437,restaurant,Pedralbes,"41.3895,2.12437"
+2590,138,8730,"Carrer del Dr. Ferran, 23, 08034 Barcelona, Spain",41.3895,2.12437,restaurant,Pedralbes,"41.3895,2.12437"
+2591,138,8730,"Carrer del Dr. Ferran, 23, 08034 Barcelona, Spain",41.3895,2.12437,restaurant,Pedralbes,"41.3895,2.12437"
+2592,138,8730,"Carrer del Dr. Ferran, 23, 08034 Barcelona, Spain",41.3895,2.12437,restaurant,Pedralbes,"41.3895,2.12437"
+2593,138,8730,"Carrer del Dr. Ferran, 23, 08034 Barcelona, Spain",41.3895,2.12437,restaurant,Pedralbes,"41.3895,2.12437"
+2594,138,8730,"Carrer del Dr. Ferran, 23, 08034 Barcelona, Spain",41.3895,2.12437,restaurant,Pedralbes,"41.3895,2.12437"
+3921,255,13492,AH-UN Japanese Yakiniku & Sushi Restaurant,41.3895,2.16222,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3895,2.16222"
+1821,60,6119,"65 Degrees Barcelona, Carrer del Davant del Portal Nou, Barcelona, Spain",41.3898,2.18058,restaurant,"Sant Pere, Santa Caterina i la Ribera
+","41.3898,2.18058"
+1104,54,3242,"El Nacional, Passeig de Gràcia, Barcelona, Spain",41.3906,2.16839,restaurant,"la Dreta de l'Eixample
+","41.3906,2.16839"
+1107,54,3242,"El Nacional, Passeig de Gràcia, Barcelona, Spain",41.3906,2.16839,restaurant,"la Dreta de l'Eixample
+","41.3906,2.16839"
+7595,314,25439,China Crown,41.3909,2.17308,restaurant,"la Dreta de l'Eixample
+","41.3909,2.17308"
+4270,59,14725,Casa Carmen Illa,41.3911,2.13589,restaurant,"les Corts
+","41.3911,2.13589"
+6076,61,20700,El Mexicà de Barcelona,41.3911,2.14882,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3911,2.14882"
+6077,61,20700,El Mexicà de Barcelona,41.3911,2.14882,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3911,2.14882"
+1101,54,3782,"Pg. de Gràcia, 41, 08007 Barcelona, Spain",41.3914,2.16486,restaurant,"la Dreta de l'Eixample
+","41.3914,2.16486"
+1103,54,3782,"Pg. de Gràcia, 41, 08007 Barcelona, Spain",41.3914,2.16486,restaurant,"la Dreta de l'Eixample
+","41.3914,2.16486"
+7260,1776,3782,"Pg. de Gràcia, 41, 08007 Barcelona, Spain",41.3914,2.16486,restaurant,"la Dreta de l'Eixample
+","41.3914,2.16486"
+1664,59,5626,"Carrer del Dr. Fleming, 11, 08017 Barcelona, Spain",41.3927,2.13522,restaurant,Sarrià i les Tres Torres,"41.3927,2.13522"
+5225,312,5626,"Carrer del Dr. Fleming, 11, 08017 Barcelona, Spain",41.3927,2.13522,restaurant,Sarrià i les Tres Torres,"41.3927,2.13522"
+5570,85,18872,Xiringuito Escribà,41.3935,2.20536,restaurant,"el Poblenou i Diagonal Mar
+
+","41.3935,2.20536"
+5448,31,18470,Ceviche 103,41.3936,2.15064,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3936,2.15064"
+5449,31,18470,Ceviche 103,41.3936,2.15064,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3936,2.15064"
+5450,31,18470,Ceviche 103,41.3936,2.15064,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3936,2.15064"
+5451,31,18470,Ceviche 103,41.3936,2.15064,restaurant,"l'Antiga Esquerra de l'Eixample
+","41.3936,2.15064"
+1152,54,3817,"Spicy Soul Hot Pot, Carrer de Girona, Barcelona, Spain",41.3936,2.17255,restaurant,"la Dreta de l'Eixample
+","41.3936,2.17255"
+1153,54,3816,"Spicy Soul Hot Pot, Carrer de Girona, Barcelona, Spain",41.3936,2.17255,restaurant,"la Dreta de l'Eixample
+","41.3936,2.17255"
+1154,54,3816,"Spicy Soul Hot Pot, Carrer de Girona, Barcelona, Spain",41.3936,2.17255,restaurant,"la Dreta de l'Eixample
+","41.3936,2.17255"
+4735,54,3816,"Spicy Soul Hot Pot, Carrer de Girona, Barcelona, Spain",41.3936,2.17255,restaurant,"la Dreta de l'Eixample
+","41.3936,2.17255"
+4736,54,3816,"Spicy Soul Hot Pot, Carrer de Girona, Barcelona, Spain",41.3936,2.17255,restaurant,"la Dreta de l'Eixample
+","41.3936,2.17255"
+4738,54,3816,"Spicy Soul Hot Pot, Carrer de Girona, Barcelona, Spain",41.3936,2.17255,restaurant,"la Dreta de l'Eixample
+","41.3936,2.17255"
+4739,54,3816,"Spicy Soul Hot Pot, Carrer de Girona, Barcelona, Spain",41.3936,2.17255,restaurant,"la Dreta de l'Eixample
+","41.3936,2.17255"
+4740,54,3816,"Spicy Soul Hot Pot, Carrer de Girona, Barcelona, Spain",41.3936,2.17255,restaurant,"la Dreta de l'Eixample
+","41.3936,2.17255"
+5745,85,12065,Fucsia,41.3956,2.14352,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3956,2.14352"
+5753,85,12065,Fucsia,41.3956,2.14352,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3956,2.14352"
+5754,85,12065,Fucsia,41.3956,2.14352,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3956,2.14352"
+4426,31,15252,Fan Dim Sum,41.3956,2.14375,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3956,2.14375"
+4427,31,15253,Fan Dim Sum,41.3956,2.14375,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3956,2.14375"
+5614,85,15252,Fan Dim Sum,41.3956,2.14375,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3956,2.14375"
+5615,85,15252,Fan Dim Sum,41.3956,2.14375,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3956,2.14375"
+2014,59,6804,"Fishpac, Carrer de Laforja, Barcelona, Spain",41.3958,2.14428,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3958,2.14428"
+2015,59,6805,"Fishpac, Carrer de Laforja, Barcelona, Spain",41.3958,2.14428,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3958,2.14428"
+2016,59,6806,"Fishpac, Carrer de Laforja, Barcelona, Spain",41.3958,2.14428,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3958,2.14428"
+2017,59,6803,"Fishpac, Carrer de Laforja, Barcelona, Spain",41.3958,2.14428,restaurant,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3958,2.14428"
+5738,85,19483,Les Filles Cafè,41.3962,2.15689,restaurant,"la Vila de Gràcia
+","41.3962,2.15689"
+2670,1,8979,Casa Amalia Restaurant,41.3963,2.16852,restaurant,"la Dreta de l'Eixample
+","41.3963,2.16852"
+2671,1,8979,Casa Amalia Restaurant,41.3963,2.16852,restaurant,"la Dreta de l'Eixample
+","41.3963,2.16852"
+2672,1,8979,Casa Amalia Restaurant,41.3963,2.16852,restaurant,"la Dreta de l'Eixample
+","41.3963,2.16852"
+2673,1,8979,Casa Amalia Restaurant,41.3963,2.16852,restaurant,"la Dreta de l'Eixample
+","41.3963,2.16852"
+2674,1,8979,Casa Amalia Restaurant,41.3963,2.16852,restaurant,"la Dreta de l'Eixample
+","41.3963,2.16852"
+2926,1,8979,Casa Amalia Restaurant,41.3963,2.16852,restaurant,"la Dreta de l'Eixample
+","41.3963,2.16852"
+5938,314,8979,Casa Amalia Restaurant,41.3963,2.16852,restaurant,"la Dreta de l'Eixample
+","41.3963,2.16852"
+1612,60,5490,"Parking Pizza - Parking Pita, Passeig de Sant Joan, Barcelona, Spain",41.3963,2.17411,restaurant,"la Dreta de l'Eixample
+","41.3963,2.17411"
+1056,54,2248,"Hammock Juice Station, Carrer de Mallorca, Barcelona, Spain",41.3972,2.16718,restaurant,"la Dreta de l'Eixample
+","41.3972,2.16718"
+1084,59,3747,"Yoüme, Carrer de Roger de Flor, Barcelona, Spain",41.3991,2.17238,restaurant,"la Dreta de l'Eixample
+","41.3991,2.17238"
+7738,1211,25840,Baby Jalebi,41.4009,2.15771,restaurant,"la Vila de Gràcia
+","41.4009,2.15771"
+660,33,2511,"Passatge de Simó, 18, 08025 Barcelona, Spain",41.4045,2.17344,restaurant,la Sagrada Família,"41.4045,2.17344"
+6605,135,22555,SENSATO Restaurant,41.4052,2.14678,restaurant,Sant Gervasi - la Bonanova i el Putget,"41.4052,2.14678"
+2581,59,8719,"Carrer de Joan Torras, 26, 08030 Barcelona, Spain",41.4376,2.19076,restaurant,Sant Andreu,"41.4376,2.19076"
+4722,59,8719,"Carrer de Joan Torras, 26, 08030 Barcelona, Spain",41.4376,2.19076,restaurant,Sant Andreu,"41.4376,2.19076"
+4723,59,8719,"Carrer de Joan Torras, 26, 08030 Barcelona, Spain",41.4376,2.19076,restaurant,Sant Andreu,"41.4376,2.19076"
+6942,282,23656,Plaça d'Espanya,41.375,2.14912,town_square,"el Poble Sec i Montjuïc
+
+","41.375,2.14912"
+1070,54,3729,"Plaça de Terenci Moix, Barcelona, Spain",41.3841,2.16552,town_square,"el Raval
+","41.3841,2.16552"
+1071,54,3730,"Plaça de Terenci Moix, Barcelona, Spain",41.3841,2.16552,town_square,"el Raval
+","41.3841,2.16552"
+1073,54,3731,"Plaça de Terenci Moix, Barcelona, Spain",41.3841,2.16552,town_square,"el Raval
+","41.3841,2.16552"
+4966,109,10149,Sants,41.3754,2.1355,neighborhood,Sants i Badal,"41.3754,2.1355"
+586,68,842,La Barceloneta,41.3801,2.1897,neighborhood,la Barceloneta,"41.3801,2.1897"
+7051,59,842,La Barceloneta,41.3801,2.1897,neighborhood,la Barceloneta,"41.3801,2.1897"
+7052,59,842,La Barceloneta,41.3801,2.1897,neighborhood,la Barceloneta,"41.3801,2.1897"
+4364,54,2938,Gothic Quarter,41.3819,2.17731,neighborhood,"el Barri Gòtic
+","41.3819,2.17731"
+4391,54,2938,Gothic Quarter,41.3819,2.17731,neighborhood,"el Barri Gòtic
+","41.3819,2.17731"
+3500,1,1696,El Born,41.3843,2.18245,neighborhood,"Sant Pere, Santa Caterina i la Ribera
+","41.3843,2.18245"
+3617,81,1696,El Born,41.3843,2.18245,neighborhood,"Sant Pere, Santa Caterina i la Ribera
+","41.3843,2.18245"
+3625,81,1696,El Born,41.3843,2.18245,neighborhood,"Sant Pere, Santa Caterina i la Ribera
+","41.3843,2.18245"
+6869,150,1696,El Born,41.3843,2.18245,neighborhood,"Sant Pere, Santa Caterina i la Ribera
+","41.3843,2.18245"
+6968,150,1696,El Born,41.3843,2.18245,neighborhood,"Sant Pere, Santa Caterina i la Ribera
+","41.3843,2.18245"
+7745,1211,555,El Poblenou,41.4034,2.20288,neighborhood,"el Poblenou i Diagonal Mar
+
+","41.4034,2.20288"
+7746,1211,555,El Poblenou,41.4034,2.20288,neighborhood,"el Poblenou i Diagonal Mar
+
+","41.4034,2.20288"
+7760,1211,555,El Poblenou,41.4034,2.20288,neighborhood,"el Poblenou i Diagonal Mar
+
+","41.4034,2.20288"
+684,59,1430,Sagrada Família,41.4043,2.17467,neighborhood,la Sagrada Família,"41.4043,2.17467"
+1051,54,1430,Sagrada Família,41.4043,2.17467,neighborhood,la Sagrada Família,"41.4043,2.17467"
+6997,279,1430,Sagrada Família,41.4043,2.17467,neighborhood,la Sagrada Família,"41.4043,2.17467"
+8004,1977,1430,Sagrada Família,41.4043,2.17467,neighborhood,la Sagrada Família,"41.4043,2.17467"
+6953,282,23679,Shingané,41.386,2.14696,meal_delivery,la Nova Esquerra de l'Eixample,"41.386,2.14696"
+5508,31,18663,Grosso Napoletano,41.394,2.14725,meal_delivery,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.394,2.14725"
+959,101,3494,"Passeig de Joan de Borbó, 101, 08039 Barcelona, Spain",41.3689,2.18822,meal_delivery,la Barceloneta,"41.3689,2.18822"
+3627,81,12446,La Pizza Del Born,41.3846,2.18291,meal_delivery,"Sant Pere, Santa Caterina i la Ribera
+","41.3846,2.18291"
+743,59,2808,"Taller de Tapas, Rambla de Catalunya, Barcelona, Spain",41.3905,2.16398,meal_delivery,"la Dreta de l'Eixample
+","41.3905,2.16398"
+744,59,2808,"Taller de Tapas, Rambla de Catalunya, Barcelona, Spain",41.3905,2.16398,meal_delivery,"la Dreta de l'Eixample
+","41.3905,2.16398"
+745,59,2808,"Taller de Tapas, Rambla de Catalunya, Barcelona, Spain",41.3905,2.16398,meal_delivery,"la Dreta de l'Eixample
+","41.3905,2.16398"
+3618,81,12418,Sant Antoni Gloriós,41.3767,2.1608,meal_takeaway,"Sant Antoni
+","41.3767,2.1608"
+5507,31,18662,Grosso Napoletano,41.394,2.14725,meal_takeaway,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.394,2.14725"
+5572,85,18662,Grosso Napoletano,41.394,2.14725,meal_takeaway,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.394,2.14725"
+5718,85,18662,Grosso Napoletano,41.394,2.14725,meal_takeaway,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.394,2.14725"
+7652,1428,25600,Emporio,41.3872,2.17663,meal_takeaway,"Sant Pere, Santa Caterina i la Ribera
+","41.3872,2.17663"
+1009,54,559,"Carrer del Dr. Trueta, 196, 198, 08005 Barcelona, Spain",41.3978,2.20265,movie_theater,"el Poblenou i Diagonal Mar
+
+","41.3978,2.20265"
+1011,54,559,"Carrer del Dr. Trueta, 196, 198, 08005 Barcelona, Spain",41.3978,2.20265,movie_theater,"el Poblenou i Diagonal Mar
+
+","41.3978,2.20265"
+1012,54,559,"Carrer del Dr. Trueta, 196, 198, 08005 Barcelona, Spain",41.3978,2.20265,movie_theater,"el Poblenou i Diagonal Mar
+
+","41.3978,2.20265"
+1013,54,559,"Carrer del Dr. Trueta, 196, 198, 08005 Barcelona, Spain",41.3978,2.20265,movie_theater,"el Poblenou i Diagonal Mar
+
+","41.3978,2.20265"
+1014,54,559,"Carrer del Dr. Trueta, 196, 198, 08005 Barcelona, Spain",41.3978,2.20265,movie_theater,"el Poblenou i Diagonal Mar
+
+","41.3978,2.20265"
+1015,54,559,"Carrer del Dr. Trueta, 196, 198, 08005 Barcelona, Spain",41.3978,2.20265,movie_theater,"el Poblenou i Diagonal Mar
+
+","41.3978,2.20265"
+5369,31,18243,"Carrer de Santaló, 42",41.396,2.14552,street_address,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.396,2.14552"
+5409,31,18243,"Carrer de Santaló, 42",41.396,2.14552,street_address,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.396,2.14552"
+7644,1428,25558,"Carrer Comtal, 31",41.3868,2.17399,street_address,"el Barri Gòtic
+","41.3868,2.17399"
+1536,54,5243,"Pg. de Gràcia, 35, 08007 Barcelona, Spain",41.3912,2.16552,street_address,"la Dreta de l'Eixample
+","41.3912,2.16552"
+7751,1211,25843,Pl. Catalunya,41.3874,2.1697,subway_station,"la Dreta de l'Eixample
+","41.3874,2.1697"
+7144,282,24200,Llacuna,41.3992,2.19724,subway_station,"el Poblenou i Diagonal Mar
+
+","41.3992,2.19724"
+2232,114,7524,Mundet,41.4354,2.14778,subway_station,"els Barris de la Vall d'Hebron
+
+
+
+
+","41.4354,2.14778"
+2233,114,7524,Mundet,41.4354,2.14778,subway_station,"els Barris de la Vall d'Hebron
+
+
+
+
+","41.4354,2.14778"
+2234,114,7524,Mundet,41.4354,2.14778,subway_station,"els Barris de la Vall d'Hebron
+
+
+
+
+","41.4354,2.14778"
+2235,114,7524,Mundet,41.4354,2.14778,subway_station,"els Barris de la Vall d'Hebron
+
+
+
+
+","41.4354,2.14778"
+2236,114,7524,Mundet,41.4354,2.14778,subway_station,"els Barris de la Vall d'Hebron
+
+
+
+
+","41.4354,2.14778"
+7665,1211,25618,Montjuïc,41.364,2.16749,natural_feature,"el Poble Sec i Montjuïc
+
+","41.364,2.16749"
+7666,1211,25618,Montjuïc,41.364,2.16749,natural_feature,"el Poble Sec i Montjuïc
+
+","41.364,2.16749"
+7724,1211,25618,Montjuïc,41.364,2.16749,natural_feature,"el Poble Sec i Montjuïc
+
+","41.364,2.16749"
+7740,1211,25618,Montjuïc,41.364,2.16749,natural_feature,"el Poble Sec i Montjuïc
+
+","41.364,2.16749"
+7741,1211,25618,Montjuïc,41.364,2.16749,natural_feature,"el Poble Sec i Montjuïc
+
+","41.364,2.16749"
+7748,1211,25618,Montjuïc,41.364,2.16749,natural_feature,"el Poble Sec i Montjuïc
+
+","41.364,2.16749"
+7754,1211,25618,Montjuïc,41.364,2.16749,natural_feature,"el Poble Sec i Montjuïc
+
+","41.364,2.16749"
+7755,1211,25618,Montjuïc,41.364,2.16749,natural_feature,"el Poble Sec i Montjuïc
+
+","41.364,2.16749"
+7759,1211,25618,Montjuïc,41.364,2.16749,natural_feature,"el Poble Sec i Montjuïc
+
+","41.364,2.16749"
+587,68,2272,"Port Barcelona, Spain",41.3484,2.16772,natural_feature,"la Marina i la Zona Franca - Port
+
+
+","41.3484,2.16772"
+588,68,2272,"Port Barcelona, Spain",41.3484,2.16772,natural_feature,"la Marina i la Zona Franca - Port
+
+
+","41.3484,2.16772"
+209,1,849,"Playa de la Barceloneta, Spain",41.3784,2.19247,natural_feature,la Barceloneta,"41.3784,2.19247"
+210,1,851,"Playa de la Barceloneta, Spain",41.3784,2.19247,natural_feature,la Barceloneta,"41.3784,2.19247"
+211,1,850,"Playa de la Barceloneta, Spain",41.3784,2.19247,natural_feature,la Barceloneta,"41.3784,2.19247"
+212,1,849,"Playa de la Barceloneta, Spain",41.3784,2.19247,natural_feature,la Barceloneta,"41.3784,2.19247"
+1590,60,849,"Playa de la Barceloneta, Spain",41.3784,2.19247,natural_feature,la Barceloneta,"41.3784,2.19247"
+1611,60,849,"Playa de la Barceloneta, Spain",41.3784,2.19247,natural_feature,la Barceloneta,"41.3784,2.19247"
+1616,60,849,"Playa de la Barceloneta, Spain",41.3784,2.19247,natural_feature,la Barceloneta,"41.3784,2.19247"
+6137,282,849,"Playa de la Barceloneta, Spain",41.3784,2.19247,natural_feature,la Barceloneta,"41.3784,2.19247"
+6141,282,849,"Playa de la Barceloneta, Spain",41.3784,2.19247,natural_feature,la Barceloneta,"41.3784,2.19247"
+7381,255,849,"Playa de la Barceloneta, Spain",41.3784,2.19247,natural_feature,la Barceloneta,"41.3784,2.19247"
+7382,255,849,"Playa de la Barceloneta, Spain",41.3784,2.19247,natural_feature,la Barceloneta,"41.3784,2.19247"
+4991,110,17069,Playa de Bogatell,41.3944,2.20701,natural_feature,"el Poblenou i Diagonal Mar
+
+","41.3944,2.20701"
+6952,282,17069,Playa de Bogatell,41.3944,2.20701,natural_feature,"el Poblenou i Diagonal Mar
+
+","41.3944,2.20701"
+5892,255,20012,Platja de la Mar Bella,41.3987,2.21221,natural_feature,"el Poblenou i Diagonal Mar
+
+","41.3987,2.21221"
+5893,255,20012,Platja de la Mar Bella,41.3987,2.21221,natural_feature,"el Poblenou i Diagonal Mar
+
+","41.3987,2.21221"
+5768,255,11964,Tibidabo,41.4225,2.11861,natural_feature,"Vallvidrera, el Tibidabo i les Planes
+","41.4225,2.11861"
+5772,255,11964,Tibidabo,41.4225,2.11861,natural_feature,"Vallvidrera, el Tibidabo i les Planes
+","41.4225,2.11861"
+7096,1211,11964,Tibidabo,41.4225,2.11861,natural_feature,"Vallvidrera, el Tibidabo i les Planes
+","41.4225,2.11861"
+3922,255,13496,Ronda Universitat - Balmes,41.387,2.16478,transit_station,"l'Antiga Esquerra de l'Eixample
+","41.387,2.16478"
+2853,138,9684,Passeig De Gracia - Barcelona,41.391,2.16657,transit_station,"la Dreta de l'Eixample
+","41.391,2.16657"
+2854,138,9684,Passeig De Gracia - Barcelona,41.391,2.16657,transit_station,"la Dreta de l'Eixample
+","41.391,2.16657"
+2855,138,9684,Passeig De Gracia - Barcelona,41.391,2.16657,transit_station,"la Dreta de l'Eixample
+","41.391,2.16657"
+2872,138,9684,Passeig De Gracia - Barcelona,41.391,2.16657,transit_station,"la Dreta de l'Eixample
+","41.391,2.16657"
+2873,138,9684,Passeig De Gracia - Barcelona,41.391,2.16657,transit_station,"la Dreta de l'Eixample
+","41.391,2.16657"
+2874,138,9684,Passeig De Gracia - Barcelona,41.391,2.16657,transit_station,"la Dreta de l'Eixample
+","41.391,2.16657"
+5731,377,19446,ANELLA OLÍMPICA,41.3661,2.15386,transit_station,"el Poble Sec i Montjuïc
+
+","41.3661,2.15386"
+4425,31,15250,CAMP NOU (FC BARCELONA),41.3787,2.12086,transit_station,"la Maternitat i Sant Ramon
+","41.3787,2.12086"
+4852,255,16652,Francesc Macià,41.3922,2.14319,transit_station,"les Corts
+","41.3922,2.14319"
+2084,85,7077,Auditori | Teatre Nacional,41.3976,2.18693,transit_station,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.3976,2.18693"
+6992,25,23818,Fòrum,41.4118,2.21985,transit_station,"el Besòs, el Maresme i Provençals
+
+","41.4118,2.21985"
+7080,1428,23978,La Ceramicaria El Born,41.388,2.17629,point_of_interest,"Sant Pere, Santa Caterina i la Ribera
+","41.388,2.17629"
+7145,282,24208,Olympic Statue,41.389,2.19383,point_of_interest,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.389,2.19383"
+5492,85,18611,Wonder Coffee,41.3967,2.1422,point_of_interest,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3967,2.1422"
+4049,60,13974,Bloc District Barcelona,41.397,2.18871,point_of_interest,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.397,2.18871"
+6142,282,20928,Port Barcelona,41.3739,2.17799,point_of_interest,"el Raval
+","41.3739,2.17799"
+6257,255,21386,360° El Terrat,41.3756,2.14938,point_of_interest,la Nova Esquerra de l'Eixample,"41.3756,2.14938"
+6937,282,23633,Port Vell,41.3764,2.18912,point_of_interest,la Barceloneta,"41.3764,2.18912"
+6939,282,23633,Port Vell,41.3764,2.18912,point_of_interest,la Barceloneta,"41.3764,2.18912"
+7146,282,24209,Torre de les Aigües de la Catalana de Gas,41.3838,2.19257,point_of_interest,la Barceloneta,"41.3838,2.19257"
+5479,59,18556,Pavelló Rosa,41.3839,2.12359,point_of_interest,"la Maternitat i Sant Ramon
+","41.3839,2.12359"
+739,59,2794,"casa Batllo, Barcelona, Spain",41.3865,2.11015,point_of_interest,Pedralbes,"41.3865,2.11015"
+7662,1776,25615,Flamenco Barcelona SL,41.3878,2.16849,point_of_interest,"la Dreta de l'Eixample
+","41.3878,2.16849"
+1145,54,3803,"The LEGO® Store Barcelona, Passeig de Gràcia, Barcelona, Spain",41.3885,2.16855,point_of_interest,"la Dreta de l'Eixample
+","41.3885,2.16855"
+1146,54,3802,"The LEGO® Store Barcelona, Passeig de Gràcia, Barcelona, Spain",41.3885,2.16855,point_of_interest,"la Dreta de l'Eixample
+","41.3885,2.16855"
+1147,54,3801,"The LEGO® Store Barcelona, Passeig de Gràcia, Barcelona, Spain",41.3885,2.16855,point_of_interest,"la Dreta de l'Eixample
+","41.3885,2.16855"
+1148,54,3804,"The LEGO® Store Barcelona, Passeig de Gràcia, Barcelona, Spain",41.3885,2.16855,point_of_interest,"la Dreta de l'Eixample
+","41.3885,2.16855"
+1149,54,3805,"The LEGO® Store Barcelona, Passeig de Gràcia, Barcelona, Spain",41.3885,2.16855,point_of_interest,"la Dreta de l'Eixample
+","41.3885,2.16855"
+1150,54,3801,"The LEGO® Store Barcelona, Passeig de Gràcia, Barcelona, Spain",41.3885,2.16855,point_of_interest,"la Dreta de l'Eixample
+","41.3885,2.16855"
+1151,54,3801,"The LEGO® Store Barcelona, Passeig de Gràcia, Barcelona, Spain",41.3885,2.16855,point_of_interest,"la Dreta de l'Eixample
+","41.3885,2.16855"
+2856,33,3801,"The LEGO® Store Barcelona, Passeig de Gràcia, Barcelona, Spain",41.3885,2.16855,point_of_interest,"la Dreta de l'Eixample
+","41.3885,2.16855"
+6735,373,22941,Espai Trafalgar,41.3891,2.17625,point_of_interest,"Sant Pere, Santa Caterina i la Ribera
+","41.3891,2.17625"
+2600,159,8748,"Carrer de Bosch i Gimpera, 5-13, 08034 Barcelona, Spain",41.3926,2.11758,point_of_interest,Pedralbes,"41.3926,2.11758"
+7097,1428,24041,Pincelea,41.3926,2.18581,point_of_interest,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.3926,2.18581"
+737,59,2788,"Disseny Hub Barcelona, Plaça de les Glòries Catalanes,, Barcelona, Spain",41.4026,2.18794,point_of_interest,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.4026,2.18794"
+1618,60,5495,"Carrer dels Pellaires, 30 - 38, 08019 Barcelona, Spain",41.4049,2.21123,point_of_interest,"el Poblenou i Diagonal Mar
+
+","41.4049,2.21123"
+7672,1096,25641,La Ceramicaria Gràcia,41.4057,2.15691,point_of_interest,"la Vila de Gràcia
+","41.4057,2.15691"
+4394,255,15178,Almeria Teatre,41.4061,2.16142,point_of_interest,"la Vila de Gràcia
+","41.4061,2.16142"
+4396,255,15178,Almeria Teatre,41.4061,2.16142,point_of_interest,"la Vila de Gràcia
+","41.4061,2.16142"
+6397,1187,19079,Mirador de Mundet,41.4433,2.15251,point_of_interest,"Horta i la Font d'en Fargues
+
+","41.4433,2.15251"
+4309,1,6389,"Pl. Reial, 1, 08002 Barcelona, Spain",41.38,2.17529,tourist_attraction,"el Barri Gòtic
+","41.38,2.17529"
+7585,312,6389,"Pl. Reial, 1, 08002 Barcelona, Spain",41.38,2.17529,tourist_attraction,"el Barri Gòtic
+","41.38,2.17529"
+1617,60,3064,"Pla de la Seu, s/n, 08002 Barcelona, Spain",41.384,2.1762,tourist_attraction,"el Barri Gòtic
+","41.384,2.1762"
+1819,60,3064,"Pla de la Seu, s/n, 08002 Barcelona, Spain",41.384,2.1762,tourist_attraction,"el Barri Gòtic
+","41.384,2.1762"
+2677,81,3064,"Pla de la Seu, s/n, 08002 Barcelona, Spain",41.384,2.1762,tourist_attraction,"el Barri Gòtic
+","41.384,2.1762"
+3502,1,3064,"Pla de la Seu, s/n, 08002 Barcelona, Spain",41.384,2.1762,tourist_attraction,"el Barri Gòtic
+","41.384,2.1762"
+4351,54,3064,"Pla de la Seu, s/n, 08002 Barcelona, Spain",41.384,2.1762,tourist_attraction,"el Barri Gòtic
+","41.384,2.1762"
+4352,54,3064,"Pla de la Seu, s/n, 08002 Barcelona, Spain",41.384,2.1762,tourist_attraction,"el Barri Gòtic
+","41.384,2.1762"
+4353,54,3064,"Pla de la Seu, s/n, 08002 Barcelona, Spain",41.384,2.1762,tourist_attraction,"el Barri Gòtic
+","41.384,2.1762"
+4365,54,3064,"Pla de la Seu, s/n, 08002 Barcelona, Spain",41.384,2.1762,tourist_attraction,"el Barri Gòtic
+","41.384,2.1762"
+4366,54,3064,"Pla de la Seu, s/n, 08002 Barcelona, Spain",41.384,2.1762,tourist_attraction,"el Barri Gòtic
+","41.384,2.1762"
+4726,54,3064,"Pla de la Seu, s/n, 08002 Barcelona, Spain",41.384,2.1762,tourist_attraction,"el Barri Gòtic
+","41.384,2.1762"
+6867,150,3064,"Pla de la Seu, s/n, 08002 Barcelona, Spain",41.384,2.1762,tourist_attraction,"el Barri Gòtic
+","41.384,2.1762"
+7620,255,25473,Montjuïc Castle,41.363,2.16506,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.363,2.16506"
+7636,255,25473,Montjuïc Castle,41.363,2.16506,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.363,2.16506"
+6143,282,20931,Gardens of Mossèn Costa i Llobera,41.3673,2.1715,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3673,2.1715"
+6146,282,20931,Gardens of Mossèn Costa i Llobera,41.3673,2.1715,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3673,2.1715"
+6941,282,23646,Port Authority - Admiral Historic Authority,41.376,2.17886,tourist_attraction,"el Barri Gòtic
+","41.376,2.17886"
+1537,54,5249,"Casa Malagrida, Passeig de Gràcia, Barcelona, Spain",41.3906,2.1662,tourist_attraction,"la Dreta de l'Eixample
+","41.3906,2.1662"
+874,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+875,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+876,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+880,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+881,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+882,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+883,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+1093,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+1094,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+1095,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+1096,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+1097,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+1529,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+1530,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+1531,54,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+1667,59,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+6850,34,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+6851,34,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+6852,34,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+6853,34,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+6854,34,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+6855,34,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+6898,34,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+6899,34,3012,"Pg. de Gràcia, 92, 08008 Barcelona, Spain",41.3952,2.1619,tourist_attraction,"la Dreta de l'Eixample
+","41.3952,2.1619"
+6802,85,23292,Palau Sant Jordi,41.3634,2.15259,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3634,2.15259"
+7492,312,25132,Olympic Ring,41.3649,2.15118,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3649,2.15118"
+7497,312,25132,Olympic Ring,41.3649,2.15118,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3649,2.15118"
+687,59,2583,"Museu Nacional d'Art de Catalunya, Parc de Montjuïc, Barcelona, Spain",41.3684,2.15357,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3684,2.15357"
+870,54,2583,"Museu Nacional d'Art de Catalunya, Parc de Montjuïc, Barcelona, Spain",41.3684,2.15357,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3684,2.15357"
+1080,54,2583,"Museu Nacional d'Art de Catalunya, Parc de Montjuïc, Barcelona, Spain",41.3684,2.15357,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3684,2.15357"
+5759,85,2583,"Museu Nacional d'Art de Catalunya, Parc de Montjuïc, Barcelona, Spain",41.3684,2.15357,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3684,2.15357"
+5760,85,2583,"Museu Nacional d'Art de Catalunya, Parc de Montjuïc, Barcelona, Spain",41.3684,2.15357,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3684,2.15357"
+7154,150,2583,"Museu Nacional d'Art de Catalunya, Parc de Montjuïc, Barcelona, Spain",41.3684,2.15357,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3684,2.15357"
+871,54,1426,"MNAC - Museo Nacional de Arte de Cataluña, Parc de Montjuïc, Barcelona, Spain",41.3685,2.15372,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3685,2.15372"
+872,54,1426,"MNAC - Museo Nacional de Arte de Cataluña, Parc de Montjuïc, Barcelona, Spain",41.3685,2.15372,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3685,2.15372"
+873,54,1426,"MNAC - Museo Nacional de Arte de Cataluña, Parc de Montjuïc, Barcelona, Spain",41.3685,2.15372,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3685,2.15372"
+1074,54,1426,"MNAC - Museo Nacional de Arte de Cataluña, Parc de Montjuïc, Barcelona, Spain",41.3685,2.15372,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3685,2.15372"
+4741,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4752,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4753,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4824,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4825,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4826,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4827,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4828,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4829,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4831,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4871,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4872,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4873,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4875,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4876,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4877,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4881,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4882,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4883,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+4884,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+5009,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+5010,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+5011,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+5012,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+5013,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+5014,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+5015,54,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+5510,85,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+7400,1776,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+7575,255,16285,Poble Espanyol,41.3688,2.14827,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3688,2.14827"
+6969,150,23730,Magic Fountain of Montjuïc,41.3712,2.15174,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3712,2.15174"
+7192,150,23730,Magic Fountain of Montjuïc,41.3712,2.15174,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3712,2.15174"
+7690,1923,23730,Magic Fountain of Montjuïc,41.3712,2.15174,tourist_attraction,"el Poble Sec i Montjuïc
+
+","41.3712,2.15174"
+6943,282,23658,Parc de l'Espanya Industrial,41.3777,2.14086,tourist_attraction,Sants i Badal,"41.3777,2.14086"
+6945,282,23658,Parc de l'Espanya Industrial,41.3777,2.14086,tourist_attraction,Sants i Badal,"41.3777,2.14086"
+6946,282,23658,Parc de l'Espanya Industrial,41.3777,2.14086,tourist_attraction,Sants i Badal,"41.3777,2.14086"
+6947,282,23658,Parc de l'Espanya Industrial,41.3777,2.14086,tourist_attraction,Sants i Badal,"41.3777,2.14086"
+6944,282,23659,Woman and Bird,41.3778,2.14696,tourist_attraction,la Nova Esquerra de l'Eixample,"41.3778,2.14696"
+3785,279,13032,Gran Teatre del Liceu,41.3802,2.17329,tourist_attraction,"el Raval
+","41.3802,2.17329"
+3786,279,13032,Gran Teatre del Liceu,41.3802,2.17329,tourist_attraction,"el Raval
+","41.3802,2.17329"
+7663,1776,25611,Museu d'Histo?ria de Catalunya,41.3808,2.18587,tourist_attraction,la Barceloneta,"41.3808,2.18587"
+6940,282,23644,El Cap de Barcelona,41.3809,2.18247,tourist_attraction,"el Barri Gòtic
+","41.3809,2.18247"
+8002,1977,26602,Mercado de La Boqueria,41.3817,2.17159,tourist_attraction,"el Raval
+","41.3817,2.17159"
+2903,1,9774,Plaça de Sant Jaume,41.3827,2.17702,tourist_attraction,"el Barri Gòtic
+","41.3827,2.17702"
+2913,1,9774,Plaça de Sant Jaume,41.3827,2.17702,tourist_attraction,"el Barri Gòtic
+","41.3827,2.17702"
+5023,314,17162,Jardins de la Maternitat,41.3833,2.12481,tourist_attraction,"la Maternitat i Sant Ramon
+","41.3833,2.12481"
+8008,1776,26609,MUHBA Temple d'August,41.3834,2.17718,tourist_attraction,"el Barri Gòtic
+","41.3834,2.17718"
+1069,54,3722,"Carrer de Montalegre, 5, 08001 Barcelona, Spain",41.3837,2.16686,tourist_attraction,"el Raval
+","41.3837,2.16686"
+1072,54,3722,"Carrer de Montalegre, 5, 08001 Barcelona, Spain",41.3837,2.16686,tourist_attraction,"el Raval
+","41.3837,2.16686"
+3093,1,10582,Fossar de les Moreres,41.3837,2.18237,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3837,2.18237"
+3631,81,10582,Fossar de les Moreres,41.3837,2.18237,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3837,2.18237"
+6864,150,23412,La Casa de l'Ardiaca,41.3841,2.17575,tourist_attraction,"el Barri Gòtic
+","41.3841,2.17575"
+7899,1776,26436,"""El Petó"" de Joan Fontcuberta “The Kiss of Freedom”",41.3851,2.17489,tourist_attraction,"el Barri Gòtic
+","41.3851,2.17489"
+4967,109,16956,Font de Canaletes,41.3852,2.17013,tourist_attraction,"el Raval
+","41.3852,2.17013"
+3115,1,10672,El Born Centre de Cultura i Memòria,41.3855,2.18389,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3855,2.18389"
+3116,1,10672,El Born Centre de Cultura i Memòria,41.3855,2.18389,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3855,2.18389"
+3117,1,10672,El Born Centre de Cultura i Memòria,41.3855,2.18389,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3855,2.18389"
+3119,1,10672,El Born Centre de Cultura i Memòria,41.3855,2.18389,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3855,2.18389"
+3120,1,10672,El Born Centre de Cultura i Memòria,41.3855,2.18389,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3855,2.18389"
+3121,1,10672,El Born Centre de Cultura i Memòria,41.3855,2.18389,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3855,2.18389"
+3123,1,10672,El Born Centre de Cultura i Memòria,41.3855,2.18389,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3855,2.18389"
+3124,1,10672,El Born Centre de Cultura i Memòria,41.3855,2.18389,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3855,2.18389"
+3125,1,10672,El Born Centre de Cultura i Memòria,41.3855,2.18389,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3855,2.18389"
+3632,81,10672,El Born Centre de Cultura i Memòria,41.3855,2.18389,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3855,2.18389"
+1019,54,490,"C/ Palau de la Música, 4-6, 08003 Barcelona, Spain",41.3876,2.17531,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3876,2.17531"
+7398,1776,490,"C/ Palau de la Música, 4-6, 08003 Barcelona, Spain",41.3876,2.17531,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3876,2.17531"
+7207,150,24432,Galeria Maxó,41.3888,2.18054,tourist_attraction,"Sant Pere, Santa Caterina i la Ribera
+","41.3888,2.18054"
+1105,54,3254,"Casa Amatller, Passeig de Gràcia, Barcelona, Spain",41.3915,2.16498,tourist_attraction,"la Dreta de l'Eixample
+","41.3915,2.16498"
+1534,54,3254,"Casa Amatller, Passeig de Gràcia, Barcelona, Spain",41.3915,2.16498,tourist_attraction,"la Dreta de l'Eixample
+","41.3915,2.16498"
+1535,54,3254,"Casa Amatller, Passeig de Gràcia, Barcelona, Spain",41.3915,2.16498,tourist_attraction,"la Dreta de l'Eixample
+","41.3915,2.16498"
+7732,1776,3254,"Casa Amatller, Passeig de Gràcia, Barcelona, Spain",41.3915,2.16498,tourist_attraction,"la Dreta de l'Eixample
+","41.3915,2.16498"
+686,59,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+738,59,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+1098,54,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+1100,54,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+1528,54,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+1533,54,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+1610,60,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2599,159,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2875,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2876,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2877,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2878,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2879,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2888,54,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2889,54,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2892,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2893,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2894,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2895,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2896,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2901,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2902,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2905,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2906,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2907,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2908,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2909,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+2910,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3087,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3088,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3089,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3090,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3091,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3094,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3095,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3096,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3106,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3181,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3182,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3183,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3184,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3185,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3186,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3187,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3188,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3189,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3190,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3191,33,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+3424,99,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+4048,60,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+4447,155,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+4982,349,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+5483,314,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+5926,314,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+7253,1776,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+7376,1776,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+7378,1776,2581,"Pg. de Gràcia, 43, 08007 Barcelona, Spain",41.3917,2.16492,tourist_attraction,"la Dreta de l'Eixample
+","41.3917,2.16492"
+7035,1096,23910,Jardins de Vil·la Amèlia,41.3925,2.12271,tourist_attraction,Sarrià i les Tres Torres,"41.3925,2.12271"
+7284,1096,24626,Parc del Turó,41.3946,2.14071,tourist_attraction,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3946,2.14071"
+7621,1096,25476,Muñoz Ramonet Gardens,41.3964,2.14699,tourist_attraction,"Sarrià, les Tres Torres i Vallvidrera
+
+
+","41.3964,2.14699"
+6949,282,23673,La Monumental,41.4002,2.18121,tourist_attraction,el Fort Pienc,"41.4002,2.18121"
+6950,282,23673,La Monumental,41.4002,2.18121,tourist_attraction,el Fort Pienc,"41.4002,2.18121"
+735,59,2775,"Torre Agbar, Avinguda Diagonal, Barcelona, Spain",41.4034,2.18959,tourist_attraction,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.4034,2.18959"
+1065,54,2775,"Torre Agbar, Avinguda Diagonal, Barcelona, Spain",41.4034,2.18959,tourist_attraction,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.4034,2.18959"
+1108,54,2775,"Torre Agbar, Avinguda Diagonal, Barcelona, Spain",41.4034,2.18959,tourist_attraction,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.4034,2.18959"
+6377,59,2775,"Torre Agbar, Avinguda Diagonal, Barcelona, Spain",41.4034,2.18959,tourist_attraction,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.4034,2.18959"
+6378,59,2775,"Torre Agbar, Avinguda Diagonal, Barcelona, Spain",41.4034,2.18959,tourist_attraction,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.4034,2.18959"
+6951,282,2775,"Torre Agbar, Avinguda Diagonal, Barcelona, Spain",41.4034,2.18959,tourist_attraction,"el Parc, la Llacuna i la Vila Olímpica
+
+","41.4034,2.18959"
+1018,54,487,"Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",41.4035,2.15065,tourist_attraction,"la Vila de Gràcia
+","41.4035,2.15065"
+1020,54,487,"Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",41.4035,2.15065,tourist_attraction,"la Vila de Gràcia
+","41.4035,2.15065"
+4453,155,487,"Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",41.4035,2.15065,tourist_attraction,"la Vila de Gràcia
+","41.4035,2.15065"
+6346,371,487,"Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",41.4035,2.15065,tourist_attraction,"la Vila de Gràcia
+","41.4035,2.15065"
+6347,371,487,"Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",41.4035,2.15065,tourist_attraction,"la Vila de Gràcia
+","41.4035,2.15065"
+6348,371,487,"Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",41.4035,2.15065,tourist_attraction,"la Vila de Gràcia
+","41.4035,2.15065"
+6349,371,487,"Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",41.4035,2.15065,tourist_attraction,"la Vila de Gràcia
+","41.4035,2.15065"
+6351,371,487,"Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",41.4035,2.15065,tourist_attraction,"la Vila de Gràcia
+","41.4035,2.15065"
+6352,371,487,"Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",41.4035,2.15065,tourist_attraction,"la Vila de Gràcia
+","41.4035,2.15065"
+7256,1776,487,"Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",41.4035,2.15065,tourist_attraction,"la Vila de Gràcia
+","41.4035,2.15065"
+7259,1776,487,"Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",41.4035,2.15065,tourist_attraction,"la Vila de Gràcia
+","41.4035,2.15065"
+7907,279,487,"Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",41.4035,2.15065,tourist_attraction,"la Vila de Gràcia
+","41.4035,2.15065"
+7908,279,487,"Carrer de les Carolines, 20-26, 08012 Barcelona, Spain",41.4035,2.15065,tourist_attraction,"la Vila de Gràcia
+","41.4035,2.15065"
+6450,282,21985,Plaça de Gaudí,41.4044,2.17541,tourist_attraction,la Sagrada Família,"41.4044,2.17541"
+688,59,2582,"Recinte Modernista de Sant Pau, Carrer de Sant Antoni Maria Claret, Barcelona, Spain",41.4119,2.17438,tourist_attraction,"el Guinardó
+
+","41.4119,2.17438"
+1016,54,2582,"Recinte Modernista de Sant Pau, Carrer de Sant Antoni Maria Claret, Barcelona, Spain",41.4119,2.17438,tourist_attraction,"el Guinardó
+
+","41.4119,2.17438"
+1017,54,2582,"Recinte Modernista de Sant Pau, Carrer de Sant Antoni Maria Claret, Barcelona, Spain",41.4119,2.17438,tourist_attraction,"el Guinardó
+
+","41.4119,2.17438"
+6452,282,2582,"Recinte Modernista de Sant Pau, Carrer de Sant Antoni Maria Claret, Barcelona, Spain",41.4119,2.17438,tourist_attraction,"el Guinardó
+
+","41.4119,2.17438"
+6453,282,2582,"Recinte Modernista de Sant Pau, Carrer de Sant Antoni Maria Claret, Barcelona, Spain",41.4119,2.17438,tourist_attraction,"el Guinardó
+
+","41.4119,2.17438"
+7407,1776,2582,"Recinte Modernista de Sant Pau, Carrer de Sant Antoni Maria Claret, Barcelona, Spain",41.4119,2.17438,tourist_attraction,"el Guinardó
+
+","41.4119,2.17438"
+7555,1805,25311,Turó de les Tres Creus,41.4124,2.15114,tourist_attraction,"Vallcarca, el Coll i la Salut
+
+
+","41.4124,2.15114"
+6366,279,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6468,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6469,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6470,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6472,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6473,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6474,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6477,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6478,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6479,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6483,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6484,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6485,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6509,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6510,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6511,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6513,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6514,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6515,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6516,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6517,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6518,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6519,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6520,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6522,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6523,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+6524,282,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+7603,279,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+7604,279,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+7605,279,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+7606,279,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+7607,279,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+7608,279,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+7609,279,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+7610,279,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+7611,279,13470,CosmoCaixa Barcelona,41.4132,2.13112,tourist_attraction,Sant Gervasi - la Bonanova i el Putget,"41.4132,2.13112"
+677,33,2549,"Parc Güell, Barcelona, Spain",41.4145,2.15269,tourist_attraction,"Vallcarca, el Coll i la Salut
+
+
+","41.4145,2.15269"
+678,33,2549,"Parc Güell, Barcelona, Spain",41.4145,2.15269,tourist_attraction,"Vallcarca, el Coll i la Salut
+
+
+","41.4145,2.15269"
+679,33,2549,"Parc Güell, Barcelona, Spain",41.4145,2.15269,tourist_attraction,"Vallcarca, el Coll i la Salut
+
+
+","41.4145,2.15269"
+680,33,2550,"Parc Güell, Barcelona, Spain",41.4145,2.15269,tourist_attraction,"Vallcarca, el Coll i la Salut
+
+
+","41.4145,2.15269"
+681,33,2551,"Parc Güell, Barcelona, Spain",41.4145,2.15269,tourist_attraction,"Vallcarca, el Coll i la Salut
+
+
+","41.4145,2.15269"
+1609,60,2549,"Parc Güell, Barcelona, Spain",41.4145,2.15269,tourist_attraction,"Vallcarca, el Coll i la Salut
+
+
+","41.4145,2.15269"
+7905,1923,2549,"Parc Güell, Barcelona, Spain",41.4145,2.15269,tourist_attraction,"Vallcarca, el Coll i la Salut
+
+
+","41.4145,2.15269"
+6398,1187,19092,Observatori Fabra,41.4184,2.12418,tourist_attraction,"Vallvidrera, el Tibidabo i les Planes
+","41.4184,2.12418"
+3427,99,11612,MUHBA Turó de la Rovira (Battery Viewpoint),41.4193,2.16183,tourist_attraction,"el Carmel i Can Baró
+
+","41.4193,2.16183"
+4685,255,11612,MUHBA Turó de la Rovira (Battery Viewpoint),41.4193,2.16183,tourist_attraction,"el Carmel i Can Baró
+
+","41.4193,2.16183"
+4688,255,11612,MUHBA Turó de la Rovira (Battery Viewpoint),41.4193,2.16183,tourist_attraction,"el Carmel i Can Baró
+
+","41.4193,2.16183"
+4689,255,11612,MUHBA Turó de la Rovira (Battery Viewpoint),41.4193,2.16183,tourist_attraction,"el Carmel i Can Baró
+
+","41.4193,2.16183"
+4786,1,11612,MUHBA Turó de la Rovira (Battery Viewpoint),41.4193,2.16183,tourist_attraction,"el Carmel i Can Baró
+
+","41.4193,2.16183"
+4787,1,11612,MUHBA Turó de la Rovira (Battery Viewpoint),41.4193,2.16183,tourist_attraction,"el Carmel i Can Baró
+
+","41.4193,2.16183"
+4788,1,11612,MUHBA Turó de la Rovira (Battery Viewpoint),41.4193,2.16183,tourist_attraction,"el Carmel i Can Baró
+
+","41.4193,2.16183"
+5569,85,11612,MUHBA Turó de la Rovira (Battery Viewpoint),41.4193,2.16183,tourist_attraction,"el Carmel i Can Baró
+
+","41.4193,2.16183"
+6075,61,11612,MUHBA Turó de la Rovira (Battery Viewpoint),41.4193,2.16183,tourist_attraction,"el Carmel i Can Baró
+
+","41.4193,2.16183"
+7573,1776,11612,MUHBA Turó de la Rovira (Battery Viewpoint),41.4193,2.16183,tourist_attraction,"el Carmel i Can Baró
+
+","41.4193,2.16183"

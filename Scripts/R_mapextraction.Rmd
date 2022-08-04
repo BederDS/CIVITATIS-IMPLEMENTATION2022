@@ -1,0 +1,125 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+#install.packages(c('mapSpain','ggplot2'))
+install.packages("eurostat")
+
+library(mapSpain)
+library(ggplot2)
+library(rjson)
+library(rgdal)
+library(sf)
+library(units)
+library(eurostat)
+esp_set_cache_dir("C:/Users/beder/Desktop/Data 2022/Projects/Activities Implementation/Outputs")
+
+```
+```{r}
+country <- esp_get_country()
+lines <- esp_get_can_box()
+
+ggplot(country) +
+  geom_sf(fill = "cornsilk", color = "#887e6a") +
+  labs(title = "Map of Spain") +
+  theme(
+    panel.background = element_rect(fill = "#fffff3"),
+    panel.border = element_rect(
+      colour = "#887e6a",
+      fill = NA,
+    ),
+    text = element_text(
+      family = "serif",
+      face = "bold"
+    )
+  )
+
+```
+
+```{r}
+setwd("C:\\Users\\beder\\Desktop\\Data 2022\\Projects\\Activities Implementation")
+```
+
+```{r}
+esp_get_prov_siane(
+  prov = NULL,
+  year = Sys.Date(),
+  epsg = "4258",
+  cache = TRUE,
+  update_cache = FALSE,
+  cache_dir = NULL,
+  verbose = FALSE,
+  resolution = "3",
+  moveCAN = TRUE,
+  rawcols = FALSE
+)
+```
+```{r}
+esp_get_prov(prov = NULL, moveCAN = TRUE)
+
+```
+
+```{r}
+prov <- esp_get_prov()
+ggplot(prov) +
+  geom_sf() +
+  theme_void()
+```
+
+```{r}
+esp_get_munic_siane(
+  year = Sys.Date(),
+  epsg = "4258",
+  cache = TRUE,
+  update_cache = FALSE,
+  cache_dir = NULL,
+  verbose = FALSE,
+  resolution = 3,
+  region = NULL,
+  munic = NULL,
+  moveCAN = TRUE,
+  rawcols = FALSE
+)
+```
+
+```{r}
+prov <- esp_get_prov()
+ggplot(prov) +
+  geom_sf() +
+  theme_void()
+```
+
+
+```{r}
+data("esp_munic.sf")
+
+ggplot()+ geom_sf(data = esp_munic.sf, aes(fill = ine.ccaa.name ))
+```
+
+```{r}
+esp_ccaa = esp_get_ccaa()
+esp_mun = esp_get_munic()
+esp_prov = esp_get_prov()
+
+
+
+write.csv(esp_ccaa,"C:\\Users\\beder\\Desktop\\Data 2022\\Projects\\Activities Implementation\\Outputs\\Spain_mapping\\region_level.csv", row.names = FALSE)
+write.csv(esp_mun,"C:\\Users\\beder\\Desktop\\Data 2022\\Projects\\Activities Implementation\\Outputs\\Spain_mapping\\city_level.csv", row.names = FALSE)
+write.csv(esp_prov,"C:\\Users\\beder\\Desktop\\Data 2022\\Projects\\Activities Implementation\\Outputs\\Spain_mapping\\prov_level.csv", row.names = FALSE)
+```
+
+```{r}
+jsonlite::write_json(esp_ccaa,"C:\\Users\\beder\\Desktop\\Data 2022\\Projects\\Activities Implementation\\Outputs\\Spain_mapping\\region_level.json")
+```
+
+```{r}
+write.xlsx(esp_ccaa, file = "C:\\Users\\beder\\Desktop\\Data 2022\\Projects\\Activities Implementation\\Outputs\\Spain_mapping\\region_level.json")
+```
+```{r}
+writeOGR(esp_munic.sf, "C:\\Users\\beder\\Desktop\\Data 2022\\Projects\\Activities Implementation\\Outputs\\Spain_mapping\\region_level.geojson",'esp_munic', driver='GeoJSON')
+
+```
+
+

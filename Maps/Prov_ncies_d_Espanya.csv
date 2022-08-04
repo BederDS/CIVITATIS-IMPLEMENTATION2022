@@ -1,0 +1,55 @@
+Codi,Nom en català,Nom oficial,CCAA Codi,CCAA Nom en català
+01,Àlaba,Araba/Álava,16,País Basc
+02,Albacete,Albacete,08,Castella - la Manxa
+03,Alacant,Alacant/Alicante,10,Comunitat Valenciana
+04,Almeria,Almería,01,Andalusia
+05,Àvila,Ávila,07,Castella i Lleó
+06,Badajoz,Badajoz,11,Extremadura
+07,Illes Balears,Illes Balears,04,Illes Balears
+08,Barcelona,Barcelona,09,Catalunya
+09,Burgos,Burgos,07,Castella i Lleó
+10,Càceres,Cáceres,11,Extremadura
+11,Cadis,Cádiz,01,Andalusia
+12,Castelló de la Plana,Castelló/Castellón,10,Comunitat Valenciana
+13,Ciudad Real,Ciudad Real,08,Castella - la Manxa
+14,Còrdova,Córdoba,01,Andalusia
+15,"Corunya, la","Coruña, A",12,Galícia
+16,Conca,Cuenca,08,Castella - la Manxa
+17,Girona,Girona,09,Catalunya
+18,Granada,Granada,01,Andalusia
+19,Guadalajara,Guadalajara,08,Castella - la Manxa
+20,Guipúscoa,Gipuzkoa,16,País Basc
+21,Huelva,Huelva,01,Andalusia
+22,Osca,Huesca,02,Aragó
+23,Jaén,Jaén,01,Andalusia
+24,Lleó,León,07,Castella i Lleó
+25,Lleida,Lleida,09,Catalunya
+26,"Rioja, La","Rioja, La",17,"Rioja, La"
+27,Lugo,Lugo,12,Galícia
+28,Madrid,Madrid,13,Comunitat de Madrid
+29,Màlaga,Málaga,01,Andalusia
+30,Múrcia,Murcia,14,Regió de Múrcia
+31,Navarra,Navarra,15,Comunitat Foral de Navarra
+32,Ourense,Ourense,12,Galícia
+33,Astúries,Asturias,03,Principat d'Astúries
+34,Palència,Palencia,07,Castella i Lleó
+35,"Palmas, Las","Palmas, Las",05,Canàries
+36,Pontevedra,Pontevedra,12,Galícia
+37,Salamanca,Salamanca,07,Castella i Lleó
+38,Santa Cruz de Tenerife,Santa Cruz de Tenerife,05,Canàries
+39,Cantàbria,Cantabria,06,Cantàbria
+40,Segòvia,Segovia,07,Castella i Lleó
+41,Sevilla,Sevilla,01,Andalusia
+42,Sòria,Soria,07,Castella i Lleó
+43,Tarragona,Tarragona,09,Catalunya
+44,Terol,Teruel,02,Aragó
+45,Toledo,Toledo,08,Castella - la Manxa
+46,València,València/Valencia,10,Comunitat Valenciana
+47,Valladolid,Valladolid,07,Castella i Lleó
+48,Biscaia,Bizkaia,16,País Basc
+49,Zamora,Zamora,07,Castella i Lleó
+50,Saragossa,Zaragoza,02,Aragó
+51,Ceuta,Ceuta,18,Ceuta
+52,Melilla,Melilla,19,Melilla
+98,No consta,No consta,98,No consta
+99,Altres/Diversos,Altres/Diversos,99,Altres/Diversos
