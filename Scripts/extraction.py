@@ -3,7 +3,6 @@
 import pandas as pd
 import pandas.io.sql as sql
 import pymysql
-import thefuzz
 import xlwt
 import sqlalchemy
 import time
@@ -13,8 +12,7 @@ import json
 
 
 from requests.auth import HTTPBasicAuth
-from thefuzz import fuzz
-from thefuzz import process
+
 from sqlalchemy import create_engine
 from pymysql import*
 from datetime import date
@@ -29,7 +27,8 @@ d1 = today.strftime("%d_%m_%Y")
 
 civitatis_countries = session.get_countries('en')
 civitatis_countries_df = pd.DataFrame(civitatis_countries)
-civitatis_countries_df.to_csv(f'C:\\Users\\beder\Desktop\Data 2022\Projects\Activities Implementation\Outputs\Civitatis Exctraction\civitatis_countries{d1}.csv',index=False)
+
+civitatis_countries_df.to_csv(f'C:\\Users\\beder\Desktop\Data 2022\Projects\CIVITATIS-IMPLEMENTATION2022\Outputs\Civitatis Exctraction\civitatis_countries{d1}.csv',index=False)
 
 countries_dic = {}
 for entry in civitatis_countries:
@@ -38,7 +37,7 @@ for entry in civitatis_countries:
 
 all_destinations_df =  pd.DataFrame(session.get_destinations('en'))
 
-all_destinations_df.to_csv(f'C:\\Users\\beder\Desktop\Data 2022\Projects\Activities Implementation\Outputs\Civitatis Exctraction\\all_destinations{d1}.csv',index=False)
+all_destinations_df.to_csv(f'C:\\Users\\beder\Desktop\Data 2022\Projects\CIVITATIS-IMPLEMENTATION2022\Outputs\Civitatis Exctraction\\all_destinations{d1}.csv',index=False)
 
 acti_frames= []
 for i, acti_id  in enumerate(all_destinations_df['id']):
@@ -57,7 +56,7 @@ for act in all_activities['address']:
 
 all_activities['longitude'] =  longitude
 all_activities['latitude'] =  latitude
-all_activities.to_csv(f'C:\\Users\\beder\Desktop\Data 2022\Projects\Activities Implementation\Outputs\Civitatis Exctraction\\all_activities{d1}.csv',index=False)
+all_activities.to_csv(f'C:\\Users\\beder\Desktop\Data 2022\Projects\CIVITATIS-IMPLEMENTATION2022\Outputs\Civitatis Exctraction\\all_activities{d1}.csv',index=False)
 
 
 #MAPPING
