@@ -9,6 +9,7 @@ import time
 import civitatisAPI as civi
 import requests
 import json
+import thefuzz
 
 
 from requests.auth import HTTPBasicAuth
@@ -16,6 +17,7 @@ from requests.auth import HTTPBasicAuth
 from sqlalchemy import create_engine
 from pymysql import*
 from datetime import date
+from thefuzz import process
 
 usr = 'bederapp'
 pss ='w5OWhwNPL1tU'
