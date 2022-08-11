@@ -26,6 +26,7 @@ GDAL==3.5.1
 geographiclib==1.52
 geopandas @ file:///home/conda/feedstock_root/build_artifacts/geopandas_1658688831518/work
 geopy==2.2.0
+googlemaps==4.6.0
 greenlet==1.1.2
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
 ipykernel @ file:///D:/bld/ipykernel_1657295151080/work

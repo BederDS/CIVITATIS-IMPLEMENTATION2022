@@ -67,7 +67,7 @@ password="DEjUYJjxfRSvab3T"
 host="server.digizonelabs.com"
 databases_schema = []
 
-con=connect(user="beder",password="DEjUYJjxfRSvab3T",host="server.digizonelabs.com",database="beder_appprod")
+con=connect(user="beder",password="hTz8@A6Yn652",host="server.digizonelabs.com",database="beder_appprod")
 
 countries=sql.read_sql('select * from beder_appprod.countries',con)
 regions=sql.read_sql('select * from beder_appprod.regions',con)
@@ -123,4 +123,4 @@ countries_mapped.rename(columns = {0:'id'}, inplace = True)
 countries_mapped= countries_mapped.drop(['index'],axis= 1)
 
 countries_merged = pd.merge(countries_mapped,civitatis_countries_df,how='left', on ='id')
-countries_merged.to_csv(f'C:\\Users\\beder\Desktop\Data 2022\Projects\Activities Implementation\Outputs\Civitatis Exctraction\civitatis_countries_mapped.csv',index=False)
+countries_merged.to_csv(f'C:\\Users\\beder\Desktop\Data 2022\Projects\CIVITATIS-IMPLEMENTATION2022\Outputs\Civitatis Exctraction\\civitatis_mapped_countries{d1}.csv',index=False)
