@@ -14,7 +14,7 @@ library(rgdal)
 library(sf)
 library(units)
 library(eurostat)
-esp_set_cache_dir("C:/Users/beder/Desktop/Data 2022/Projects/Activities Implementation/Outputs")
+#esp_set_cache_dir("C:/Users/beder/Desktop/Data 2022/Projects/Activities Implementation/Outputs")
 
 ```
 ```{r}
@@ -46,7 +46,7 @@ setwd("C:\\Users\\beder\\Desktop\\Data 2022\\Projects\\Activities Implementation
 esp_get_prov_siane(
   prov = NULL,
   year = Sys.Date(),
-  epsg = "4258",
+  epsg = "4326",
   cache = TRUE,
   update_cache = FALSE,
   cache_dir = NULL,
@@ -62,10 +62,18 @@ esp_get_prov(prov = NULL, moveCAN = TRUE)
 ```
 
 ```{r}
-prov <- esp_get_prov()
-ggplot(prov) +
-  geom_sf() +
-  theme_void()
+prov <- esp_get_prov_siane(
+  prov = NULL,
+  year = Sys.Date(),
+  epsg = "4326",
+  cache = TRUE,
+  update_cache = FALSE,
+  cache_dir = NULL,
+  verbose = FALSE,
+  resolution = "3",
+  moveCAN = TRUE,
+  rawcols = FALSE
+)
 ```
 
 ```{r}
@@ -101,7 +109,18 @@ ggplot()+ geom_sf(data = esp_munic.sf, aes(fill = ine.ccaa.name ))
 ```{r}
 esp_ccaa = esp_get_ccaa()
 esp_mun = esp_get_munic()
-esp_prov = esp_get_prov()
+esp_prov = esp_get_prov_siane(
+  prov = NULL,
+  year = Sys.Date(),
+  epsg = "4326",
+  cache = TRUE,
+  update_cache = FALSE,
+  cache_dir = NULL,
+  verbose = FALSE,
+  resolution = "3",
+  moveCAN = TRUE,
+  rawcols = FALSE
+)
 
 
 
