@@ -1,0 +1,803 @@
+,destinationId,civitatis_name,final_name,english_name,city_id
+0,1,Venice,Venice,Venice,213.0
+1,2,Madrid,Madrid,Madrid,29.0
+2,3,Prague,Prague,Prague,100054.0
+3,4,Menorca,Ciutadella,Ciutadella,300078.0
+4,5,London,London,London,100017.0
+5,6,Marrakech,Marrakech,Marrakech,900009.0
+6,7,Dublin,Dublin,Dublin,1297.0
+7,8,New York,New York City,New York City,100146.0
+8,9,Las Vegas,Las Vegas,Las Vegas,1200206.0
+9,12,Valladolid,Valladolid,Valladolid,1342.0
+10,12,Valladolid,Valladolid,Valladolid,1200307.0
+11,13,Bangkok,Bangkok,Bangkok,600026.0
+12,14,Budapest,Budapest,Budapest,281.0
+14,16,Paris,Paris,Paris,100095.0
+15,17,Lisbon,Lisbon,Lisbon,100078.0
+16,18,Dubai,Dubai,Dubai,600032.0
+17,19,Rome,Rome,Rome,212.0
+18,20,Florence,Florence,Florence,100047.0
+19,21,Istanbul,Istanbul,Istanbul,600009.0
+21,23,Amsterdam,Amsterdam,Amsterdam,100026.0
+22,24,Tokyo,Tokyo City,Tokyo City,600002.0
+23,25,Porto,Porto,Porto,100073.0
+24,26,San Francisco,San Francisco,San Francisco,300007.0
+25,27,Miami,Miami,Miami,300010.0
+26,28,Brussels,Brussels,Brussels,300012.0
+27,29,Vienna,Vienna,Vienna,100085.0
+28,30,Berlin,Berlin,Berlin,100097.0
+29,31,Edinburgh,Edinburgh,Edinburgh,100010.0
+30,32,Fez,Fès,Fès,1035.0
+31,33,Athens,Athens,Athens,100067.0
+32,35,Barcelona,Barcelona,Barcelona,23.0
+34,40,Milan,Milan,Milan,898.0
+35,42,Beijing,Beijing,Beijing,60148.0
+36,43,Shanghai,Shanghai,Shanghai,60149.0
+38,46,Oslo,Oslo,Oslo,1200294.0
+39,47,Bucharest,Bucharest,Bucharest,1200313.0
+40,48,Buenos Aires,Buenos Aires,Buenos Aires,100123.0
+41,49,Ibiza,Ibiza,,
+42,50,Munich,Munich,Munich,224.0
+43,51,Bruges,Bruges,Bruges,1200152.0
+44,52,Granada,Granada,Granada,2.0
+45,52,Granada,Granada,Granada,988.0
+46,53,Cuenca,Cuenca,Cuenca,668.0
+47,54,Riviera Maya,Riviera Maya,Riviera Maya,1113.0
+48,55,Krakow,Kraków,Kraków,56.0
+49,56,Xi'an,Xi'An,Xi'An,300266.0
+50,57,Seville,Seville,Seville,1.0
+51,58,Ghent,Ghent,Ghent,1200475.0
+53,62,Puerto Iguazú,Puerto Iguazú,Puerto Iguazú,1200580.0
+55,64,Kyoto,Kyoto,Kyoto,600000.0
+56,65,Boston,Boston,Boston,300005.0
+58,67,Casablanca,Casablanca,Casablanca,900008.0
+59,68,Antwerp,Antwerp,Antwerp,1200160.0
+60,69,Washington DC,Washington D.C.,Washington D.C.,100147.0
+61,70,Los Angeles,Los Angeles,Los Angeles,300002.0
+62,71,Girona,Girona,Girona,24.0
+63,72,Segovia,Segovia,Segovia,291.0
+64,74,Cappadocia,Yeşilhisar,Yeşilhisar,1200008.0
+65,75,Bilbao,Bilbao,Bilbao,18.0
+66,77,Abu Dhabi,Abu Dhabi,Abu Dhabi,600031.0
+68,79,Toledo,Toledo,Toledo,21.0
+69,79,Toledo,Toledo,Toledo,1200326.0
+70,80,Mallorca,Palma,Palma,300083.0
+71,81,Córdoba,Córdoba,Córdoba,3.0
+72,81,Córdoba,Córdoba,Córdoba,1060.0
+74,83,Málaga,Málaga,Málaga,4.0
+82,91,Nice,Nice,Nice,220.0
+83,92,Mexico City,Mexico City,Mexico City,100133.0
+84,93,Cancun,Cancún,Cancún,100130.0
+85,94,Naples,Naples,Naples,214.0
+86,95,Alicante,Alicante,Alicante,34.0
+87,96,Benidorm,Benidorm,Benidorm,1200660.0
+88,97,Cairo,El Cairo,El Cairo,900010.0
+89,98,Luxor,Luxor,Luxor,725.0
+90,99,Aswan,Aswan,Aswan,728.0
+91,100,Hurghada,Hurghada,Hurghada,1200674.0
+92,101,Sharm el Sheikh,Sharm el-Sheikh,Sharm el-Sheikh,1200463.0
+95,104,Chicago,Chicago,Chicago,300003.0
+97,106,Bergamo,Bergamo,Bergamo,1200710.0
+99,108,Rio de Janeiro,Río de Janeiro,Río de Janeiro,100116.0
+100,109,Tenerife,Santa Cruz de Tenerife,Santa Cruz de Tenerife,754.0
+101,110,Gran Canaria,Las Palmas de Gran Canaria,Las Palmas de Gran Canaria,300079.0
+102,111,Santander,Santander,Santander,20.0
+103,112,Warsaw,Warsaw,Warsaw,57.0
+104,113,Moscow,Moscow,Moscow,100093.0
+105,114,St Petersburg,Saint Petersburg,Saint Petersburg,100094.0
+106,115,Lima,Lima,Lima,300076.0
+107,117,Pamplona,Pamplona,Pamplona,31.0
+108,118,Cuzco,Cusco,Cusco,300075.0
+109,119,Cadiz,Cádiz,Cádiz,6.0
+110,120,Valencia,Valencia,Valencia,33.0
+112,122,Pisa,Pisa,Pisa,100050.0
+114,124,Salamanca,Salamanca,Salamanca,22.0
+115,125,Punta Cana,Punta Cana,Punta Cana,300016.0
+116,126,Bariloche,San Carlos de Bariloche,San Carlos de Bariloche,100120.0
+117,127,Mendoza,Mendoza,Mendoza,100121.0
+118,128,Puerto Madryn,Puerto Madryn,Puerto Madryn,100118.0
+120,130,Ushuaia,Ushuaia,Ushuaia,100119.0
+122,132,Ronda,Ronda,Ronda,521.0
+123,133,Arcos de la Frontera,Arcos de la Frontera,Arcos de la Frontera,100042.0
+124,134,Lanzarote,Lanzarote,Lanzarote,527.0
+127,137,San Sebastián,San Sebastián,San Sebastián,17.0
+128,138,Cáceres,Cáceres,Cáceres,1133.0
+129,139,Mérida,Mérida,Mérida,100141.0
+130,139,Mérida,Mérida,Mérida,1200049.0
+131,140,Ica,Ica,Ica,1200276.0
+132,141,Alexandria,Alexandria,Alexandria,900012.0
+133,142,Paracas,Paracas,Paracas,1200047.0
+135,144,Santorini,Thera,Thera,100068.0
+136,145,Trujillo,Trujillo,Trujillo,300077.0
+138,147,Huelva,Huelva,Huelva,1325.0
+139,148,Dubrovnik,Dubrovnik,Dubrovnik,100016.0
+140,149,Santiago de Compostela,Santiago de Compostela,Santiago de Compostela,28.0
+144,153,A Coruña,A Coruña,A Coruña,1200268.0
+146,155,Havana,Havana,Havana,300027.0
+147,156,Varadero,Varadero,Varadero,300023.0
+148,157,La Palma,Santa Cruz de la Palma,Santa Cruz de la Palma,997.0
+149,158,León,León,León,989.0
+150,159,Los Cabos,Los Cabos,Los Cabos,1200150.0
+151,160,Puerto Vallarta,Puerto Vallarta,Puerto Vallarta,100131.0
+154,163,Lagos,Lagos,Lagos,100080.0
+156,165,Zaragoza,Zaragoza,Zaragoza,7.0
+157,166,Tarragona,Tarragona,Tarragona,26.0
+159,168,Orlando,Orlando,Orlando,1200010.0
+161,170,San Diego,San Diego,San Diego,1200691.0
+163,173,Sydney,Sydney,Sydney,1200000.0
+164,174,Stockholm,Stockholm,Stockholm,1200186.0
+165,175,Copenhagen,Copenhagen,Copenhagen,62.0
+166,176,Chiang Mai,Chiang Mai,Chiang Mai,600027.0
+167,177,Arequipa,Arequipa,Arequipa,300074.0
+168,178,Puno,Puno,Puno,812.0
+170,180,Badajoz,Badajoz,Badajoz,1200240.0
+172,182,Amman,Amman,Amman,600008.0
+173,183,Formentera,Sant Francesc,Sant Francesc,770.0
+174,184,Oviedo,Oviedo,Oviedo,14.0
+175,185,Llanes,Llanes,Llanes,16.0
+176,186,Reykjavík,Reykjavík,Reykjavík,100000.0
+177,187,Biarritz,Biarritz,Biarritz,300058.0
+178,188,Mykonos,Mykonos,Mykonos,300048.0
+181,191,Rhodes,Rhodes,Rhodes,100063.0
+182,192,Santoña,Santoña,Santoña,1144.0
+184,194,Quito,Quito,Quito,665.0
+186,196,Sitges,Sitges,Sitges,25.0
+189,199,Siem Reap,Krong Siem Reap,Krong Siem Reap,1200125.0
+191,201,Phuket,Phuket,Phuket,600030.0
+193,203,Tallin,Tallinn,Tallinn,35.0
+194,204,Helsinki,Helsinki,Helsinki,55.0
+197,207,Hanoi,Hanoi,Hanoi,1200218.0
+198,208,Ho Chi Minh,Ho Chi Minh City,Ho Chi Minh City,647.0
+199,209,Cuenca,Cuenca,Cuenca,668.0
+202,213,Tromsø,Tromsø,Tromsø,1200203.0
+205,216,Santiago de Chile,Santiago,Santiago,303.0
+209,220,Bogotá,Bogotá,Bogotá,100127.0
+212,223,San Andrés,San Andrés,San Andrés,1200025.0
+213,224,Koh Samui,Koh Samui,Koh Samui,1200224.0
+214,225,Hoi An,Hội An,Hội An,1200217.0
+216,227,Panama City,Panama City,Panama City,286.0
+217,228,Frankfurt,Frankfurt,Frankfurt,233.0
+219,230,Medellín,Medellín,Medellín,100125.0
+221,232,Oxford,Oxford,Oxford,100020.0
+222,233,Cambridge,Cambridge,Cambridge,100021.0
+223,234,Zurich,Zürich,Zürich,100037.0
+224,235,Montevideo,Montevideo,Montevideo,1200286.0
+226,237,Cartagena de Indias,Cartagena de Indias,Cartagena de Indias,100124.0
+227,238,York,York,York,100019.0
+228,239,Logroño,Logroño,Logroño,32.0
+229,240,Gijón,Gijón,Gijón,15.0
+230,241,Dresden,Dresden,Dresden,226.0
+231,242,Valparaíso,Valparaíso,Valparaíso,687.0
+232,243,Manchester,Manchester,Manchester,100025.0
+234,245,Puerto Varas,Puerto Varas,Puerto Varas,1200360.0
+235,246,Hamburg,Hamburg,Hamburg,100098.0
+236,247,Liverpool,Liverpool,Liverpool,100024.0
+237,248,Geneva,Geneva,Geneva,100036.0
+238,249,Punta Arenas,Punta Arenas,Punta Arenas,688.0
+239,250,Puerto Natales,Puerto Natales,Puerto Natales,1200487.0
+242,253,San Vicente de la Barquera,San Vicente de la Barquera,San Vicente de la Barquera,300057.0
+245,256,Easter Island,Easter Island,Easter Island,670.0
+247,258,Cologne,Köln,Köln,1076.0
+248,259,Bordeaux,Bordeaux,Bordeaux,100096.0
+251,262,Siena,Siena,Siena,100048.0
+252,263,Palermo,Palermo,Palermo,1200522.0
+253,264,Catania,Catania,Catania,1200055.0
+255,266,Bologna,Bologna,Bologna,1200731.0
+258,269,Bari,Bari,Bari,1200411.0
+260,271,Funchal,Funchal,Funchal,975.0
+262,274,San Lorenzo de El Escorial,San Lorenzo de El Escorial,San Lorenzo de El Escorial,100043.0
+265,277,Salzburg,Salzburg,Salzburg,100086.0
+266,278,Calp,Calp,Calp,995.0
+269,281,Bergen,Bergen,Bergen,1200357.0
+270,282,Delhi,Delhi,Delhi,1200520.0
+271,283,Guadalajara,Guadalajara,Guadalajara,100140.0
+272,284,Mérida,Mérida,Mérida,100141.0
+273,284,Mérida,Mérida,Mérida,1200049.0
+277,288,Bath,Bath,Bath,100018.0
+278,289,Cardiff,Cardiff,Cardiff,100013.0
+279,290,Bristol,Bristol,Bristol,968.0
+281,292,Jaén,Jaén,Jaén,511.0
+282,293,Gothenburg,Gothenburg,Gothenburg,1200189.0
+283,294,Agra,Agra,Agra,1198.0
+284,295,Kathmandu,Kathmandu,Kathmandu,1200114.0
+285,296,Haarlem,Haarlem,Haarlem,1200156.0
+286,297,Vancouver,Vancouver,Vancouver,300070.0
+292,303,Trujillo,Trujillo,Trujillo,300077.0
+293,304,San José,San José,San José,1261.0
+294,304,San José,San José,San José,1271.0
+295,304,San José,San José,San José,300030.0
+296,305,Oaxaca,Oaxaca,Oaxaca,100142.0
+297,306,El Hierro,Valverde,Valverde,1224.0
+298,307,Puerto Escondido,Puerto Escondido,Puerto Escondido,879.0
+299,308,Burgos,Burgos,Burgos,292.0
+300,309,Vila Nova de Gaia,Vila Nova de Gaia,Vila Nova de Gaia,977.0
+307,316,Glasgow,Glasgow,Glasgow,100012.0
+308,317,Split,Split,Split,100006.0
+311,320,New Orleans,New Orleans,New Orleans,300006.0
+312,321,Marbella,Marbella,Marbella,5.0
+314,323,Wroclaw,Wrocław,Wrocław,59.0
+315,324,Toronto,Toronto,Toronto,300072.0
+316,325,Phnom Penh,Phnom Penh,Phnom Penh,567.0
+318,327,Sochi,Sochi,Sochi,100087.0
+319,328,Sao Paulo,São Paulo,São Paulo,100114.0
+320,329,Victoria,Victoria,Victoria,135.0
+321,329,Victoria,Victoria,Victoria,1200038.0
+322,330,Zadar,Zadar,Zadar,100009.0
+325,334,Sintra,Sintra,Sintra,100076.0
+329,339,Lleida,Lleida,Lleida,27.0
+330,340,Sofia,Sofia,Sofia,1200311.0
+331,341,Verona,Verona,Verona,902.0
+332,342,Osaka,Osaka,Osaka,600001.0
+333,343,Luxembourg,Luxembourg,Luxembourg,1200131.0
+334,344,Montreal,Montréal,Montréal,300071.0
+335,345,The Hague,The Hague,The Hague,100030.0
+338,348,Iquitos,Iquitos,Iquitos,820.0
+339,349,Flores,Flores,Flores,345.0
+340,350,Rotterdam,Rotterdam,Rotterdam,100027.0
+341,351,Guatemala City,Guatemala City,Guatemala City,282.0
+342,352,Corfu,Corfu,Corfu,773.0
+343,353,Seattle,Seattle,Seattle,300008.0
+344,354,Cape Town,Cape Town,Cape Town,900000.0
+345,355,Antigua Guatemala,Antigua Guatemala,Antigua Guatemala,334.0
+346,356,Melbourne,Melbourne,Melbourne,1200001.0
+347,357,Salvador,Salvador,Salvador,100117.0
+348,358,Chichen Itza,Chichén Itzá,Chichén Itzá,834.0
+349,358,Chichen Itza,Chichén Itzá,Chichén Itzá,1110.0
+350,359,Stavanger,Stavanger,Stavanger,1200204.0
+351,361,Tbilisi,Tbilisi,Tbilisi,1278.0
+352,362,Foz de Iguacu,Foz do Iguaçu,Foz do Iguaçu,1200581.0
+354,364,Vladivostok,Vladivostok,Vladivostok,100090.0
+356,366,Córdoba,Córdoba,Córdoba,3.0
+357,366,Córdoba,Córdoba,Córdoba,1060.0
+358,367,Manaus,Manaus,Manaus,1117.0
+360,370,Agadir,Agadir,Agadir,1200427.0
+367,377,Moshi,Moshi,Moshi,1376.0
+374,385,Lhasa,Lhasa,Lhasa,60151.0
+375,386,Manizales,Manizales,Manizales,1145.0
+376,387,La Paz,La Paz,La Paz,1200079.0
+378,389,Hiroshima,Hiroshima,Hiroshima,600003.0
+379,390,Arusha,Arusha,Arusha,473.0
+381,392,Peniscola,Peñíscola,Peñíscola,550.0
+386,399,Murcia,Murcia,Murcia,30.0
+388,402,San Cristóbal de las Casas,San Cristóbal de las Casas,San Cristóbal de las Casas,1200035.0
+389,403,Palenque,Palenque,Palenque,1200033.0
+391,405,Tuxtla Gutiérrez,Tuxtla Gutiérrez,Tuxtla Gutiérrez,1200046.0
+392,406,Lyon,Lyon,Lyon,223.0
+393,407,Zagreb,Zagreb,Zagreb,100004.0
+394,408,Stratford-upon-Avon,Stratford-upon-Avon,Stratford-upon-Avon,100022.0
+403,428,Cangas de Onís,Cangas de Onís,Cangas de Onís,514.0
+404,431,Ixtapa Zihuatanejo,Ixtapa Zihuatanejo,Ixtapa Zihuatanejo,100137.0
+405,437,Ljubljana,Ljubljana,Ljubljana,1200609.0
+406,440,Palencia,Palencia,Palencia,576.0
+407,441,Avilés,Avilés,Avilés,1265.0
+408,442,Tarifa,Tarifa,Tarifa,19.0
+409,443,Cascais,Cascais,Cascais,100077.0
+411,446,Tossa de Mar,Tossa de Mar,Tossa de Mar,328.0
+412,447,Lloret de Mar,Lloret de Mar,Lloret de Mar,1200244.0
+413,448,Blanes,Blanes,Blanes,300084.0
+417,460,Chiang Rai,Mueang Chiang Rai,Mueang Chiang Rai,1200610.0
+420,469,Thessaloniki,Thessaloniki,Thessaloniki,100066.0
+424,481,Utrecht,Utrecht,Utrecht,1099.0
+430,499,Porto,Porto,Porto,100073.0
+432,505,Montpellier,Montpellier,Montpellier,1200466.0
+433,508,Asunción,Asunción,Asunción,1200578.0
+438,526,Manila,Manila,Manila,600013.0
+442,538,Cork,Cork,Cork,1317.0
+445,547,Windsor,Windsor,Windsor,965.0
+446,550,Salisbury,Salisbury,Salisbury,332.0
+448,556,Murmansk,Murmansk,Murmansk,100088.0
+449,559,Johannesburg,Johannesburg,Johannesburg,900002.0
+450,562,Positano,Positano,Positano,300047.0
+457,583,Galway,Galway,Galway,1139.0
+458,586,Salou,Salou,Salou,539.0
+459,589,Cambrils,Cambrils,Cambrils,1200278.0
+463,601,Zhangjiajie,Zhangjiajie,Zhangjiajie,1049.0
+468,619,Puerto Princesa,Puerto Princesa,Puerto Princesa,360.0
+469,622,El Nido,El Nido,El Nido,367.0
+471,628,Mumbai,Mumbai,Mumbai,600022.0
+473,634,Jaipur,Jaipur,Jaipur,795.0
+475,640,Seoul,Seoul,Seoul,600033.0
+478,649,San Miguel de Allende,San Miguel de Allende,San Miguel de Allende,1200087.0
+480,655,Cebu,Cebu,Cebu,364.0
+481,658,Isla Cristina,Isla Cristina,Isla Cristina,1365.0
+486,673,Viñales,Viñales,Viñales,300056.0
+487,676,Puebla,Puebla,Puebla,100144.0
+488,679,Santiago de Cuba,Santiago de Cuba,Santiago de Cuba,1126.0
+489,682,Gdansk,Gdańsk,Gdańsk,58.0
+490,685,Potsdam,Potsdam,Potsdam,229.0
+492,691,Kiel,Kiel,Kiel,1200589.0
+495,700,Delft,Delft,Delft,100034.0
+498,711,Guanajuato,Guanajuato,Guanajuato,100136.0
+499,714,Brasilia,Brasília,Brasília,100112.0
+504,730,Moguer,Moguer,Moguer,1329.0
+507,739,Sharjah,Sharjah,Sharjah,1196.0
+508,742,Trier,Trier,Trier,225.0
+509,745,Panajachel,Panajachel,Panajachel,1200154.0
+511,751,Aarhus,Aarhus,Aarhus,100101.0
+514,760,Koh Tao,Ko Tao,Ko Tao,300052.0
+516,766,Busan,Busan,Busan,600034.0
+518,772,Hue,Hue,Hue,648.0
+519,775,Belgrade,Belgrade,Belgrade,1374.0
+520,778,Teruel,Teruel,Teruel,9.0
+529,805,Bacalar,Bacalar,Bacalar,865.0
+530,808,Islantilla,Islantilla,Islantilla,1366.0
+534,820,Jodhpur,Jodhpur,Jodhpur,1344.0
+537,829,Jaisalmer,Jaisalmer,Jaisalmer,1201.0
+539,835,Amritsar,Amritsar,Amritsar,1199.0
+544,850,Amposta,Amposta,Amposta,518.0
+545,853,Udaipur,Udaipur,Udaipur,1357.0
+550,868,Braga,Braga,Braga,100071.0
+555,883,Palma de Mallorca,Palma,Palma,300083.0
+556,886,Roses,Roses,Roses,1200732.0
+558,892,São Miguel,Ponta Delgada,Ponta Delgada,304.0
+561,901,Colmar,Colmar,Colmar,905.0
+562,904,Sant Sadurní d'Anoia,Sant Sadurní d'Anoia,Sant Sadurní d'Anoia,1375.0
+566,916,Santo Domingo,Santo Domingo,Santo Domingo,300015.0
+573,937,Innsbruck,Innsbruck,Innsbruck,100084.0
+579,958,San Javier,San Javier,San Javier,1002.0
+585,976,La Ametlla de Mar,L'Ametlla de Mar,L'Ametlla de Mar,1417.0
+588,985,Búzios,Armação dos Búzios,Armação dos Búzios,1200746.0
+593,1000,Queenstown,Queenstown,Queenstown,691.0
+594,1000,Queenstown,Queenstown,Queenstown,1287.0
+595,1003,Husavik,Húsavík,Húsavík,1200559.0
+597,1009,Paraty,Paraty,Paraty,1200403.0
+604,1030,Arriondas,Arriondas,Arriondas,994.0
+609,1045,Portimão,Portimão,Portimão,1200724.0
+611,1051,Aveiro,Aveiro,Aveiro,1200697.0
+615,1063,Leticia,Leticia,Leticia,100126.0
+617,1069,Santiago de Querétaro,Santiago de Querétaro,Santiago de Querétaro,1200119.0
+618,1075,Valladolid,Valladolid,Valladolid,1342.0
+619,1075,Valladolid,Valladolid,Valladolid,1200307.0
+620,1078,Albarracín,Albarracín,Albarracín,11.0
+621,1081,Interlaken,Interlaken,Interlaken,100038.0
+622,1084,Lucerne,Lucerne,Lucerne,100039.0
+626,1096,Elche,Elche,Elche,578.0
+630,1108,Ézaro,Ézaro,Ézaro,1368.0
+637,1130,Consuegra,Consuegra,Consuegra,1200548.0
+646,1151,Honolulu,Honolulu,Honolulu,350.0
+649,1154,Gold Coast,Gold Coast,Gold Coast,806.0
+654,1164,Dallas,Dallas,Dallas,1200282.0
+655,1167,Jerte,Jerte,Jerte,587.0
+658,1176,Leipzig,Leipzig,Leipzig,231.0
+663,1191,Baiona,Baiona,Baiona,1200727.0
+666,1200,San Felíu de Guixols,Sant Feliu de Guíxols,Sant Feliu de Guíxols,1200243.0
+667,1203,Lausanne,Lausanne,Lausanne,300034.0
+672,1218,Pompeii,Pompeii,Pompeii,215.0
+674,1224,Zante,Zákynthos,Zákynthos,100064.0
+677,1231,Jakarta,Jakarta,Jakarta,307.0
+678,1234,Aqaba,Aqaba,Aqaba,300032.0
+679,1237,Cartagena,Cartagena,Cartagena,100157.0
+680,1237,Cartagena,Cartagena,Cartagena,1200169.0
+681,1240,Brno,Brno,Brno,100058.0
+685,1252,Islamabad,Islamabad,Islamabad,646.0
+689,1264,Lecce,Lecce,Lecce,216.0
+690,1267,San Martín de los Andes,San Martín de los Andes,San Martín de los Andes,883.0
+691,1270,Niagara Falls,Niagara Falls,Niagara Falls,1183.0
+692,1273,Niagara Falls,Niagara Falls,Niagara Falls,1183.0
+696,1285,Toro,Toro,Toro,1200689.0
+697,1288,San Gimignano,San Gimignano,San Gimignano,1200486.0
+699,1294,Viña del Mar,Viña del Mar,Viña del Mar,1200164.0
+701,1300,Beirut,Beirut,Beirut,650.0
+704,1313,Aguas Calientes,Aguas Calientes,Aguas Calientes,816.0
+705,1316,Nuremberg,Nuremberg,Nuremberg,234.0
+709,1328,Heidelberg,Heidelberg,Heidelberg,235.0
+710,1331,Nairobi,Nairobi,Nairobi,297.0
+718,1358,Banaue,Banaue,Banaue,375.0
+724,1376,Nafplio,Nafplio,Nafplio,100065.0
+725,1379,Hvar,Hvar,Hvar,1082.0
+730,1396,Cagliari,Cagliari,Cagliari,100044.0
+732,1402,San José,San José,San José,1261.0
+733,1402,San José,San José,San José,1271.0
+734,1402,San José,San José,San José,300030.0
+735,1405,Disneyland Paris,Chessy,Chessy,1200130.0
+737,1411,Melilla,Melilla,Melilla,296.0
+738,1417,Kaatsheuvel,Kaatsheuvel,Kaatsheuvel,1098.0
+741,1426,Coron,Coron,Coron,361.0
+743,1432,Jávea,Xàbia,Xàbia,571.0
+745,1438,Jeju,Jeju City,Jeju City,600039.0
+752,1459,Providencia,Providencia,Providencia,1200369.0
+754,1465,Laredo,Laredo,Laredo,1143.0
+759,1480,Dakar,Dakar,Dakar,1337.0
+765,1501,Pereira,Pereira,Pereira,1200027.0
+773,1525,Puerto Plata,Puerto Plata,Puerto Plata,300017.0
+774,1528,Chennai,Chennai,Chennai,1200735.0
+783,1555,Alcalá la Real,Alcalá,Alcalá,1200288.0
+794,1588,La Fortuna,La Fortuna,La Fortuna,955.0
+801,1609,Puerto Montt,Puerto Montt,Puerto Montt,1200297.0
+814,1651,O Grove,O Grove,O Grove,1200728.0
+815,1654,Maputo,Maputo,Maputo,1200159.0
+821,1672,Trinidad,Trinidad,Trinidad,300024.0
+822,1675,Zumaia,Zumaia,Zumaia,1200377.0
+831,1702,Nara,Nara,Nara,1044.0
+835,1714,Tigre,Tigre,Tigre,1200354.0
+838,1726,Carcassonne,Carcassonne,Carcassonne,221.0
+846,1750,Mandalay,Mandalay,Mandalay,300055.0
+847,1753,Mazagón,Mazagón,Mazagón,1330.0
+848,1756,Mont Saint Michel,Mont Saint-Michel,Mont Saint-Michel,217.0
+850,1762,Dar es Salaam,Dar es Salaam,Dar es Salaam,1200194.0
+853,1771,El Chaltén,El Chaltén,El Chaltén,886.0
+854,1774,Cozumel,Cozumel,Cozumel,100139.0
+855,1777,Kingston,Kingston,Kingston,1200364.0
+856,1780,Malé,Malé,Malé,60152.0
+857,1783,Zanzibar,Zanzibar City,Zanzibar City,60164.0
+865,1810,La Romana,La Romana,La Romana,300022.0
+868,1819,Petropavlovsk-Kamchatsky,Petropavlovsk-Kamchatsky,Petropavlovsk-Kamchatsky,100089.0
+872,1831,Hawaii Island,Honolulu,Honolulu,350.0
+876,1843,León,León,León,989.0
+877,1846,Évora,Évora,Évora,1200549.0
+882,1861,Alberobello,Alberobello,Alberobello,1200241.0
+884,1867,Brisbane,Brisbane,Brisbane,1200132.0
+888,1879,Baracoa,Baracoa,Baracoa,300026.0
+889,1882,Calella,Calella,Calella,1321.0
+891,1888,Castelsardo,Castelsardo,Castelsardo,100046.0
+892,1891,La Paz,La Paz,La Paz,1200079.0
+893,1894,Teotihuacán,Teotihuacán,Teotihuacán,880.0
+899,1912,Oranjestad,Oranjestad,Oranjestad,276.0
+908,1941,Vilnius,Vilnius,Vilnius,44.0
+909,1944,Trakai,Trakai,Trakai,46.0
+913,1956,Koh Chang,Ko Chang,Ko Chang,1200635.0
+915,1963,Reims,Reims,Reims,218.0
+924,1990,Ko Pha Ngan,Ko Pha-ngan,Ko Pha-ngan,391.0
+926,1996,Lille,Lille,Lille,1200129.0
+927,1999,Rabat,Rabat,Rabat,120.0
+928,2002,Chefchaouen,Chefchaouen,Chefchaouen,1036.0
+929,2005,Podgorica,Podgorica,Podgorica,934.0
+930,2008,Aix-en-Provence,Aix-en-Provence,Aix-en-Provence,222.0
+933,2017,Lorca,Lorca,Lorca,100151.0
+940,2038,Ensenada,Ensenada,Ensenada,1200604.0
+941,2042,Labuan Bajo,Labuan Bajo,Labuan Bajo,428.0
+957,2092,Huacachina,Huacachina,Huacachina,823.0
+961,2104,Koh Kut,Ko Kut,Ko Kut,387.0
+962,2107,Font-Rubí,Font-rubí,Font-rubí,1001.0
+967,2122,Vejer de la Frontera,Vejer de la Frontera,Vejer de la Frontera,300060.0
+970,2131,Ensenada,Ensenada,Ensenada,1200604.0
+977,2152,Soria,Soria,Soria,1200667.0
+979,2158,Bocas del Toro,Bocas del Toro,Bocas del Toro,1200525.0
+997,2215,Kotor,Kotor,Kotor,927.0
+998,2218,Cobh,Cobh,Cobh,1200081.0
+999,2221,Yangshuo,Yangshuo,Yangshuo,600016.0
+1000,2224,Chambord,Chambord,Chambord,912.0
+1003,2233,Monteverde,Monteverde,Monteverde,1200685.0
+1011,2257,Jaca,Jaca,Jaca,10.0
+1022,2290,Volendam,Volendam,Volendam,100033.0
+1023,2293,Marken,Marken,Marken,100028.0
+1035,2339,Perth,Perth,Perth,1159.0
+1038,2348,Auckland,Auckland City,Auckland City,690.0
+1058,2411,Mdina,Mdina,Mdina,118.0
+1068,2444,Stirling,Stirling,Stirling,1162.0
+1071,2453,Milos,Milos,Milos,1200193.0
+1085,2497,Odessa,Odessa,Odessa,72.0
+1087,2503,Lviv,Lviv,Lviv,69.0
+1088,2506,Mostar,Mostar,Mostar,1200642.0
+1097,2536,Cairns,Cairns,Cairns,1200072.0
+1098,2539,Aachen,Aachen,Aachen,100110.0
+1114,2587,Les Escaldes,Les Escaldes,Les Escaldes,926.0
+1124,2617,L'Estartit,Torroella de Montgrí,Torroella de Montgrí,1200488.0
+1131,2638,Wellington,Wellington,Wellington,693.0
+1136,2654,Rennes,Rennes,Rennes,904.0
+1138,2660,Essaouira,Essaouira,Essaouira,900006.0
+1144,2678,Lisse,Lisse,Lisse,759.0
+1152,2702,Elvas,Elvas,Elvas,1200550.0
+1160,2723,Zaandam,Zaandam,Zaandam,1200343.0
+1161,2725,Huesca,Huesca,Huesca,8.0
+1169,2737,Serradilla,Serradilla,Serradilla,1135.0
+1173,2741,Ceuta,Ceuta,Ceuta,295.0
+1174,2741,Ceuta,Ceuta,Ceuta,1200011.0
+1184,2752,Bamberg,Bamberg,Bamberg,228.0
+1196,2764,Himeji,Himeji,Himeji,1041.0
+1198,2766,Kanazawa,Kanazawa,Kanazawa,600005.0
+1213,2781,Budva,Budva,Budva,928.0
+1217,2785,Cefalù,Cefalù,Cefalù,1200523.0
+1219,2787,Canterbury,Canterbury,Canterbury,100023.0
+1220,2788,Minsk,Minsk,Minsk,237.0
+1226,2794,Quebec,Québec,Québec,300073.0
+1231,2799,Bernal,Bernal,Bernal,850.0
+1236,2804,Comillas,Comillas,Comillas,568.0
+1239,2807,Monterosso,Monterosso al Mare,Monterosso al Mare,1200274.0
+1251,2819,Foz,Foz,Foz,1200696.0
+1254,2822,Yerevan,Yerevan,Yerevan,485.0
+1259,2827,Jaén,Jaén,Jaén,511.0
+1261,2829,Versailles,Versailles,Versailles,917.0
+1265,2833,Chihuahua,Chihuahua,Chihuahua,876.0
+1282,2852,Urubamba,Urubamba,Urubamba,818.0
+1286,2857,Cadaqués,Cadaqués,Cadaqués,1200349.0
+1288,2859,Riells del Fai,Riells del Fai,Riells del Fai,300085.0
+1292,2863,Ardales,Ardales,Ardales,630.0
+1296,2867,Toruń,Toruń,Toruń,61.0
+1297,2868,Albi,Albi,Albi,914.0
+1303,2874,Huraa,Huraa,Huraa,437.0
+1310,2882,Kilkenny,Kilkenny,Kilkenny,1318.0
+1313,2885,Dhiffushi,Dhiffushi,Dhiffushi,435.0
+1320,2892,Quetzaltenango,Quezaltenango,Quezaltenango,337.0
+1332,2904,Puerto Galera,Puerto Galera,Puerto Galera,600014.0
+1349,2921,Sirmione,Sirmione,Sirmione,900.0
+1351,2923,Jarabacoa,Jarabacoa,Jarabacoa,300021.0
+1352,2924,Ostuni,Ostuni,Ostuni,1200351.0
+1362,2934,Korčula,Korčula,Korčula,100007.0
+1368,2940,Amarante,Amarante,Amarante,100072.0
+1370,2942,Mazatlán,Mazatlán,Mazatlán,831.0
+1378,2950,Castellón de la Plana,Castelló de la Plana,Castelló de la Plana,574.0
+1380,2952,Sesimbra,Sesimbra,Sesimbra,1275.0
+1399,2971,Somo,Somo,Somo,1200720.0
+1400,2972,Benicassim,Benicàssim,Benicàssim,557.0
+1406,2978,Sagres,Sagres,Sagres,100079.0
+1407,2979,Aínsa,Aínsa,Aínsa,12.0
+1427,2999,Lagoa,Lagoa,Lagoa,1200725.0
+1431,3004,Guadalajara,Guadalajara,Guadalajara,100140.0
+1434,3008,São Jorge,São Jorge,São Jorge,1200093.0
+1439,3013,Koblenz,Koblenz,Koblenz,230.0
+1442,3016,Ribadelago Nuevo,Ribadelago Nuevo,Ribadelago Nuevo,1373.0
+1448,3022,Dijon,Dijon,Dijon,910.0
+1451,3025,Besalú,Besalú,Besalú,623.0
+1453,3027,Figueras,Figueres,Figueres,1200234.0
+1464,3038,Salento,Salento,Salento,1255.0
+1474,3048,Villa La Angostura,Villa La Angostura,Villa La Angostura,1200228.0
+1484,3058,Combarro,Combarro,Combarro,1200726.0
+1490,3064,San Luis,San Luis,San Luis,854.0
+1500,3074,Celorio,Celorio,Celorio,1015.0
+1501,3075,Playa de Aro,Platja d'Aro,Platja d'Aro,1000.0
+1505,3079,Castelldefels,Castelldefels,Castelldefels,1200051.0
+1513,3088,Níjar,Níjar,Níjar,289.0
+1523,3098,Nigrán,Nigrán,Nigrán,1010.0
+1526,3101,Cudillero,Cudillero,Cudillero,1200256.0
+1527,3102,Lastres,Lastres,Lastres,1393.0
+1528,3103,Luarca,Luarca,Luarca,1200567.0
+1533,3110,Covarrubias,Covarrubias,Covarrubias,1200250.0
+1536,3113,Zahara de la Sierra,Zahara de la Sierra,Zahara de la Sierra,625.0
+1541,3120,Morella,Morella,Morella,613.0
+1546,3125,Beget,Beget,Beget,1200405.0
+1547,3126,Pals,Pals,Pals,1200262.0
+1555,3134,Alquézar,Alquézar,Alquézar,1200342.0
+1571,3150,El Burgo de Osma,Burgo de Osma,Burgo de Osma,1200666.0
+1578,3157,Puebla de Sanabria,Puebla de Sanabria,Puebla de Sanabria,1200718.0
+1579,3158,Miravet,Miravet,Miravet,300080.0
+1590,3169,Daimiel,Daimiel,Daimiel,608.0
+1619,3201,El Palmar de Vejer,El Palmar de Vejer,El Palmar de Vejer,555.0
+1621,3203,Palomino,Palomino,Palomino,1253.0
+1635,3217,Mar del Plata,Mar del Plata,Mar del Plata,100122.0
+1637,3219,Maafushi,Maafushi,Maafushi,60153.0
+1642,3224,Santander,Santander,Santander,20.0
+1657,3240,Kutna Hora,Kutna Hora,Kutna Hora,100057.0
+1658,3241,Karlovy Vary,Karlovy Vary,Karlovy Vary,100056.0
+1664,3250,Stepantsminda,Stepantsminda,Stepantsminda,1233.0
+1684,3270,Byron Bay,Byron Bay,Byron Bay,1200002.0
+1685,3271,Wanaka,Wanaka,Wanaka,700.0
+1688,3274,Riviera Nayarit,Riviera Nayarit,Riviera Nayarit,1109.0
+1690,3276,Guardalavaca,Guardalavaca,Guardalavaca,300025.0
+1693,3279,Morelia,Morelia,Morelia,100143.0
+1694,3280,Whistler,Whistler,Whistler,1200230.0
+1695,3281,Tampa,Tampa,Tampa,1200024.0
+1715,3301,Rethymno,Rethymno,Rethymno,783.0
+1726,3312,Addu,Addu,Addu,60154.0
+1740,3326,Espot,Espot,Espot,1200054.0
+1753,3340,Killarney,Killarney,Killarney,1310.0
+1765,3352,Zakopane,Zakopane,Zakopane,1028.0
+1770,3357,Victoria,Victoria,Victoria,135.0
+1771,3357,Victoria,Victoria,Victoria,1200038.0
+1787,3373,Holbox,Holbox,Holbox,832.0
+1791,3377,Capri,Capri,Capri,100049.0
+1804,3390,Asheville,Asheville,Asheville,100111.0
+1810,3396,Edam,Edam,Edam,100032.0
+1819,3405,Hospitalet de Llobregat,L'Hospitalet de Llobregat,L'Hospitalet de Llobregat,1200687.0
+1820,3406,Badalona,Badalona,Badalona,564.0
+1825,3411,Leganés,Leganés,Leganés,1200622.0
+1828,3414,Dos Hermanas,Dos Hermanas,Dos Hermanas,100152.0
+1829,3415,Torrejón de Ardoz,Torrejón de Ardoz,Torrejón de Ardoz,1200215.0
+1831,3417,Mataró,Mataró,Mataró,996.0
+1835,3421,Quintanilla del Agua,Quintanilla del Agua,Quintanilla del Agua,1200249.0
+1839,3425,Ceský Krumlov,Český Krumlov,Český Krumlov,100055.0
+1862,3448,Puerto de la Selva,El Port de la Selva,El Port de la Selva,558.0
+1863,3449,Begur,Begur,Begur,300087.0
+1865,3451,Palafrugell,Palafrugell,Palafrugell,1240.0
+1866,3452,Palamós,Palamós,Palamós,640.0
+1867,3453,Banyoles,Banyoles,Banyoles,1012.0
+1868,3454,Empuriabrava,Empuriabrava,Empuriabrava,1147.0
+1869,3455,Sant Pere Pescador,Sant Pere Pescador,Sant Pere Pescador,1200694.0
+1870,3456,Sant Martí d'Empúries,Sant Martí d'Empúries,Sant Martí d'Empúries,1200741.0
+1872,3458,Torroella de Montgrí,Torroella de Montgrí,Torroella de Montgrí,1200488.0
+1875,3461,Ancud,Ancud,Ancud,1200649.0
+1881,3467,Talavera de la Reina,Talavera de la Reina,Talavera de la Reina,1200048.0
+1882,3468,Cornellá de Llobregat,Cornellà de Llobregat,Cornellà de Llobregat,300036.0
+1883,3469,San Cugat del Vallés,Sant Cugat del Vallès,Sant Cugat del Vallès,1200121.0
+1886,3472,Sant Boi de Llobregat,Sant Boi de Llobregat,Sant Boi de Llobregat,300051.0
+1897,3483,Villanueva y Geltrú,Vilanova i la Geltrú,Vilanova i la Geltrú,1200007.0
+1900,3486,El Prat de Llobregat,El Prat de Llobregat,El Prat de Llobregat,1200283.0
+1909,3495,Mollet del Vallés,Mollet del Vallès,Mollet del Vallès,1200210.0
+1923,3509,Espluges de Llobregat,Esplugues de Llobregat,Esplugues de Llobregat,1200755.0
+1928,3514,Sant Feliú de Llobregat,Sant Feliu de Llobregat,Sant Feliu de Llobregat,1200626.0
+1930,3516,Mairena del Aljarafe,Mairena del Aljarafe,Mairena del Aljarafe,100104.0
+1937,3523,Trancoso,Trancoso,Trancoso,1244.0
+1942,3528,Perpignan,Perpignan,Perpignan,1200173.0
+1945,3531,Torla-Ordesa,Torla-Ordesa,Torla-Ordesa,592.0
+1949,3535,Bagergue,Bagergue,Bagergue,617.0
+1955,3541,Igualada,Igualada,Igualada,569.0
+1962,3548,Alhaurín de la Torre,Alhaurín de la Torre,Alhaurín de la Torre,575.0
+1976,3562,Olot,Olot,Olot,1200530.0
+2005,3593,Premiá de Mar,Premià de Mar,Premià de Mar,1017.0
+2012,3600,Lepe,Lepe,Lepe,1404.0
+2049,3638,Tampere,Tampere,Tampere,50.0
+2054,3644,Perito Moreno,Perito Moreno Glacier,Perito Moreno Glacier,1062.0
+2067,3657,Frutillar,Frutillar,Frutillar,685.0
+2068,3658,Iquique,Iquique,Iquique,671.0
+2069,3659,Copiapó,Copiapó,Copiapó,1200021.0
+2070,3660,Coyhaique,Coyhaique,Coyhaique,1200391.0
+2074,3664,Olkhon Island,Olkhon Island,Olkhon Island,1149.0
+2090,3680,Queralbs,Queralbs,Queralbs,1200207.0
+2091,3681,Novosibirsk,Novosibirsk,Novosibirsk,100092.0
+2097,3687,Rebollar,Rebollar,Rebollar,1136.0
+2101,3691,Cabezuela del Valle,Cabezuela del Valle,Cabezuela del Valle,1200239.0
+2103,3693,S'Agaró,S'Agaró,S'Agaró,1004.0
+2106,3696,San Pedro Tlaquepaque,San Pedro Tlaquepaque,San Pedro Tlaquepaque,1200540.0
+2107,3697,Vinuesa,Vinuesa,Vinuesa,601.0
+2109,3699,Astún,Astún,Astún,1200261.0
+2111,3701,Canillo,Canillo,Canillo,1200277.0
+2112,3702,Encamp,Encamp,Encamp,918.0
+2113,3703,Ordino,Ordino,Ordino,100052.0
+2114,3704,La Massana,La Massana,La Massana,921.0
+2115,3705,Andorra la Vella,Andorra la Vella,Andorra la Vella,100051.0
+2116,3706,San Julià de Loria,Sant Julià de Lòria,Sant Julià de Lòria,1096.0
+2118,3708,Ullastret,Ullastret,Ullastret,1398.0
+2154,3745,Porto de Galinhas,Porto de Galinhas,Porto de Galinhas,1118.0
+2157,3748,Jyväskylä,Jyväskylä,Jyväskylä,1200477.0
+2163,3754,Boltaña,Boltaña,Boltaña,549.0
+2167,3758,San Carlos de la Rápita,Sant Carles de la Ràpita,Sant Carles de la Ràpita,1008.0
+2174,3765,Gustavia,Gustavia,Gustavia,287.0
+2183,3774,Arenas de San Pedro,Arenas de San Pedro,Arenas de San Pedro,594.0
+2192,3783,Cercedilla,Cercedilla,Cercedilla,1269.0
+2202,3793,Delphi,Delphi,Delphi,100062.0
+2206,3797,Torres del Paine,Torres del Paine,Torres del Paine,1200395.0
+2209,3800,La Vega,La Vega,La Vega,1200748.0
+2210,3801,Comitán de Domínguez,Comitán de Domínguez,Comitán de Domínguez,875.0
+2213,3804,Escaladei,Escaladei,Escaladei,506.0
+2223,3814,Grindelwald ,Grindelwald,Grindelwald,300031.0
+2224,3815,Santo Domingo de Silos,Santo Domingo de Silos,Santo Domingo de Silos,1200251.0
+2230,3821,Trinidad,Trinidad,Trinidad,300024.0
+2240,3831,Mompox,Mompox,Mompox,100129.0
+2255,3846,Bern,Bern,Bern,100035.0
+2261,3852,Antofagasta ,Antofagasta,Antofagasta,684.0
+2278,3869,Barbastro,Barbastro,Barbastro,1331.0
+2281,3872,Futaleufú,Futaleufú,Futaleufú,1200380.0
+2282,3873,Arica,Arica,Arica,672.0
+2292,3883,Figueira da Foz,Figueira da Foz,Figueira da Foz,1200266.0
+2295,3886,Aguascalientes ,Aguascalientes,Aguascalientes,881.0
+2302,3893,Ras al-Khaimah,Ras al-Jaima,Ras al-Jaima,1197.0
+2307,3898,Kiruna,Kiruna,Kiruna,980.0
+2309,3900,Vila Real de Santo António,Vila Real de Santo António,Vila Real de Santo António,1200723.0
+2319,3910,Valdivia,Valdivia,Valdivia,1200365.0
+2320,3911,Porto Santo Stefano,Porto Santo Stefano,Porto Santo Stefano,1200690.0
+2324,3915,Saint Andrews,St. Andrew,St. Andrew,202.0
+2351,3942,Pirque,Pirque,Pirque,1200376.0
+2354,3945,Colunga,Colunga,Colunga,1392.0
+2359,3950,San Agustín,San Agustín,San Agustín,1200557.0
+2362,3953,Ilhabela,Ilhabela,Ilhabela,972.0
+2372,3963,Montreux,Montreux,Montreux,100149.0
+2380,3971,Basel,Basel,Basel,300042.0
+2399,3990,Klosterneuburg,Klosterneuburg,Klosterneuburg,1088.0
+2405,3996,Piedralaves,Piedralaves,Piedralaves,629.0
+2408,3999,Otavalo ,Otavalo,Otavalo,666.0
+2416,4007,Seyðisfjörður,Seyðisfjörður,Seyðisfjörður,100002.0
+2433,4024,Vevey ,Vevey,Vevey,1200634.0
+2434,4025,Malang,Malang,Malang,1200656.0
+2444,4035,Puerto Tranquilo,Puerto Río Tranquilo,Puerto Río Tranquilo,1200390.0
+2446,4037,Fribourg,Fribourg,Fribourg,300050.0
+2458,4049,Toluca,Toluca de Lerdo,Toluca de Lerdo,873.0
+2468,4059,Chile Chico,Chile Chico,Chile Chico,1200479.0
+2469,4060,Puerto Williams,Puerto Williams,Puerto Williams,682.0
+2489,4080,Chetumal ,Chetumal,Chetumal,1200077.0
+2500,4091,Punta Hermosa,Punta Hermosa,Punta Hermosa,1200616.0
+2504,4095,Salt Lake City,Salt Lake City,Salt Lake City,1200103.0
+2510,4101,Charleston ,Charleston,Charleston,937.0
+2518,4109,Santa Cruz,Santa Cruz,Santa Cruz,279.0
+2522,4113,Binibeca,Binibeca,Binibeca,600.0
+2524,4115,Cala en Porter,Cala en Porter,Cala en Porter,598.0
+2525,4116,Cala Galdana,Cala Galdana,Cala Galdana,1142.0
+2527,4118,Ciudadela,Ciutadella,Ciutadella,300078.0
+2529,4120,Es Mercadal,Es Mercadal,Es Mercadal,633.0
+2530,4121,Ferrerías,Ferreries,Ferreries,1018.0
+2531,4122,Fornells,Fornells,Fornells,1167.0
+2532,4123,Mahón,Maó,Maó,513.0
+2549,4140,San Ġwann,San Ġwann,San Ġwann,97.0
+2551,4142,Castellammare del Golfo,Castellammare del Golfo,Castellammare del Golfo,897.0
+2567,4159,Portinatx,Portinatx,Portinatx,1221.0
+2571,4163,San Jorge de ses Salines,Sant Jordi de ses Salines,Sant Jordi de ses Salines,767.0
+2573,4165,Ibiza Town,Ibiza City,Ibiza City,1200110.0
+2575,4167,Alcudia,Alcúdia,Alcúdia,509.0
+2577,4169,Sóller,Sóller,Sóller,1200474.0
+2582,4174,Santa Ponsa,Santa Ponsa,Santa Ponsa,1200416.0
+2589,4181,San Agustín,San Agustín,San Agustín,1200557.0
+2607,4199,Los Angeles,Los Angeles,Los Angeles,300002.0
+2614,4206,Vers-Pont-du-Gard,Vers-Pont-du-Gard,Vers-Pont-du-Gard,1023.0
+2615,4207,Hyères ,Hyères,Hyères,1200136.0
+2616,4208,Sliema,Sliema,Sliema,99.0
+2619,4211,San Julián,Saint Julian,Saint Julian,96.0
+2620,4212,Gżira,Gżira,Gżira,90.0
+2623,4215,Ta' Xbiex,Ta' Xbiex,Ta' Xbiex,101.0
+2626,4218,Playa del Carmen,Playa del Carmen,Playa del Carmen,836.0
+2628,4220,Puerto Aventuras,Puerto Aventuras,Puerto Aventuras,847.0
+2629,4221,Akumal,Akumal,Akumal,845.0
+2630,4222,Tulum,Tulum,Tulum,100138.0
+2632,4224,Rosarito,Rosarito,Rosarito,1200151.0
+2635,4227,Costa Adeje,Costa Adeje,Costa Adeje,1200144.0
+2636,4228,Puerto de la Cruz,Puerto de la Cruz,Puerto de la Cruz,745.0
+2637,4229,Las Cañadas del Teide ,Las Cañadas del Teide,Las Cañadas del Teide,643.0
+2638,4230,Los Cristianos,Los Cristianos,Los Cristianos,1200143.0
+2640,4232,Buenavista del Norte,Buenavista del Norte,Buenavista del Norte,751.0
+2643,4235,Garachico,Garachico,Garachico,740.0
+2644,4236,Icod de los Vinos,Icod de los Vinos,Icod de los Vinos,741.0
+2645,4237,La Orotava,La Orotava,La Orotava,746.0
+2647,4239,San Andrés,San Andrés,San Andrés,1200025.0
+2648,4240,Santa Cruz de Tenerife,Santa Cruz de Tenerife,Santa Cruz de Tenerife,754.0
+2650,4242,Candelaria,Candelaria,Candelaria,753.0
+2655,4247,Playa de las Américas,Playa de las Américas,Playa de las Américas,1200444.0
+2657,4249,Adeje,Adeje,Adeje,993.0
+2658,4250,Santiago del Teide,Santiago del Teide,Santiago del Teide,750.0
+2661,4253,Arona,Arona,Arona,742.0
+2668,4260,Banjul ,Banjul,Banjul,1336.0
+2670,4262,Los Gigantes,Los Gigantes,Los Gigantes,1200145.0
+2674,4266,Agaete,Agaete,Agaete,591.0
+2675,4267,Las Palmas de Gran Canaria,Las Palmas de Gran Canaria,Las Palmas de Gran Canaria,300079.0
+2677,4269,Tejeda,Tejeda,Tejeda,551.0
+2678,4270,Agüimes,Agüimes,Agüimes,1414.0
+2679,4271,Maspalomas,Maspalomas,Maspalomas,533.0
+2680,4272,Mogán,Mogán,Mogán,1400.0
+2695,4287,Hornopiren ,Hornopirén,Hornopirén,1200381.0
+2713,4305,Ölüdeniz,Ölüdeniz,Ölüdeniz,1200713.0
+2718,4310,Belo Horizonte,Belo Horizonte,Belo Horizonte,100115.0
+2732,4324,Playa Blanca,Playa Blanca,Playa Blanca,1200263.0
+2738,4330,Yaiza,Yaiza,Yaiza,585.0
+2745,4337,Santa Cruz de La Palma,Santa Cruz de la Palma,Santa Cruz de la Palma,997.0
+2749,4341,El Paso,El Paso,El Paso,637.0
+2750,4341,El Paso,El Paso,El Paso,748.0
+2768,4359,Kaunas ,Kaunas,Kaunas,45.0
+2805,4396,Río Negro,Río Negro,Río Negro,689.0
+2811,4402,Maipú ,Maipú,Maipú,1200301.0
+2827,4418,Page,Page,Page,939.0
+2852,4443,Mellieħa,Mellieħa,Mellieħa,138.0
+2864,4456,Ponta Delgada,Ponta Delgada,Ponta Delgada,304.0
+2877,4470,Ribes de Freser,Ribes de Freser,Ribes de Freser,631.0
+2882,4475,Ceglie Messapica,Ceglie Messapica,Ceglie Messapica,1200394.0
+2885,4478,San Marino,San Marino City,San Marino City,241.0
+2887,4480,Ponta do Sol,Ponta do Sol,Ponta do Sol,974.0
+2888,4481,Santa Cruz,Santa Cruz,Santa Cruz,279.0
+2890,4483,Machico,Machico,Machico,1200092.0
+2891,4484,Santana,Santana,Santana,976.0
+2892,4485,Caniçal,Caniçal,Caniçal,973.0
+2894,4487,São Vicente,São Vicente,São Vicente,1200088.0
+2895,4488,Porto da Cruz,Porto da Cruz,Porto da Cruz,1200095.0
+2901,4494,Curitiba ,Curitiba,Curitiba,1200356.0
+2905,4498,Barú ,Barú,Barú,1200023.0
+2908,4501,Poblenou del Delta,Poblenou del Delta,Poblenou del Delta,1296.0
+2910,4503,Enna,Enna,Enna,1200275.0
+2925,4518,Pamukkale,Pamukkale,Pamukkale,600010.0
+2932,4525,Damajagua ,Damajagua,Damajagua,1194.0
+2935,4528,Palm Springs,Palm Springs,Palm Springs,1200442.0
+2937,4530,Plettenberg Bay,Plettenberg Bay,Plettenberg Bay,503.0
+2940,4533,Granadilla,Granadilla,Granadilla,743.0
+2947,4540,Pollensa ,Pollença,Pollença,1250.0
+2978,4571,Ollantaytambo,Ollantaytambo,Ollantaytambo,1200271.0
+2979,4572,Yucay,Yucay,Yucay,814.0
+2984,4577,Arraial do Cabo,Arraial do Cabo,Arraial do Cabo,1200743.0
+2989,4582,Pasajes,Pasajes,Pasajes,609.0
+2998,4591,Ihéus,Ilhéus,Ilhéus,300053.0
+3007,4600,Isla Mujeres,Isla Mujeres,Isla Mujeres,300009.0
+3009,4602,São Sebastião,São Sebastião,São Sebastião,1334.0
+3019,4612,Waimanalo,Waimanalo,Waimanalo,732.0
+3029,4622,Wadi Rum,Wadi Rum Village,Wadi Rum Village,300014.0
+3038,4631,Veytaux,Veytaux,Veytaux,300041.0
+3055,4648,Thun,Thun,Thun,1200149.0
+3056,4649,Brienz ,Brienz,Brienz,756.0
+3057,4650,Spiez,Spiez,Spiez,1200455.0
+3079,4672,Ouro Preto,Ouro Preto,Ouro Preto,100113.0
+3120,4714,Manzanillo,Manzanillo,Manzanillo,1200017.0
+3145,4739,Cabezabellosa,Cabezabellosa,Cabezabellosa,622.0
+3150,4744,Te Anau,Te Anau,Te Anau,459.0
+3157,4751,San José de Maipo,San José de Maipo,San José de Maipo,947.0
+3189,4783,Mission Beach,Mission Beach,Mission Beach,803.0
+3195,4789,Amboseli,Amboseli National Park,Amboseli National Park,298.0
+3198,4792,Monsanto,Monsanto,Monsanto,100075.0
+3207,4801,Matosinhos,Matosinhos,Matosinhos,1200253.0
+3217,4811,Neuquén,Neuquén,Neuquén,885.0
+3219,4813,Kaneohe ,Kaneohe,Kaneohe,736.0
+3236,4830,Loreto,Loreto,Loreto,1200080.0
+3244,4838,Cuiabá,Cuiabá,Cuiabá,971.0
+3247,4841,La Roda,La Roda,La Roda,1200018.0

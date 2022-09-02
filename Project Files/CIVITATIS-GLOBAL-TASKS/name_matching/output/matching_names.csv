@@ -1,0 +1,3235 @@
+,destinationId,civitatis_name,counter,first_best,second_best,third_best
+0,1,Venice,0,Venice,Vic,Venhuizen
+1,2,Madrid,1,Madrid,Mérida,Mérida
+2,3,Prague,2,Prague,Page,Pirque
+3,4,Menorca,3,Mendoza,Lorca,Glenorchy
+4,5,London,4,London,Condado,Lyon
+5,6,Marrakech,5,Marrakech,Marken,
+6,7,Dublin,6,Dublin,Dubai,Duingt
+7,8,New York,7,New York City,York,
+8,9,Las Vegas,8,Las Vegas,La Vega,Las Galeras
+9,12,Valladolid,9,Valladolid,Valladolid,Nalladai
+10,13,Bangkok,10,Bangkok,Sanok,Hanko
+11,14,Budapest,11,Budapest,Bucharest,Budva
+12,15,Hong Kong,12,Pong Yaeng,,
+13,16,Paris,13,Paris,Pardiñas,Paradise
+14,17,Lisbon,14,Lisbon,Livingston,Sispony
+15,18,Dubai,15,Dubai,Mumbai,Dublin
+16,19,Rome,16,Rome,Nome,Roses
+17,20,Florence,17,Florence,Flores,Glencoe
+18,21,Istanbul,18,Istanbul,Kabul,
+19,22,Singapore,19,Singakerta,Siangan,Pingyao
+20,23,Amsterdam,20,Amsterdam,Rotterdam,Amposta
+21,24,Tokyo,21,Toro,Tokyo City,Mokpo
+22,25,Porto,22,Porto,Portimão,Loreto
+23,26,San Francisco,23,San Francisco,Sant Francesc,Sant Ferran
+24,27,Miami,24,Miami,Michamvi,Miami Beach
+25,28,Brussels,25,Brussels,Bruges,Bassella
+26,29,Vienna,26,Vienna,Siena,Verona
+27,30,Berlin,27,Berlin,Bern,Brienz
+28,31,Edinburgh,28,Edinburgh,,
+29,32,Fez,29,Foz,Fet,
+30,33,Athens,30,Athens,Aachen,Ansa
+31,35,Barcelona,31,Barcelona,Bargemon,Badalona
+32,36,Maldives,32,Saldes,Madison,Valdivia
+33,40,Milan,33,Milan,Pilani,Manila
+34,42,Beijing,34,Beijing,Beng,Diqing
+35,43,Shanghai,35,Shanghai,Changi,Schwangau
+36,44,Bali,36,Bangli,Bari,Bandoli
+37,46,Oslo,37,Oslo,Olot,Osorno
+38,47,Bucharest,38,Bucharest,Budapest,Charleston
+39,48,Buenos Aires,39,Buenos Aires,Benares,
+40,49,Ibiza,40,Ibiza,Yaiza,Xàbia
+41,50,Munich,41,Munich,Funchal,
+42,51,Bruges,42,Bruges,Berge,Burgos
+43,52,Granada,43,Granada,Granada,Granadilla
+44,53,Cuenca,44,Cuenca,Quena,Huesca
+45,54,Riviera Maya,45,Riviera Maya,Riviera Nayarit,
+46,55,Krakow,46,Kraków,Kirkop,Karakoumi
+47,56,Xi'an,47,Xi'An,Tai'an,Xàbia
+48,57,Seville,48,Seville,Asheville,Serravalle
+49,58,Ghent,49,Ghent,,
+50,61,Civitavecchia,50,,,
+51,62,Puerto Iguazú,51,Puerto Iguazú,Puerto Guadal,Puerto Aventura
+52,63,El Calafate,52,El Chalten,El Salto,El Tarter
+53,64,Kyoto,53,Kyoto,Kotor,Kolo
+54,65,Boston,54,Boston,Broto,Bristol
+55,66,Bratislava,55,Brasília,,
+56,67,Casablanca,56,Casablanca,Playa Blanca,Salamanca
+57,68,Antwerp,57,Antwerp,,
+58,69,Washington DC,58,Washington D.C.,Wellington,
+59,70,Los Angeles,59,Los Angeles,Anglesea,Los Llaos
+60,71,Girona,60,Girona,Gżira,Girne
+61,72,Segovia,61,Segovia,Soria,Sofia
+62,74,Cappadocia,62,,,
+63,75,Bilbao,63,Bilbao,Bijilo,Bielsa
+64,77,Abu Dhabi,64,Abu Dhabi,,
+65,78,Merzouga,65,Berga,,
+66,79,Toledo,66,Toledo,Toledo,Tourlos
+67,80,Mallorca,67,Masella,Malbork,Marbella
+68,81,Córdoba,68,Córdoba,Córdoba,Cardonal
+69,82,Livorno,69,Liverpool,Osorno,Loreto
+70,83,Málaga,70,Málaga,Malang,
+71,84,Marseille,71,Masella,Marbella,Marganell
+72,85,Genoa,72,Geneva,Teno,Mendoza
+73,86,Savona,73,Savolinna,Sannat,La Savina
+74,87,Monaco,74,Monsanto,Moscow,Monticello
+75,88,Toulon,75,Tourlos,Toledo,Toledo
+76,89,La Spezia,76,La Tejita,La Bañeza,Trapeza
+77,90,Cannes,77,Rennes,Llanes,Cisnes
+78,91,Nice,78,Nice,Venice,
+79,92,Mexico City,79,Mexico City,Vatican City,Jeju City
+80,93,Cancun,80,Cancún,Carnac,Canggu
+81,94,Naples,81,Naples,Saldes,Viñales
+82,95,Alicante,82,Alicante,Amarante,Arica
+83,96,Benidorm,83,Benidorm,Benijo,
+84,97,Cairo,84,El Cairo,Cairns,Nairobi
+85,98,Luxor,85,Luxor,Luxembourg,Lorca
+86,99,Aswan,86,Aswan,Ulsan,Busan
+87,100,Hurghada,87,Hurghada,Huraa,Turaida
+88,101,Sharm el Sheikh,88,Sharm El-Sheikh,,
+89,102,Jerusalem,89,Versam,Versailles,
+90,103,Tel Aviv,90,,,
+91,104,Chicago,91,Chicago,Chinchero,Chinatown
+92,105,Philadelphia,92,Viladellops,,
+93,106,Bergamo,93,Bergamo,Berga,Brampton
+94,107,Muscat,94,Masca,Musoma,Murcia
+95,108,Rio de Janeiro,95,Río de Janeiro,,
+96,109,Tenerife,96,Trier,,
+97,110,Gran Canaria,97,Granadilla,Candelaria,Las Palmas de Gran Canaria
+98,111,Santander,98,Santander,Sangamner,Santa Venera
+99,112,Warsaw,99,Warsaw,Marsa,Wrocław
+100,113,Moscow,100,Moscow,,
+101,114,St Petersburg,101,Saint Petersburg,St. Peters,St. Peter Port
+102,115,Lima,102,Lima,Lija,Ligia
+103,117,Pamplona,103,Pamplona,Palomino,Palencia
+104,118,Cuzco,104,Cusco,,
+105,119,Cadiz,105,Cádiz,Cardiff,Caladino
+106,120,Valencia,106,Valencia,Palencia,Vasileia
+107,121,Jerez,107,Jerte,Zernez,Berge
+108,122,Pisa,108,Pisa,Pisac,Perissa
+109,123,Nizhny Novgorod,109,,,
+110,124,Salamanca,110,Salamanca,Tlamacas,Salcea
+111,125,Punta Cana,111,Punta Cana,Punta Ballena,Punta Arenas
+112,126,Bariloche,112,Bari,,
+113,127,Mendoza,113,Mendoza,Menznau,Menton
+114,128,Puerto Madryn,114,Puerto Madryn,Puerto Varas,Puerto Montt
+115,129,Salta,115,Salcea,Gualta,Santoña
+116,130,Ushuaia,116,Ushuaia,Zumaia,
+117,131,Carmona,117,Cardonal,Carnac,Carlton
+118,132,Ronda,118,Ronda,La Roda,Condado
+119,133,Arcos de la Frontera,119,Arcos de la Frontera,Palos de la Frontera,Vejer de la Frontera
+120,134,Lanzarote,120,Lanzarote,Llanars,
+121,135,El Puerto de Santa María,121,Puerto de la Cruz,Puebla de Sanabria,Puerto Aventura
+122,136,Sanlúcar de Barrameda,122,Santa María de la Alameda,Santa Cruz de la Palma,
+123,137,San Sebastián,123,San Sebastián - Donostia,São Sebastião,Svaneti
+124,138,Cáceres,124,Cáceres,Cres,Cervantes
+125,139,Mérida,125,Mérida,Mérida,Msida
+126,140,Ica,126,Ica,Icalma,
+127,141,Alexandria,127,Alexandria,Almendras,Candelaria
+128,142,Paracas,128,Paracas,Karavas,Baracoa
+129,143,Nazca,129,Nara,Jaca,Yaiza
+130,144,Santorini,130,Santa Monica,Sankt Moritz,Santo Domingo
+131,145,Trujillo,131,Trujillo,Urquillos,
+132,146,Fuerteventura,132,Puerto Aventura,Aventura,Premantura
+133,147,Huelva,133,Huelva,Puebla,Huesca
+134,148,Dubrovnik,134,Dubrovnik,,
+135,149,Santiago de Compostela,135,Santiago de Compostela,Santiago de Cuba,Santiago de Surco
+136,150,Seychelles,136,Centelles,Canyelles,
+137,151,Mauritius,137,Marousi,,
+138,152,Egypt,138,Espot,,
+139,153,A Coruña,139,A Coruña,Coura,Corfu
+140,154,Almería,140,Almora,Almendras,Amsterdam
+141,155,Havana,141,Havana,Hana,Savaneta
+142,156,Varadero,142,Varadero,Paradera,Paradise
+143,157,La Palma,143,Palma,La Paz,La Pastora
+144,158,León,144,León,Lupeni,Leshan
+145,159,Los Cabos,145,Los Cabos,Los Llaos,Los Cristianos
+146,160,Puerto Vallarta,146,Puerto Vallarta,Puerto Varas,Puerto Plata
+147,161,Faro,147,Faros,Ézaro,Barro
+148,162,Alcalá de Henares,148,Alcolea del Pinar,,
+149,163,Lagos,149,Lagos,Lagoa,Lagunas
+150,164,Albufeira,150,Albury,Albi,
+151,165,Zaragoza,151,Zaragoza,Zarauz,Tarragona
+152,166,Tarragona,152,Tarragona,Zaragoza,Tauranga
+153,167,Baeza,153,Balzan,La Bañeza,Trapeza
+154,168,Orlando,154,Orlando,Orléans,Ordino
+155,169,Vigo,155,Vigevano,,
+156,170,San Diego,156,San Diego,Santo Domingo,Santiago
+157,171,San Antonio,157,San Alfonso,Sant Antoni de Calonge,Sant Antoni de Portmany
+158,173,Sydney,158,Sydney,,
+159,174,Stockholm,159,Stockholm,Sokcho,
+160,175,Copenhagen,160,Copenhagen,,
+161,176,Chiang Mai,161,Chiang Mai,Changi,Shanghai
+162,177,Arequipa,162,Arequipa,Arica,
+163,178,Puno,163,Puno,Vouno,Puyun
+164,179,Tunis,164,Thun,Zunil,
+165,180,Badajoz,165,Badajoz,Badalona,
+166,181,Villagarcía de Arousa,166,Vilafranca de Bonany,,
+167,182,Amman,167,Amman,Uman,Amarante
+168,183,Formentera,168,Florence,Forest,Premantura
+169,184,Oviedo,169,Oviedo,,
+170,185,Llanes,170,Llanes,Blanes,Llanars
+171,186,Reykjavík,171,Reykjavík,,
+172,187,Biarritz,172,Biarritz,Bisharri,Bari
+173,188,Mykonos,173,Mykonos,Meknes,
+174,189,Heraklion,174,Berlin,,
+175,190,Bayonne,175,Bonnieux,Banyoles,Blanes
+176,191,Rhodes,176,Rhodes,Roses,Gordes
+177,192,Santoña,177,Santoña,Santana,Salento
+178,193,Malta,178,Malay,Murata,Mataró
+179,194,Quito,179,Quito,Iquitos,
+180,195,Lugo,180,Lugano,Luxor,Lagos
+181,196,Sitges,181,Sitges,Sigean,Sagres
+182,197,Braşov,182,Bergamo,Baracoa,Brno
+183,198,Saint-Jean-de-Luz,183,Santander,,
+184,199,Siem Reap,184,Krong Siem Reap,Sliema,Sidemen
+185,200,Vitoria-Gasteiz,185,Victoria,Victoria,
+186,201,Phuket,186,Phuket,Pupukea,
+187,202,Úbeda,187,Ikeda,,
+188,203,Tallin,188,Tallinn,Talloires,Tai'an
+189,204,Helsinki,189,Helsinki,,
+190,205,Riga,190,Ligia,Sigean,
+191,206,Guayaquil,191,,,
+192,207,Hanoi,192,Hanoi,Hanko,Hanalei
+193,208,Ho Chi Minh,193,Ho Chi Minh City,,
+194,209,Cuenca,194,Cuenca,Quena,Huesca
+195,210,La Gomera,195,La Goleta,Las Galeras,La Conreria
+196,212,Kuala Lumpur,196,Kualapuu,,
+197,213,Tromsø,197,Tromsø,Tomares,Toro
+198,214,Cali,198,Calp,Capri,Caladino
+199,215,Bagan,199,Braga,Balzan,Bagnes
+200,216,Santiago de Chile,200,Santiago de Cuba,Santiago del Teide,Santiago de la Ribera
+201,217,Macau,201,Masca,Manaus,Jaca
+202,218,Kyiv,202,,,
+203,219,Livingstone,203,Livingston,Kingston,
+204,220,Bogotá,204,Bogotá,Boom,
+205,221,Malmö,205,Malé,Palma,Miami
+206,222,Düsseldorf,206,,,
+207,223,San Andrés,207,San Andrés,Sant'Andrea,San Alfonso
+208,224,Koh Samui,208,Koh Samui,,
+209,225,Hoi An,209,Hội An,,
+210,226,Chachapoyas,210,Chiapas,Chacalal,Canapost
+211,227,Panama City,211,Panama City,Mwanza City,Zanzibar City
+212,228,Frankfurt,212,Frankfurt,,
+213,229,Belfast,213,Belcastel,Delft,Bellapais
+214,230,Medellín,214,Medellín,,
+215,231,Brighton,215,Bristol,Kingston,Brampton
+216,232,Oxford,216,Oxford,Watford,
+217,233,Cambridge,217,Cambridge,Chambord,Cambrils
+218,234,Zurich,218,Zürich,Munich,
+219,235,Montevideo,219,Montevideo,Monteverde,Motides
+220,236,Punta del Este,220,Punta de Mita,Buenavista del Norte,Cuacos de Yuste
+221,237,Cartagena de Indias,221,Cartagena,Cartagena,Cartagena
+222,238,York,222,York,Cork,Konark
+223,239,Logroño,223,Logroño,Loreto,
+224,240,Gijón,224,Gijón,Girne,Gines
+225,241,Dresden,225,Dresden,Dedin,Darien
+226,242,Valparaíso,226,Valparaíso,Valdragone,
+227,243,Manchester,227,Manchester,Kandersteg,
+228,244,Chiclayo,228,Chicago,Chivay,Chacalal
+229,245,Puerto Varas,229,Puerto Varas,Puerto Galera,Puerto Natales
+230,246,Hamburg,230,Hamburg,Bamberg,Salzburg
+231,247,Liverpool,231,Liverpool,Livera,
+232,248,Geneva,232,Geneva,Yerevan,Senglea
+233,249,Punta Arenas,233,Punta Arenas,Punta Prieta,Punta Cana
+234,250,Puerto Natales,234,Puerto Natales,Puerto Varas,Puerto Plata
+235,251,San Pedro de Atacama,235,San Pedro de la Paz,Santa Cruz de la Palma,
+236,252,Tangier,236,Trier,Stavanger,Sangamner
+237,253,San Vicente de la Barquera,237,San Vicente de la Barquera,San Vicente La Mesilla,Sant Climent de Llobregat
+238,254,Rovaniemi,238,Svaneti,,
+239,255,Santa Marta,239,Santa Mustiola,Santa Catalina,Santa Pau
+240,256,Easter Island,240,Easter Island,Fraser Island,Greater Island
+241,257,Ranua,241,Roxana,Roaguia,Hana
+242,258,Cologne,242,Calonge,Bologna,Coron
+243,259,Bordeaux,243,Bordeaux,Montreux,Bonnieux
+244,260,Turin,244,Turaida,Trinity,Thun
+245,261,Padua,245,Paju,Pardiñas,Zadar
+246,262,Siena,246,Siena,Vienna,Sliema
+247,263,Palermo,247,Palermo,Palma,El Palmer
+248,264,Catania,248,Catania,Cartagena,Cartagena
+249,265,Messina,249,Mehsana,Msida,Misurina
+250,266,Bologna,250,Bologna,Boltigen,Badalona
+251,267,Rimini,251,,,
+252,268,Trieste,252,Eriste,Trier,Nordeste
+253,269,Bari,253,Bari,Barú,Paris
+254,270,Salerno,254,Salento,Palermo,Sanok
+255,271,Funchal,255,Funchal,Munich,Cuenca
+256,272,Terceira,256,Pereira,Pedreira,Cercedilla
+257,274,San Lorenzo de El Escorial,257,San Lorenzo de El Escorial,Sant Llorenç de Montgai,
+258,275,Sorrento,258,Loreto,Toronto,Sort
+259,276,Victoria Falls,259,Victoria,Victoria,Niagara Falls
+260,277,Salzburg,260,Salzburg,Salisbury,Valkenburg
+261,278,Calp,261,Calp,Capri,Chajul
+262,279,Kazan,262,Kazafani,Kalkan,Balzan
+263,280,Acapulco,263,Arauco,,
+264,281,Bergen,264,Bergen,Berge,Bierge
+265,282,Delhi,265,Delhi,Delphi,Delika
+266,283,Guadalajara,266,Guadalajara,Guardalavaca,Gudja
+267,284,Mérida,267,Mérida,Mérida,Msida
+268,285,Haro,268,Hvar,Huairou,Ézaro
+269,286,Meis,269,Reims,Minsk,Milos
+270,287,Angkor,270,Ankara,Bangkok,Agra
+271,288,Bath,271,Bath,Kathu,Hatch
+272,289,Cardiff,272,Cardiff,Capri,Tarifa
+273,290,Bristol,273,Bristol,Broto,Barbastro
+274,291,Sancti Petri,274,St. Peters,Svaneti,Sant Ferran
+275,292,Jaén,275,Jaén,Jaun,
+276,293,Gothenburg,276,Gothenburg,Klosterneuburg,Johannesburg
+277,294,Agra,277,Agra,Agirda,Fgura
+278,295,Kathmandu,278,Kathmandu,Kathu,Kakadu
+279,296,Haarlem,279,Haarlem,Hanalei,Halle
+280,297,Vancouver,280,Vancouver,West Vancouver,Alcover
+281,298,Natal,281,Nara,Navalcán,Narra
+282,299,Ávila,282,Milan,,
+283,300,Colonia del Sacramento,283,Playa del Carmen,,
+284,301,Huatulco,284,Hatch,,
+285,302,Krabi,285,Krini,Khwai,Karmi
+286,303,Trujillo,286,Trujillo,Urquillos,
+287,304,San José,287,San José,San José,San José
+288,305,Oaxaca,288,Oaxaca,Paracas,Baracoa
+289,306,El Hierro,289,El Cairo,El Serrat,El Cuervo
+290,307,Puerto Escondido,290,Puerto Escondido,Puerto Viejo,Puerto Montt
+291,308,Burgos,291,Burgos,Baros,Bruges
+292,309,Vila Nova de Gaia,292,Vila Nova de Gaia,Vila Nova de Cacela,Vilanova de Sau
+293,310,Vilaseca,293,Vitacura,Vasileia,Valencia
+294,311,Manuel Antonio,294,Menton,,
+295,312,El Rompido,295,El Nido,,
+296,313,Orbaneja del Castillo,296,Arenal d'en Castell,El Castillo,
+297,314,Aranda de Duero,297,Arenas de San Pedro,Santiago de Surco,Santiago de Querétaro
+298,315,Arenal,298,Arona,Bernal,Agrelo
+299,316,Glasgow,299,Glasgow,Guaso,Glarus
+300,317,Split,300,Split,Spiez,
+301,318,Fort Lauderdale,301,,,
+302,319,Torremolinos,302,Tourlos,Toronto,Templos
+303,320,New Orleans,303,New Orleans,Orléans,
+304,321,Marbella,304,Marbella,Morella,Masella
+305,322,Bremen,305,Bremgarten,Bargemon,Göreme
+306,323,Wroclaw,306,Wrocław,Warsaw,
+307,324,Toronto,307,Toronto,Toro,Porto
+308,325,Phnom Penh,308,Phnom Penh,,
+309,326,Chania,309,Changi,Catania,Caniçal
+310,327,Sochi,310,Sochi,Sokcho,Sychari
+311,328,Sao Paulo,311,São Paulo,Santa Pau,
+312,329,Victoria,312,Victoria,Victoria,Fiorina
+313,330,Zadar,313,Zadar,Zaandam,Zarqa
+314,331,Fortaleza,314,Trapeza,Fontana,
+315,333,Chengdu,315,Chongzuo,Chepu,Changi
+316,334,Sintra,316,Sintra,Siena,Siurana
+317,335,Cala Gonone,317,Caleta Gonzalo,Cala Montjoi,Calonge
+318,337,Benalmadena,318,Belgrade,Salamanca,
+319,338,Guilin,319,Gulhi,Dublin,Gili Indah
+320,339,Lleida,320,Lleida,Lecina,Leticia
+321,340,Sofia,321,Sofia,Soria,Siwa
+322,341,Verona,322,Verona,Arona,Vienna
+323,342,Osaka,323,Osaka,Omala,Odesa
+324,343,Luxembourg,324,Luxembourg,Luxor,Nuremberg
+325,344,Montreal,325,Montréal,Mont-ral,Montreux
+326,345,The Hague,326,The Hague,Te Anau,
+327,346,Torrevieja,327,Torteval,Torredembarra,Torre del Ram
+328,347,Taipei,328,Trapeza,Tarxien,Tampere
+329,348,Iquitos,329,Iquitos,Quito,Urquillos
+330,349,Flores,330,Flores,Forest,Fornells
+331,350,Rotterdam,331,Rotterdam,Amsterdam,Rotorua
+332,351,Guatemala City,332,Guatemala City,Panama City,Vatican City
+333,352,Corfu,333,Corfu,Cork,A Coruña
+334,353,Seattle,334,Seattle,Seixal,Saldes
+335,354,Cape Town,335,Cape Town,Cape Tribulation,
+336,355,Antigua Guatemala,336,Antigua Guatemala,,
+337,356,Melbourne,337,Melbourne,South Melbourne,Malbork
+338,357,Salvador,338,Salvador,Caladino,Salou
+339,358,Chichen Itza,339,Chichén Itzá,Chichén Itzá,
+340,359,Stavanger,340,Stavanger,Savaneta,Sangamner
+341,361,Tbilisi,341,Tbilisi,,
+342,362,Foz de Iguacu,342,Foz do Iguaçu,Salto de Agua,
+343,363,Guijuelo,343,Puelo,,
+344,364,Vladivostok,344,Vladivostok,Galavotto,
+345,365,Toulouse,345,Tourlos,Tulum,
+346,366,Córdoba,346,Córdoba,Córdoba,Cardonal
+347,367,Manaus,347,Manaus,Maras,Maafushi
+348,369,Morales de Toro,348,Bocas del Toro,,
+349,370,Agadir,349,Agadir,Agirda,S'Agaró
+350,371,Sarajevo,350,Varadero,,
+351,372,Husafell,351,Halle,,
+352,373,Kaliningrad,352,Savolinna,Kalograia,
+353,374,Yekaterinburg,353,Valkenburg,Valkenburg,Gothenburg
+354,375,Volgograd,354,Bologna,,
+355,376,Setenil de las Bodegas,355,,,
+356,377,Moshi,356,Moshi,Marousi,Naoshima
+357,378,El Rocío,357,El Torno,El Nicho,
+358,379,Fludir,358,,,
+359,380,Fuengirola,359,,,
+360,381,Estepona,360,Esna,Ensenada,Essen
+361,382,Chiclana de la Frontera,361,Palos de la Frontera,Arcos de la Frontera,Vejer de la Frontera
+362,384,Yogyakarta,362,Jakarta,South Jakarta,Singakerta
+363,385,Lhasa,363,Lhasa,Lausanne,Shawa
+364,386,Manizales,364,Manizales,Manila,Manaus
+365,387,La Paz,365,La Paz,La Bañeza,La Pastora
+366,388,Florianopolis,366,Floriana,,
+367,389,Hiroshima,367,Hiroshima,Naoshima,
+368,390,Arusha,368,Arusha,Aarhus,Ansa
+369,391,Port Said,369,Porto Moniz,,
+370,392,Peniscola,370,Peñíscola,Perissa,Pisa
+371,393,Isabela Island,371,Talcan Island,Saona Island,Pemba Island
+372,396,Santa Cruz Island,372,Santa Cruz Uno,Saona Island,Santa Cruz
+373,397,San Cristobal Island,373,San Cristóbal,Manitoulin Island,Saona Island
+374,398,Saint-Emilion,374,Saignon,,
+375,399,Murcia,375,Murcia,Misurina,Ourika
+376,401,Bastia,376,Brasília,Batumi,Baiona
+377,402,San Cristóbal de las Casas,377,San Cristóbal de las Casas,San Cristóbal,Santa Cruz de la Palma
+378,403,Palenque,378,Palenque,Palencia,Benasque
+379,404,Veracruz,379,Verul,,
+380,405,Tuxtla Gutiérrez,380,Tuxtla Gutiérrez,,
+381,406,Lyon,381,Lyon,Nyon,London
+382,407,Zagreb,382,Zagreb,Sagres,Zhangye
+383,408,Stratford-upon-Avon,383,Stratford-upon-Avon,,
+384,409,Akureyri,384,Akrotiri,,
+385,411,Alghero,385,Algarrobo,Aveiro,Agrelo
+386,414,Orosei,386,O Grove,Marousi,
+387,415,Boca del Rio,387,Bocas del Toro,,
+388,416,Naxos,388,Naousa,Nuévalos,Naoshima
+389,419,Paros,389,Paris,Faros,Baros
+390,422,Olbia,390,Oia,Elia,Albi
+391,425,Portsmouth,391,Porto,Portimão,Fort Worth
+392,428,Cangas de Onís,392,Cangas de Onís,Casbas de Huesca,Cangas
+393,431,Ixtapa Zihuatanejo,393,Ixtapa Zihuatanejo,,
+394,437,Ljubljana,394,Ljubljana,Llanars,
+395,440,Palencia,395,Palencia,Valencia,Providencia
+396,441,Avilés,396,Avilés,Anciles,
+397,442,Tarifa,397,Tarifa,Tai'an,Mtarfa
+398,443,Cascais,398,Cascais,Masca,Las Cascadas
+399,444,Estoril,399,Astore,,
+400,446,Tossa de Mar,400,Tossa de Mar,Viña del Mar,Lloret de Mar
+401,447,Lloret de Mar,401,Lloret de Mar,Premià de Mar,Arenys de Mar
+402,448,Blanes,402,Blanes,Llanes,Bagnes
+403,451,Pineda de Mar,403,Viña del Mar,Punta de Mita,Premià de Mar
+404,454,San Teodoro,404,San Isidro,San Diego,
+405,457,Recife,405,Ribe,,
+406,460,Chiang Rai,406,Chiang Mai,Changi,Mueang Chiang Rai
+407,463,Norwich,407,Portichol,Zürich,
+408,466,Llandudno,408,Orlando,,
+409,469,Thessaloniki,409,Thessaloniki,,
+410,472,Trogir,410,Trier,Trevor,Toro
+411,475,Galashiels,411,Cashel,,
+412,478,Bled,412,Toledo,Toledo,Lleida
+413,481,Utrecht,413,Utrecht,Ullastret,
+414,484,Pipa,414,Pisa,Pimpale,Pisac
+415,487,Ajaccio,415,Arauco,,
+416,490,Porticcio,416,Portichol,Porto,Portimão
+417,493,Sagone,417,Saignon,Skagen,Sarnen
+418,496,Cargese,418,Cres,Clarens,Cardedeu
+419,499,Porto,419,Porto,Portimão,Loreto
+420,502,Monterey,420,Montseny,Montreux,Montserrat
+421,505,Montpellier,421,Montpellier,Monticello,Montevideo
+422,508,Asunción,422,Asunción,,
+423,514,Roquetas de Mar,423,Lloret de Mar,Tossa de Mar,Punta de Mita
+424,517,Aguadulce,424,,,
+425,520,Praia do Forte,425,Arraial do Cabo,,
+426,523,Koh Lanta Yai,426,Ko Lanta Noi,,
+427,526,Manila,427,Manila,Milan,Malay
+428,529,Windhoek,428,Windsor,,
+429,532,Alfacar,429,Alcalá,,
+430,535,Pattaya,430,Bantayan,Ayutthaya,Paraty
+431,538,Cork,431,Cork,York,Coura
+432,541,Newcastle upon Tyne,432,,,
+433,544,Niagara-on-the-Lake,433,,,
+434,547,Windsor,434,Windsor,,
+435,550,Salisbury,435,Salisbury,Salzburg,Albury
+436,553,Maragogi,436,Marousi,Zaragoza,Marmagne
+437,556,Murmansk,437,Murmansk,Marmagne,Hermanus
+438,559,Johannesburg,438,Johannesburg,Gothenburg,Janjanbureh
+439,562,Positano,439,Positano,Los Cristianos,Rosarito
+440,565,San Juan,440,Saint Julian's,San Ġwann,Ban Luang
+441,568,Bournemouth,441,,,
+442,571,Birmingham,442,Ribeirinha,,
+443,574,Varna,443,Verona,Carnac,Vardzia
+444,577,Nesebar,444,Nebaj,Nosara,
+445,580,Balchik,445,Ballachulish,Rapchi,Bangli
+446,583,Galway,446,Galway,Malay,Gualta
+447,586,Salou,447,Salou,Salento,Salzburg
+448,589,Cambrils,448,Cambrils,Camber,Cambridge
+449,592,Eilat,449,Elia,El Salto,Milan
+450,595,Grasse,450,Graus,Grabs,Gerasa
+451,598,Chester,451,Manchester,Whistler,Chessy
+452,601,Zhangjiajie,452,Zhangjiajie,Zhangye,Shanghai
+453,607,Derry,453,,,
+454,610,La Pineda,454,La Gineta,La Savina,La Paz
+455,613,Port Barton,455,Porto Moniz,Porto,Porto Santo Stefano
+456,616,Poitiers,456,Motides,,
+457,619,Puerto Princesa,457,Puerto Princesa,Puerto Cisnes,Punta Prieta
+458,622,El Nido,458,El Nido,El Nicho,El Cairo
+459,625,Inverness,459,,,
+460,628,Mumbai,460,Mumbai,Dubai,Zumaia
+461,631,Kochi,461,Sochi,Moshi,Khwai
+462,634,Jaipur,462,Jaipur,Udaipur,Bandipur
+463,637,Fajardo,463,Faros,Laredo,
+464,640,Seoul,464,Seoul,Yeosu,Verul
+465,643,Cabra del Camp,465,Playa del Carmen,Cabo de Gata,Cabezuela del Valle
+466,646,Cluj,466,,,
+467,649,San Miguel de Allende,467,San Miguel de Allende,Sant Miquel de Balenyà,San Miguel
+468,652,Puerto Maldonado,468,Puerto Madryn,Puerto Montt,Puerto Galera
+469,655,Cebu,469,Cebu,Chepu,Ceuta
+470,658,Isla Cristina,470,Isla Cristina,Pristina,Los Cristianos
+471,661,Bohol,471,Bol,Boom,Broto
+472,664,Montecatini Terme,472,Montejo de Tiermes,,
+473,667,Kaohsiung,473,Khao Phang,Mahinog,
+474,670,Guadalest,474,Budapest,Gualta,Ardales
+475,673,Viñales,475,Viñales,Vale,Manizales
+476,676,Puebla,476,Puebla,Puelo,Huelva
+477,679,Santiago de Cuba,477,Santiago de Cuba,Santiago de Surco,Santiago de Querétaro
+478,682,Gdansk,478,Gdańsk,,
+479,685,Potsdam,479,Potsdam,Rotterdam,
+480,688,Mijas,480,Mijares,Mirasol,Lija
+481,691,Kiel,481,Kiel,Kihei,Kitzbühel
+482,694,Nerja,482,Thera,Níjar,Nebaj
+483,697,Leiden,483,Lleida,Lecina,Sidemen
+484,700,Delft,484,Delft,Delhi,
+485,703,Gozo,485,Lozoya,Gormaz,
+486,707,Puerto Banus,486,Puerto Varas,Puerto San José,Puerto Madryn
+487,711,Guanajuato,487,Guanajuato,,
+488,714,Brasilia,488,Brasília,Vasileia,Bassella
+489,717,La Macarena,489,La Massana,La Manga,Las Margaritas
+490,718,Puerto Quetzal,490,Puerto Guadal,Puerto Natales,Puerto Aventura
+491,721,Luoyang,491,Goyang,Yuanyang,Ban Luang
+492,727,Rosario,492,Rosarito,Hostalric,Roslin
+493,730,Moguer,493,Moguer,,
+494,733,Bollullos Par del Condado,494,,,
+495,736,Niebla,495,Nebaj,Puebla,Bielsa
+496,739,Sharjah,496,Sharjah,Shawa,Saqqarah
+497,742,Trier,497,Trier,Trevor,Tarxien
+498,745,Panajachel,498,Panajachel,Panjer,
+499,748,Medina,499,Mdina,Dedin,Lecina
+500,751,Aarhus,500,Aarhus,Aarau,Glarus
+501,754,Kalambaka,501,Kalambo,Salamanca,Kalkan
+502,757,Kastraki,502,Karakoumi,Al Karak,Karya
+503,760,Koh Tao,503,Ko Tao,Ko Tarutao,Koh Samui
+504,763,Ålesund,504,,,
+505,766,Busan,505,Busan,Busuanga,Bunutan
+506,769,Guangzhou,506,Gwangju,,
+507,772,Hue,507,Hue,Huesca,Huelva
+508,775,Belgrade,508,Belgrade,Berge,Berga
+509,778,Teruel,509,Teruel,Verul,Eersel
+510,781,Geiranger,510,Girne,Kiratnagar,
+511,784,San Salvador de Jujuy,511,,,
+512,787,Potes,512,Potsdam,Motides,Roses
+513,790,Lake Myvatn,513,La Manga,,
+514,793,Da Nang,514,Danyang,Ao Nang,La Manga
+515,796,Aranjuez,515,Amarante,Alajuela,Aarau
+516,799,San Miguel de Tucumán,516,San Miguel de Allende,Sant Miquel de Balenyà,San Miguel
+517,802,Isla Canela,517,Islantilla,Isla Cristina,Ilhabela
+518,805,Bacalar,518,Bacalar,Chacalal,Banyalbufar
+519,808,Islantilla,519,Islantilla,La Puntilla,Manila
+520,811,Pune,520,Puno,Puyun,Puelo
+521,814,Bourg Saint Maurice,521,Mont Saint-Michel,,
+522,817,Tours,522,Tourlos,Toro,Tomares
+523,820,Jodhpur,523,Jodhpur,Kondur,Jaipur
+524,823,El Portil,524,El Peñol,Portichol,El Tor
+525,826,Varanasi,525,Paracas,Karavas,Tauranga
+526,829,Jaisalmer,526,Jaisalmer,Jasper,Las Galeras
+527,832,Rishikesh,527,,,
+528,835,Amritsar,528,Amritsar,Arica,
+529,838,Pushkar,529,Pukaki,Arusha,
+530,841,Bangalore,530,Bangli,Banaue,Hanalei
+531,844,Navarcles,531,Naples,Navamorcuende,Haarlem
+532,847,Punta Umbría,532,Punta Prieta,Punta Arenas,Punta Hermosa
+533,850,Amposta,533,Amposta,Mosta,Comporta
+534,853,Udaipur,534,Udaipur,Jaipur,Bandipur
+535,856,Sapa,535,Tampa,Shawa,Anapa
+536,859,Goa,536,Goyang,Gormaz,Girona
+537,862,Torre del Mar,537,Torre del Ram,Lloret de Mar,Torres del Paine
+538,865,Guimarães,538,Gures,Tomares,Mijares
+539,868,Braga,539,Braga,Berga,Orga
+540,871,La Manga del Mar Menor,540,,,
+541,874,Colombo,541,Combarro,Holbox,Colmar
+542,877,Villahermosa,542,Villaricos,Villar,Viladellops
+543,880,Bonn,543,Donón,Bonnieux,Yongin
+544,883,Palma de Mallorca,544,Alhama de Murcia,Paul do Mar,Playa de Bolonia
+545,886,Roses,545,Roses,Rhodes,Rome
+546,889,Doha,546,Dahab,Dogana,Dhital
+547,892,São Miguel,547,San Miguel,São Paulo,
+548,895,Lombok,548,Romblon,Somo,
+549,898,Keelung,549,Dalung,,
+550,901,Colmar,550,Colmar,Combarro,Tomares
+551,904,Sant Sadurní d'Anoia,551,Sant Sadurní d'Anoia,Sant Jaume d'Enveja,
+552,907,Amboise,552,Abidos,,
+553,910,Strasbourg,553,Salzburg,Fribourg,Salisbury
+554,913,Sarlat,554,Sannat,Salcea,Paraty
+555,916,Santo Domingo,555,Santo Domingo,Santo Domingo de Silos,San Diego
+556,919,Sagunto,556,Santoña,Salento,Saignon
+557,922,Huerta,557,Huraa,Murata,Lupeta
+558,925,Uyuni,558,Zunil,Puyun,
+559,928,Caño Island,559,Saona Island,Guafo Island,Cayo Coco Island
+560,931,Pau,560,Paju,Prague,Pecatu
+561,934,Zagora,561,Zarqa,Lagoa,Zaragoza
+562,937,Innsbruck,562,Innsbruck,,
+563,940,Antequera,563,Aventura,Antwerp,
+564,943,Warwick,564,Warsaw,,
+565,946,Bahía Drake,565,Baikal Lake,Bay Lake,Baia Mare
+566,952,Poole,566,Pollença,Moroleón,Provo
+567,955,Fuenmayor,567,,,
+568,958,San Javier,568,San Javier,Sa Riera,Santander
+569,961,Potosí,569,Porto,Potsdam,
+570,964,Sucre,570,Suceava,Gures,
+571,967,Limasol,571,Lima,Mirasol,Tzimol
+572,970,Rurrenabaque,572,Benasque,,
+573,973,Surabaya,573,Siurana,Huraa,Empuriabrava
+574,976,La Ametlla de Mar,574,Lloret de Mar,Arenys de Mar,
+575,979,Nha Trang,575,Khao Phang,Nara,
+576,982,Balneario Camboriú,576,,,
+577,985,Búzios,577,Bosa,,
+578,988,Portugalete,578,Portlligat,Portinatx,Porqueres
+579,991,Neiva,579,Nebaj,,
+580,994,Ribadavia,580,,,
+581,997,Key West,581,,,
+582,1000,Queenstown,582,Queenstown,Queenstown,Quezon
+583,1003,Husavik,583,Húsavík,Gustavia,Huesca
+584,1006,Sierra de Gata,584,Cabo de Gata,Ribera de Cardós,
+585,1009,Paraty,585,Paraty,Pájara,Perast
+586,1012,Angra dos Reis,586,Armação dos Búzios,,
+587,1015,Rueda,587,Rundugai,Ronda,Quena
+588,1018,Medina del Campo,588,Mairena del Alcor,Venta de Baños,
+589,1021,Valbuena de Duero,589,Toluca de Lerdo,Valdevaqueros,
+590,1024,Cubillas de Santa Marta,590,Puebla de Sanabria,Villa Santa Lucía,
+591,1027,San Vicente de la Sonsierra,591,San Vicente de la Barquera,San Vicente La Mesilla,Vejer de la Frontera
+592,1030,Arriondas,592,Arriondas,Arona,Aitona
+593,1033,Ribadesella,593,Masella,Ciutadella,Bassella
+594,1036,Quarteira,594,Yuriria,Pereira,
+595,1039,Sarria,595,Soria,Narra,Shakaria
+596,1042,Sueca,596,Huesca,Cuenca,Suceava
+597,1045,Portimão,597,Portimão,Porto,Portichol
+598,1048,Denia,598,Dénia,Delika,Kyrenia
+599,1051,Aveiro,599,Aveiro,Airolo,Alcover
+600,1054,Roatán,600,Roxana,Comitán,
+601,1057,Vilamoura,601,Vitacura,Vilaflor,Villar
+602,1060,Pangkalan Bun,602,Pangani,Pang Mu,
+603,1063,Leticia,603,Leticia,Lecina,Ligia
+604,1066,Zamora,604,Zarqa,Zarauz,Almora
+605,1069,Santiago de Querétaro,605,Santiago de Querétaro,Santiago de Surco,Santiago de Cuba
+606,1075,Valladolid,606,Valladolid,Valladolid,Nalladai
+607,1078,Albarracín,607,Albarracín,,
+608,1081,Interlaken,608,Interlaken,Innertkirchen,
+609,1084,Lucerne,609,Lucerne,Lauenen,Zernez
+610,1087,Calgary,610,Malay,Cagliari,Galapagar
+611,1090,Caravaca de la Cruz,611,Puerto de la Cruz,Barranco de la Verga,
+612,1093,Vík,612,,,
+613,1096,Elche,613,Elche,El Nicho,
+614,1099,Poznan,614,Pong Yaeng,Piornal,Fontana
+615,1102,Bot,615,Broto,Boston,Bol
+616,1105,Whitehorse,616,,,
+617,1108,Ézaro,617,Ézaro,Faros,Barro
+618,1111,Maui,618,Marousi,Masua,Maipú
+619,1114,Hangzhou,619,Yangshuo,Hanoi,Hanko
+620,1117,Coimbra,620,Sesimbra,Jimbaran,Coura
+621,1120,Santiponce,621,Santiago,Santa Monica,Santander
+622,1123,Plasencia,622,Palencia,Valencia,Pilani
+623,1127,Kauai,623,Kaunas,Kamari,Kalami
+624,1130,Consuegra,624,Consuegra,Coura,Montserrat
+625,1133,Como,625,Somo,Coron,Comporta
+626,1136,Kusadasi,626,,,
+627,1139,San Fernando,627,Sant Ferran,San Francisco,San Candido
+628,1142,Pokhara,628,Pájara,Paraty,Nosara
+629,1145,Ouarzazate,629,,,
+630,1148,Luang Prabang,630,Bang Phra,,
+631,1149,Bran,631,Brno,Bern,Busan
+632,1150,Ferrara,632,Ferreries,Gerasa,Ararat
+633,1151,Honolulu,633,Honolulu,,
+634,1152,Pontevedra,634,Monteverde,Montserrat,Montserrat
+635,1153,Ravenna,635,Savolinna,Vienna,Sannat
+636,1154,Gold Coast,636,Gold Coast,Na Pali Coast,
+637,1157,Vientiane,637,Vienna,Venice,Ginatilan
+638,1158,Launceston,638,Launsdorf,Llanes,Queenstown
+639,1159,Arce,639,Arica,Arbúcies,Astore
+640,1161,Inírida,640,Inari,Mérida,Mérida
+641,1164,Dallas,641,Dallas,Gallarus,Palamós
+642,1167,Jerte,642,Jerte,Keratea,Tavertet
+643,1170,Grand Canyon West Rim,643,,,
+644,1173,Grand Canyon South Rim,644,,,
+645,1176,Leipzig,645,Leipzig,,
+646,1179,Baños de la Encina,646,Palos de la Frontera,Cabo de la Vela,
+647,1182,Portonovo,647,Provo,Porto,Ngorongoro
+648,1185,Bueu,648,Begur,Museum,Bwejuu
+649,1188,San Salvador,649,Salvador,San Javier,St. Saviour
+650,1191,Baiona,650,Baiona,Badalona,Girona
+651,1194,Cangas de Morrazo,651,Cangas de Onís,,
+652,1197,Plailly,652,Pal,Pai,
+653,1200,San Felíu de Guixols,653,Sant Feliu de Guíxols,Sant Feliu de Llobregat,
+654,1203,Lausanne,654,Lausanne,Lauenen,Lhasa
+655,1206,Calera de León,655,Talavera de la Reina,Valle de la Luna,
+656,1209,Phoenix,656,Chamonix,,
+657,1212,Erfurt,657,Frankfurt,Edfu,
+658,1215,Pico,658,Pisac,Portichol,Sichon
+659,1218,Pompeii,659,Pompeii,,
+660,1221,Montego Bay,660,Mossel Bay,Montseny,Montezuma
+661,1224,Zante,661,Zhangye,Zakopane,Amarante
+662,1227,Ocho Ríos,662,,,
+663,1230,Basseterre,663,,,
+664,1231,Jakarta,664,Jakarta,West Jakarta,Kalkara
+665,1234,Aqaba,665,Aqaba,Mqabba,Taba
+666,1237,Cartagena,666,Cartagena,Cartagena,Cartagena
+667,1240,Brno,667,Brno,Bern,Broto
+668,1243,Tehran,668,Thera,Terrasini,Leshan
+669,1246,Shiraz,669,Sintra,Spiazzi,Siurana
+670,1249,Tunuyán,670,,,
+671,1252,Islamabad,671,Islamabad,,
+672,1255,Karachi,672,Garachico,Karya,Karmi
+673,1258,Finisterre,673,,,
+674,1261,Nashville,674,Asheville,Seville,
+675,1264,Lecce,675,Lecce,Lepe,Liencres
+676,1267,San Martín de los Andes,676,San Martin de los Andes,Zahara de los Atunes,Santa María de la Alameda
+677,1270,Niagara Falls,677,Niagara Falls,Iguazu Falls,Naltar Valley
+678,1273,Niagara Falls,678,Niagara Falls,Iguazu Falls,Naltar Valley
+679,1276,Jacó,679,Jaca,,
+680,1279,Trapani,680,Trakai,Trapeza,Traquair
+681,1282,Guanacaste,681,Guanajuato,Manchester,
+682,1285,Toro,682,Toro,Tourlos,Toronto
+683,1288,San Gimignano,683,San Gimignano,San Diego,Santo Domingo
+684,1291,Orense,684,Orléans,Dresden,Clarens
+685,1294,Viña del Mar,685,Viña del Mar,Balcón del Mar,Tossa de Mar
+686,1297,Runaway Bay,686,,,
+687,1300,Beirut,687,Beirut,Birgu,Bern
+688,1304,Chinchón,688,Chinchero,Chichén Itzá,Chichén Itzá
+689,1307,Guetaria,689,Gustavia,Gaira,Puerto Varas
+690,1313,Aguas Calientes,690,Aguas Calientes,Aguascalientes,
+691,1316,Nuremberg,691,Nuremberg,Luxembourg,Bamberg
+692,1319,Yangon,692,Yangshuo,Yangapi,Siangan
+693,1322,Mombasa,693,Monemvasia,Mosta,Masua
+694,1325,Rothenburg,694,Gothenburg,Klosterneuburg,Johannesburg
+695,1328,Heidelberg,695,Heidelberg,Feldberg,Oberiberg
+696,1331,Nairobi,696,Nairobi,Ngari,Nagiso
+697,1334,Swakopmund,697,,,
+698,1340,Saranda,698,Sagada,Zaandam,Siurana
+699,1343,San Miguel de Meruelo,699,San Miguel de Allende,Sant Miquel de Balenyà,San Miguel
+700,1346,Bremerhaven,700,Bremgarten,,
+701,1349,Lahore,701,Loreto,Laredo,Lastres
+702,1352,Airlie Beach,702,Miami Beach,Mission Beach,Bondi Beach
+703,1355,Siargao,703,Siangan,Santiago,Sintra
+704,1358,Banaue,704,Banaue,Benasque,Manaus
+705,1361,Skaftafell,705,,,
+706,1364,Xàtiva,706,Xàbia,,
+707,1367,Argostoli,707,Bristol,,
+708,1370,Katakolo,708,Kolo,Santa Coloma,
+709,1373,Noja,709,Níjar,Nosara,
+710,1376,Nafplio,710,Nafplio,Naples,Nagiso
+711,1379,Hvar,711,Hvar,Huelva,Havana
+712,1382,Thingvellir,712,,,
+713,1385,Sólheimajökull,713,,,
+714,1390,Brindisi,714,Barumini,Krini,
+715,1393,Jökulsárlón,715,,,
+716,1396,Cagliari,716,Cagliari,Candelaria,Cala Gració
+717,1399,Selaya,717,Suceava,Senglea,
+718,1402,San José,718,San José,San José,San José
+719,1405,Disneyland Paris,719,Highland Park,,
+720,1408,La Plata,720,La Pastora,La Paz,La Goleta
+721,1411,Melilla,721,Melilla,Morella,Morelia
+722,1417,Kaatsheuvel,722,Kaatsheuvel,Kathu,
+723,1420,Porto Torres,723,Porto Ercole,Porto Moniz,
+724,1423,Falmouth,724,Salou,,
+725,1426,Coron,725,Coron,Corgoloin,Toronto
+726,1429,Davao,726,Otavalo,Dana,Salvador
+727,1432,Jávea,727,,,
+728,1435,Negril,728,Ngari,,
+729,1438,Jeju,729,Jeonju,Jeju City,Żejtun
+730,1441,Mainz,730,Maincy,Mahinog,Mae Win
+731,1444,Santa Pola,731,Santa Ponsa,Santa Pau,Santa Coloma
+732,1447,Cullera,732,Cudillero,Coura,Claveria
+733,1450,Gili Trawangan,733,,,
+734,1453,Saly,734,Salou,Malay,Healy
+735,1456,Posadas,735,Potsdam,Pardiñas,Nosara
+736,1459,Providencia,736,Providencia,Providencia Island,Palencia
+737,1462,Hauganes,737,Bagnes,Lausanne,
+738,1465,Laredo,738,Laredo,Loreto,Lavrio
+739,1468,Jumilla,739,Comillas,Frutillar,Villar
+740,1471,Les Epesses,740,Les Llosses,Les Escaldes,Les Clefs
+741,1474,La Fabriquilla,741,La Puntilla,La Villa,Frutillar
+742,1477,Las Negras,742,Las Vegas,Las Galeras,Las Terrenas
+743,1480,Dakar,743,Dakar,Kalkara,Jakarta
+744,1483,Riohacha,744,Reinach,,
+745,1486,Isafjordur,745,,,
+746,1489,Almaty,746,Almora,,
+747,1492,Aktau,747,Aarau,,
+748,1498,Baku,748,Nakuru,Kakadu,Batumi
+749,1501,Pereira,749,Pereira,Pedreira,Pedrera
+750,1504,Warnemünde,750,Sarnen,Vargem Grande,Kerteminde
+751,1507,Armenia,751,Kyrenia,Arona,Arica
+752,1510,Villefranche-sur-Mer,752,Villefranche-de-Conflent,Villeneuve,
+753,1513,Aillemore,753,Almora,,
+754,1516,Almagro,754,Algarrobo,Colmar,Amdari
+755,1519,Trigueros del Valle,755,Cuevas del Valle,Teotitlán del Valle,Tregurà de Dalt
+756,1522,Nadi,756,Ngari,Nalladai,Nadur
+757,1525,Puerto Plata,757,Puerto Plata,Puerto Vallarta,Puerto Natales
+758,1528,Chennai,758,Chennai,Vienna,Cuenca
+759,1531,Mussoorie,759,,,
+760,1534,Alleppey,760,,,
+761,1537,San Asensio,761,San Alfonso,San Isidro,San Andrés
+762,1540,Trivandrum,762,,,
+763,1543,Briñas,763,Pardiñas,Viñales,Bristol
+764,1546,Bastida,764,Msida,Brasília,Batumi
+765,1549,Bucaramanga,765,Tauranga,Busuanga,Braga
+766,1552,Laguardia,766,Sagada,Luarca,Laguna Verde
+767,1555,Alcalá la Real,767,Alcalá,,
+768,1558,Larnaca,768,Luarca,Carnac,La Franca
+769,1561,Paphos,769,Pahoa,Lapithos,Maalhos
+770,1564,Protaras,770,Puerto Varas,Paracas,Pardiñas
+771,1567,Ayia Napa,771,,,
+772,1570,Hernani,772,Hermanus,Hanoi,Terrasini
+773,1573,Oberhausen,773,Oberhofen,,
+774,1576,Assisi,774,Asos,,
+775,1579,Orvieto,775,Oviedo,Ordino,Loreto
+776,1582,Perugia,776,Perissa,Pereira,Pedreira
+777,1585,Åndalsnes,777,Ardales,,
+778,1588,La Fortuna,778,La Fortuna,Casa Fortuna,La Romana
+779,1591,El Bosque,779,El Bruc,,
+780,1594,Peso da Régua,780,,,
+781,1597,Carboneras,781,Cardonal,Canberra,Consuegra
+782,1600,Flåm,782,,,
+783,1603,Hondarribia,783,Covarrubias,Hunedoara,
+784,1606,Matera,784,Marsa,Maras,Mataró
+785,1609,Puerto Montt,785,Puerto Montt,Puerto Madryn,Porto Moniz
+786,1612,Haugesund,786,,,
+787,1615,Ponza,787,Piornal,Pollença,Pamplona
+788,1618,Anzio,788,,,
+789,1621,Kristiansand,789,Pristina,Los Cristianos,
+790,1624,Leknes,790,Meknes,Liencres,Rennes
+791,1627,Limoges,791,Sitges,,
+792,1630,San Gil,792,San Miguel,San Luis,San Nicolaas
+793,1633,Hammamet,793,,,
+794,1636,Susa,794,Busan,Sudaji,Naousa
+795,1639,Nantes,795,Naples,Llanes,Cervantes
+796,1642,Armação de Pêra,796,Armação dos Búzios,,
+797,1645,Sighisoara,797,Yeşilhisar,Singakerta,
+798,1651,O Grove,798,O Grove,Grouville,
+799,1654,Maputo,799,Maputo,Matsumoto,
+800,1657,San Juan Argentina,800,San Juan La Laguna,Sant Joan Baptista,
+801,1660,Sanxenxo,801,Sarnen,Salento,Sanok
+802,1663,Tacna,802,Taba,Jaca,Hana
+803,1666,Bora Bora,803,Coral Bay,Skara Brae,Baracoa
+804,1669,Los Escullos,804,Los Llaos,Les Escaldes,Los Pocitos
+805,1672,Trinidad,805,Trinidad,Turaida,Trinity
+806,1675,Zumaia,806,Zumaia,Mumbai,Ushuaia
+807,1678,Hannover,807,Vancouver,Hanoi,Hanko
+808,1681,Königswinter,808,,,
+809,1684,Molde,809,Soldeu,Motides,Maybole
+810,1687,Konstanz,810,Fontana,Constantine,Positano
+811,1690,Cutiellos,811,Urquillos,Cudillero,Centelles
+812,1693,Timmendorfer Strand,812,,,
+813,1696,Speyer,813,,,
+814,1699,Cuzcurrita de Río Tirón,814,,,
+815,1702,Nara,815,Nara,Narra,Nosara
+816,1705,Kōbe,816,,,
+817,1708,Olden,817,Ölüdeniz,Òdena,Odesa
+818,1711,Iceland,818,Iseltwald,Ica,
+819,1714,Tigre,819,Tigre,Figueres,Trier
+820,1717,Nordfjordeid,820,,,
+821,1723,Cambados,821,Caldebarcos,Combarro,Chambord
+822,1726,Carcassonne,822,Carcassonne,,
+823,1729,Gili Air,823,,,
+824,1732,Chandigarh,824,Changi,Cangas,Chiang Mai
+825,1735,Castillo de Garcimuñoz,825,Castellar del Riu,,
+826,1738,Nusa Lembongan,826,Lembongan,,
+827,1741,Lucca,827,Luarca,Luqa,Yucay
+828,1744,Nusa Penida,828,Ciudad Perdida,,
+829,1747,Nyaung Shwe,829,,,
+830,1750,Mandalay,830,Mandalay,Malay,Manarola
+831,1753,Mazagón,831,Mazagón,Mazatlan,Marmagne
+832,1756,Mont Saint Michel,832,Mont Saint-Michel,Port de Sant Miquel,
+833,1759,George Town,833,Cape Town,,
+834,1762,Dar es Salaam,834,Dar es Salaam,Mar del Plata,Marsa Alam
+835,1765,Tivoli,835,Tzimol,Tbilisi,
+836,1768,Svolvær,836,,,
+837,1771,El Chaltén,837,El Chalten,Chaitén,El Salto
+838,1774,Cozumel,838,Cozumel,,
+839,1777,Kingston,839,Kingston,Livingston,Wellington
+840,1780,Malé,840,Malé,Malay,Manila
+841,1783,Zanzibar,841,Zanzibar City,Zadar,
+842,1789,Tozeur,842,Tourlos,Toro,
+843,1792,Lixouri,843,Luxor,,
+844,1795,Puerto de Mazarrón,844,Puerto Madryn,Puerto de la Cruz,Muros de Nalón
+845,1798,La Azohía,845,La Roda,,
+846,1801,Bolnuevo,846,,,
+847,1804,Isla Plana,847,Cala Galdana,Islamabad,El Pangal
+848,1807,Gansbaai,848,Granada,Granada,
+849,1810,La Romana,849,La Romana,La Roda,La Manga
+850,1813,Medina Sidonia,850,,,
+851,1816,Puntarenas,851,Punta Arenas,Punta Prieta,Punta Cana
+852,1819,Petropavlovsk-Kamchatsky,852,Petropavlovsk-Kamchatsky,,
+853,1822,Paro,853,Palermo,Ézaro,Provo
+854,1825,Ayamonte,854,Amarante,Alicante,Agramunt
+855,1828,Nassau,855,Naousa,Nara,
+856,1831,Hawaii Island,856,Saona Island,Mafia Island,Gili Islands
+857,1834,Cochem,857,Cobh,,
+858,1837,Santa Susana,858,Santana,Santa Ponsa,Santa Mustiola
+859,1840,Malgrat de Mar,859,Lloret de Mar,Balcón del Mar,Paul do Mar
+860,1843,León,860,León,Lupeni,Leshan
+861,1846,Évora,861,Evora,Soria,Lorca
+862,1849,Cluny,862,Colunga,Cailungo,Conwy
+863,1852,El Albir,863,Albi,El Cairo,
+864,1855,Altea,864,Anglesea,Alicante,
+865,1858,Philipsburg,865,Salisbury,,
+866,1861,Alberobello,866,Alberobello,Algarrobo,Aberfoyle
+867,1864,Andria,867,Alexandria,Arica,Andrín
+868,1867,Brisbane,868,Brisbane,Busan,
+869,1870,Trani,869,Trakai,Terrasini,Turaida
+870,1873,San Giovanni Rotondo,870,San Giovanni sotto le Penne,,
+871,1876,Monte Sant'Angelo,871,Mont Saint-Michel,,
+872,1879,Baracoa,872,Baracoa,Barranco,Jarabacoa
+873,1882,Calella,873,Calella,Masella,Ciutadella
+874,1885,Parma,874,Palma,Pájara,Paraty
+875,1888,Castelsardo,875,Castelsardo,Castel,Castellar del Riu
+876,1891,La Paz,876,La Paz,La Bañeza,La Pastora
+877,1894,Teotihuacán,877,Tepoztlán,,
+878,1897,Tabernas,878,Taba,Canberra,Thera
+879,1900,Atlanta,879,Ajanta,Alicante,Atitlan Lake
+880,1903,Swansea,880,Savaneta,Schwangau,Sarnen
+881,1906,Ponce,881,Florence,Honey,
+882,1909,Bovec,882,,,
+883,1912,Oranjestad,883,Oranjestad,,
+884,1915,Bourges,884,Burgos,Bruges,Gures
+885,1920,Arguedas,885,Ardales,,
+886,1923,Tudela,886,Teruel,Puebla,Huelva
+887,1926,Angers,887,Anglesea,Antwerp,Anciles
+888,1929,La Rochelle,888,La Roca del Vallès,Răchițele,La Goleta
+889,1932,Pacific Harbour,889,,,
+890,1935,Bourg-en-Bresse,890,,,
+891,1938,Ferney-Voltaire,891,,,
+892,1941,Vilnius,892,Vilnius,Vinuesa,Pilani
+893,1944,Trakai,893,Trakai,Traquair,Makati
+894,1947,Ciudad Valles,894,Ciudad Juarez,Cuevas del Valle,Ciutadella
+895,1950,Klaipėda,895,Klaipeda,,
+896,1953,Pervalka,896,Piedralaves,Petrovac,Paola
+897,1956,Koh Chang,897,Ko Chang,Khao Phang,Ko Pha-ngan
+898,1960,Saint Rémy de Provence,898,,,
+899,1963,Reims,899,Reims,,
+900,1966,Pucón,900,Puno,Asunción,Puyun
+901,1969,Astorga,901,Astore,Amsterdam,Almora
+902,1972,Champs-sur-Marne,902,,,
+903,1975,Azay-le-Rideau,903,,,
+904,1978,Aigues-Mortes,904,Figueres,,
+905,1981,Arles,905,Ardales,Cres,Anciles
+906,1984,Salses-le-Château,906,,,
+907,1987,Le Thoronet,907,Toronto,,
+908,1990,Ko Pha Ngan,908,Ko Pha-ngan,Ko Pha Ngan Island,Khao Phang
+909,1993,Beaulieu-sur-Mer,909,,,
+910,1996,Lille,910,Lille,Seville,La Villa
+911,1999,Rabat,911,Rabat,Raïmat,Taba
+912,2002,Chefchaouen,912,Chefchaouen,,
+913,2005,Podgorica,913,Podgorica,,
+914,2008,Aix-en-Provence,914,Aix-en-Provence,,
+915,2011,Kingstown,915,Kingston,Livingston,Chinatown
+916,2014,Monterrey,916,Montserrat,Montserrat,Montseny
+917,2017,Lorca,917,Lorca,Luarca,Lo Prado
+918,2020,Tétouan,918,,,
+919,2023,Port-au-Prince,919,Puerto Princesa,,
+920,2026,Cap Haitien,920,,,
+921,2029,Maisons-Laffitte,921,,,
+922,2032,Ko Phi Phi Don,922,,,
+923,2035,Suzhou,923,,,
+924,2038,Ensenada,924,Ensenada,Esna,Enna
+925,2042,Labuan Bajo,925,Labuan Bajo,,
+926,2045,Isfahan,926,Leshan,,
+927,2048,Mindo,927,Windsor,Mendoza,Mandhoo
+928,2051,Kashan,928,Leshan,Kathmandu,Kalkan
+929,2054,Kerman,929,Koman,Hermanus,Petermann
+930,2057,Pierrefonds,930,Arriondas,,
+931,2060,Baños de Agua Santa,931,Salto de Agua,Palos de la Frontera,
+932,2062,Cochabamba,932,Pachacamac,,
+933,2068,Rambouillet,933,Grouville,,
+934,2071,Poissy,934,Perissa,Pisa,
+935,2074,Pula,935,Puebla,Kula,Puelo
+936,2077,Montilla,936,Monticello,Manila,Yountville
+937,2080,Cherburgo-Octeville,937,,,
+938,2083,Le Havre,938,,,
+939,2086,Chenonceaux,939,Chennai,,
+940,2089,Sète,940,Sitges,,
+941,2092,Huacachina,941,Huacachina,Chauchina,Havana
+942,2095,Chongqing,942,Yongin,Changi,Confine
+943,2098,El Viso del Alcor,943,Mairena del Alcor,,
+944,2101,Yichang,944,Schwangau,Sichon,Changi
+945,2104,Koh Kut,945,Ko Kut,Koh Samui,
+946,2107,Font-Rubí,946,Font-rubí,,
+947,2110,San Francisco de Campeche,947,San Francisco,Sant Francesc de s'Estany,Sant Fruitós de Bages
+948,2113,Croix,948,Crociale,Chamonix,Coron
+949,2116,Rostock,949,Rosarito,Boston,
+950,2119,Tarapoto,950,Tafraoute,Trancoso,Canapost
+951,2122,Vejer de la Frontera,951,Vejer de la Frontera,Arcos de la Frontera,Palos de la Frontera
+952,2125,Manama,952,Manyara,Matamata,Mandalay
+953,2128,Koh Mak,953,Koh Samui,Konark,Ko Tao
+954,2131,Ensenada,954,Ensenada,Esna,Enna
+955,2134,Villa Yacanto,955,Villaricos,Volcano,Villa Santa Lucía
+956,2137,Samaná,956,Salamanca,Santana,Kalmane
+957,2140,Barra de Valizas,957,Barranco de la Verga,Porto de Galinhas,
+958,2143,Caserta,958,Claveria,Ceuta,Ceuta
+959,2146,Accra,959,Agra,Arona,Arica
+960,2149,Rijeka,960,Ribe,Lija,
+961,2152,Soria,961,Soria,Sofia,Sort
+962,2155,Alájar,962,Pájara,Aljezur,
+963,2158,Bocas del Toro,963,Bocas del Toro,Toluca de Lerdo,
+964,2161,Mulhouse,964,Maalhos,Mosen,Milos
+965,2164,Orschwiller,965,Retschwil,Asheville,
+966,2167,Sainte-Marie-aux-Mines,966,,,
+967,2170,Ungersheim,967,,,
+968,2173,Eguisheim,968,Tusheti,,
+969,2176,Haguenau,969,Lagunas,Hana,Quena
+970,2179,Hunawihr,970,Huairou,,
+971,2182,Kintzheim,971,Kihei,Kitzbühel,
+972,2185,Masai Mara,972,Baia Mare,Maihar,
+973,2188,Lembach,973,Fellbach,Lembongan,Leh
+974,2191,Nynäshamn,974,,,
+975,2194,Visby,975,Vis,,
+976,2197,Marmaris,976,Maras,Kamari,Mparmpati
+977,2200,Andong,977,London,Anyang,Andrín
+978,2206,Sigiriya,978,Sircilla,Soria,Ligia
+979,2209,Bar,979,Barú,Bari,Barva
+980,2212,Kandy,980,Mandalay,Nancy,Koman
+981,2215,Kotor,981,Kotor,Kyoto,Rotorua
+982,2218,Cobh,982,Cobh,Coburg,
+983,2221,Yangshuo,983,Yangshuo,,
+984,2224,Chambord,984,Chambord,Camber,Cambridge
+985,2227,Blois,985,Byblos,Bosa,Milos
+986,2230,Cheverny,986,Vevey,,
+987,2233,Monteverde,987,Monteverde,Montevideo,Montreux
+988,2236,Rivau,988,,,
+989,2239,Beaune,989,Blanes,Begues,Banaue
+990,2242,Dover,990,Alcover,Rovereta,
+991,2245,Southampton,991,St. Sampson,Brampton,
+992,2248,Harwich,992,Hatch,Hostalric,Zürich
+993,2251,Florida,993,Floriana,Fiorina,Soria
+994,2254,Cockburn Town,994,,,
+995,2257,Jaca,995,Jaca,Masca,Salcea
+996,2260,Baena,996,Cayena,Bernal,Banaue
+997,2263,Willemstad,997,Williamstown,,
+998,2266,Monreale,998,Montréal,Mont-ral,Morella
+999,2269,Lucena,999,Lucerne,Quena,Lupeta
+1000,2272,Novelda,1000,,,
+1001,2275,Belize City,1001,Mexico City,Jeju City,
+1002,2278,Dambulla,1002,Dallas,Marbella,Kabul
+1003,2281,San Ignacio,1003,San Isidro,San Gimignano,San Francisco
+1004,2284,Ayacucho,1004,Arauco,,
+1005,2287,Caye Corker,1005,La Conreria,,
+1006,2290,Volendam,1006,Volendam,Valencia,Pollença
+1007,2293,Marken,1007,Marken,Sarnen,Marrakech
+1008,2296,Villavieja,1008,Villar,Villaricos,
+1009,2299,Plevna,1009,Pollença,Palencia,
+1010,2302,Barranquilla,1010,Serradilla,Granadilla,Barranco
+1011,2305,Praia,1011,Pai,Turaida,Pisa
+1012,2309,Anse La Blague,1012,,,
+1013,2315,Khao Lak,1013,Khao Phang,Khao Kho,Bay Lake
+1014,2321,Nijmegen,1014,,,
+1015,2327,Semarang,1015,Tauranga,Sesimbra,Jimbaran
+1016,2330,Sabiote,1016,Sabile,Sitges,
+1017,2333,Marina de Cudeyo,1017,Marine Parade,Mairena del Alcor,
+1018,2336,Phu Quoc,1018,,,
+1019,2339,Perth,1019,Perth,Perast,Perranporth
+1020,2342,Djerba,1020,Dendera,,
+1021,2345,Paihia,1021,Pahoa,Pai,Maihar
+1022,2348,Auckland,1022,Auckland City,,
+1023,2351,Detroit,1023,,,
+1024,2354,Jijona,1024,Dijon,Girona,Baiona
+1025,2357,Cofrentes,1025,Cervantes,Centelles,Clarens
+1026,2360,Höfn,1026,,,
+1027,2363,Santa Maria,1027,Santa Monica,Santa Mustiola,Santa Pau
+1028,2366,Weimar,1028,Waimea,Lima,
+1029,2369,Vélez-Málaga,1029,Málaga,,
+1030,2372,Brañavieja,1030,,,
+1031,2375,Tavernier,1031,Trier,Tavertet,Tarxien
+1032,2378,Becerril de Campos,1032,Arraial do Cabo,,
+1033,2381,Lourdes,1033,Gordes,Nordeste,Gures
+1034,2384,Casar de Cáceres,1034,Casbas de Huesca,Cáceres,Mar de Cristal
+1035,2387,Noosa Heads,1035,Dos Hermanas,,
+1036,2390,Katowice,1036,,,
+1037,2393,Rainbow Beach,1037,Ewa Beach,Mission Beach,Reinach
+1038,2396,Uribelarrea,1038,,,
+1039,2402,Antalya,1039,Bantayan,Anapa,Ayutthaya
+1040,2405,Santa Clara,1040,Santa Coloma,Santa Cruz,Santa Catalina
+1041,2408,Cienfuegos,1041,,,
+1042,2411,Mdina,1042,Mdina,Madison,Indiana
+1043,2414,Gandia,1043,Gandikota,Granadilla,Gaira
+1044,2417,Courmayeur,1044,Coura,Colmar,
+1045,2420,Cogne,1045,Confine,Calonge,Mogán
+1046,2426,Matapozuelos,1046,Maalhos,,
+1047,2429,Richmond upon Thames,1047,,,
+1048,2432,Villanueva de Arosa,1048,Villanueva de la Cañada,Vilanova de Sau,Villarreal de San Carlos
+1049,2435,Prosecco,1049,Provo,,
+1050,2438,Deltebre,1050,Delft,,
+1051,2441,Qeshm,1051,,,
+1052,2444,Stirling,1052,Stirling,Sirmione,
+1053,2447,Adelaide,1053,Belgrade,Adeje,
+1054,2450,Daegu,1054,Bagergue,Begur,
+1055,2453,Milos,1055,Milos,Maalhos,Mosta
+1056,2456,Maidstone,1056,Madison,,
+1057,2459,Sinj,1057,Sion,Siena,Sidon
+1058,2462,Monchique,1058,Coyhaique,,
+1059,2465,Pyhä,1059,,,
+1060,2471,Loredo,1060,Loreto,Laredo,Lo Prado
+1061,2474,Luosto,1061,Loreto,Boston,
+1062,2477,Villafranca de los Barros,1062,Vilafranca de Bonany,,
+1063,2480,Kolkata,1063,Kolka,Kalkara,Kalkan
+1064,2482,Stresa,1064,Stromness,Sitges,Sintra
+1065,2485,Roseau,1065,Roses,Roaguia,Rome
+1066,2488,Aberfeldy,1066,Aberfoyle,Alberobello,
+1067,2491,Izmir,1067,,,
+1068,2494,Pitlochry,1068,,,
+1069,2497,Odessa,1069,Odesa,Perissa,Odemira
+1070,2500,Pedreguer,1070,Pedrera,Pedreira,Prague
+1071,2503,Lviv,1071,Lviv,Livera,Lavrio
+1072,2506,Mostar,1072,Mostar,Mosta,Nosara
+1073,2512,Fuenterrebollo,1073,,,
+1074,2515,Villaseca,1074,Villar,Villaricos,
+1075,2518,Alboraya,1075,Almora,Albury,Floriana
+1076,2521,Makassar,1076,Makarora,Masua,Masca
+1077,2524,Aguilar de la Frontera,1077,Arcos de la Frontera,Vejer de la Frontera,Palos de la Frontera
+1078,2527,Santos,1078,Santoña,Salento,Sant Tomàs
+1079,2530,Boracay,1079,Baracoa,Lorca,Braga
+1080,2533,Tirana,1080,Siurana,Tauranga,Trakai
+1081,2536,Cairns,1081,Cairns,Clarens,Carnac
+1082,2539,Aachen,1082,Aachen,Athens,
+1083,2542,Valderrubio,1083,Varadero,,
+1084,2545,Huaraz,1084,Huraa,Zarauz,Luarca
+1085,2548,Jericoacoara,1085,,,
+1086,2551,Darwin,1086,Darien,Darjeeling,Tarxien
+1087,2554,Fuseta,1087,Fustat,Lupeta,Fuensanta
+1088,2557,Yulara,1088,Yulaurel,Luarca,Yuriria
+1089,2560,Longyearbyen,1089,,,
+1090,2563,Port Douglas,1090,Peroulades,,
+1091,2566,Baguio,1091,Bellagio,Nagiso,Batumi
+1092,2569,Olhão,1092,Oslo,Olot,
+1093,2572,Båtskärsnäs,1093,,,
+1094,2575,Hermosillo,1094,Versailles,,
+1095,2578,Kota Kinabalu,1095,,,
+1096,2581,Konjic,1096,,,
+1097,2584,Arnhem,1097,,,
+1098,2587,Les Escaldes,1098,Les Escaldes,Les Clefs,Las Cascadas
+1099,2590,Cholula,1099,Colunga,Coura,Comillas
+1100,2593,Rovinj,1100,Roslin,,
+1101,2596,Iloilo,1101,Celorio,,
+1102,2599,La Hayuela,1102,La Laguna,La Bañeza,Huelva
+1103,2602,Bacolod,1103,Barcelona,Bol,
+1104,2605,Sunshine Coast,1104,,,
+1105,2608,Ponferrada,1105,Ponta Delgada,Serradilla,Montserrat
+1106,2611,Poreč,1106,Porto,,
+1107,2614,Kuching,1107,Chauchina,Duingt,
+1108,2617,L'Estartit,1108,Espartinas,,
+1109,2620,Umag,1109,Uman,Umbria,
+1110,2623,Penang,1110,Perpignan,Fenghuang,Anyang
+1111,2626,Giardini Naxos,1111,,,
+1112,2629,Ulaanbaatar,1112,,,
+1113,2632,Navacerrada,1113,Narra,Playa Herradura,
+1114,2635,Somosierra,1114,Simonsberg,Montserrat,Montserrat
+1115,2638,Wellington,1115,Wellington,Kingston,Williamstown
+1116,2641,Cát Bà,1116,,,
+1117,2644,Demre,1117,Pembroke,Jerte,Berge
+1118,2647,Kas,1118,Kaunas,Karavas,
+1119,2651,Olympus,1119,,,
+1120,2654,Rennes,1120,Rennes,Meknes,Benares
+1121,2657,Vannes,1121,Rennes,Llanes,Blanes
+1122,2660,Essaouira,1122,Essaouira,,
+1123,2663,Langkawi,1123,Yangapi,Pangani,Shanghai
+1124,2666,Taormina,1124,Tarifa,Tarxien,Fiorina
+1125,2669,Avignon,1125,Saignon,Aveiro,Aitona
+1126,2672,Tam Coc,1126,,,
+1127,2675,Cieza,1127,Yaiza,Spiez,Siena
+1128,2678,Lisse,1128,Lisse,Lille,Essen
+1129,2681,Phillip Island,1129,Gili Islands,Manitoulin Island,Providencia Island
+1130,2684,La Parguera,1130,La Laguna,La Pastora,Las Galeras
+1131,2687,Alice Springs,1131,Palm Springs,,
+1132,2690,Szczecin,1132,,,
+1133,2693,Yellowknife,1133,,,
+1134,2696,Banff,1134,Busan,,
+1135,2699,Penrith,1135,Perth,Pileri,Perast
+1136,2702,Elvas,1136,Elvas,Elia,El Paso
+1137,2705,Jordan,1137,Doradal,Urda,Jaén
+1138,2708,Espinosa de los Monteros,1138,,,
+1139,2711,Conil de la Frontera,1139,Palos de la Frontera,Arcos de la Frontera,Vejer de la Frontera
+1140,2714,Chipiona,1140,Chi?in?u,,
+1141,2717,Almodóvar del Río,1141,,,
+1142,2720,Carcagente,1142,Cartagena,Cartagena,Cartagena
+1143,2722,Tianjin,1143,Corianino,Tai'an,Pilani
+1144,2723,Zaandam,1144,Zaandam,Zadar,Sagada
+1145,2725,Huesca,1145,Huesca,Huelva,Hue
+1146,2726,Swanage,1146,Santiago,Stavanger,Schwangau
+1147,2727,Alp,1147,Ajalpan,,
+1148,2728,Austin,1148,Astún,Tusheti,
+1149,2731,Anchorage,1149,,,
+1150,2734,Villa O'Higgins,1150,,,
+1151,2735,Linares,1151,Liencres,Mijares,Llanars
+1152,2736,Baqueira,1152,Traquair,Benasque,Gaira
+1153,2737,Serradilla,1153,Serradilla,Serravalle,Granadilla
+1154,2738,Koh Samet,1154,Koh Samui,,
+1155,2739,Schwerin,1155,Schwende,Sychari,Seershin
+1156,2740,Olavarría,1156,,,
+1157,2741,Ceuta,1157,Ceuta,Ceuta,Kuta
+1158,2742,Cenicero,1158,Venice,Chinchero,
+1159,2743,Praslin,1159,Pristina,Palomino,Brasília
+1160,2745,Mahé,1160,Malé,Maihar,
+1161,2746,Regensburg,1161,Valkenburg,Valkenburg,Gothenburg
+1162,2747,Würzburg,1162,Salzburg,Fribourg,
+1163,2748,Nagoya,1163,Lagoa,Naousa,Nagiso
+1164,2749,Lübeck,1164,Liberec,,
+1165,2750,Alvor,1165,Almora,Alcover,Salvador
+1166,2751,Carvoeiro,1166,Aveiro,,
+1167,2752,Bamberg,1167,Bamberg,Camber,Hamburg
+1168,2753,Guadalupe,1168,Guadalajara,,
+1169,2754,Meissen,1169,Mosen,Lisse,Essen
+1170,2755,Sapporo,1170,,,
+1171,2756,Baden-Baden,1171,,,
+1172,2757,Nea Makri,1172,Nea Kameni,,
+1173,2758,Freiburg,1173,Fribourg,Feldberg,
+1174,2759,Stuttgart,1174,,,
+1175,2760,Juneau,1175,Puteaux,Jaun,
+1176,2761,Setúbal,1176,Seixal,,
+1177,2762,Tilcara,1177,Villar,Tarifa,
+1178,2763,Worms,1178,Bormujos,Qormi,
+1179,2764,Himeji,1179,Himeji,,
+1180,2765,Salinas,1180,Savolinna,Siena,Saelices
+1181,2766,Kanazawa,1181,Kanazawa,Kazafani,
+1182,2767,Purmamarca,1182,Luarca,Premantura,
+1183,2768,Nagasaki,1183,Nalladai,Ngari,
+1184,2769,Campbell River,1184,Camber,,
+1185,2770,Juan Dolio,1185,San Diego,Santo Domingo,
+1186,2771,Navarrete,1186,Isavarre,Cabarete,Navamorcuende
+1187,2772,Chaves,1187,Chessy,Charleston,Clarens
+1188,2773,Villalba de los Alcores,1188,Zahara de los Atunes,Mairena del Alcor,
+1189,2774,Mayorga,1189,Marsa,Maras,Makarora
+1190,2775,Puras,1190,Perast,Paracas,Pals
+1191,2776,Fuensaldaña,1191,Fuensanta,Saldaña,
+1192,2777,Brac,1192,Baracoa,Braga,Borșa
+1193,2778,Peñafiel,1193,,,
+1194,2779,San Antonio,1194,San Alfonso,Sant Antoni de Calonge,Sant Antoni de Portmany
+1195,2780,Ely,1195,,,
+1196,2781,Budva,1196,Budva,Budapest,Gudja
+1197,2782,Kingman,1197,Kigomani,Koman,Kingston
+1198,2783,Cafayate,1198,Cabarete,,
+1199,2784,Otazu,1199,,,
+1200,2785,Cefalù,1200,Cefalù,Calp,
+1201,2786,Đurđevića Tara,1201,,,
+1202,2787,Canterbury,1202,Canterbury,Canberra,Saint Petersburg
+1203,2788,Minsk,1203,Minsk,Murmansk,Milos
+1204,2789,Lipari,1204,Lavrio,Leipzig,Lima
+1205,2790,Esquel,1205,Eersel,Es Cubells,
+1206,2791,Lousada,1206,Nosara,Naousa,Luarca
+1207,2792,La Unión,1207,Lanqúin,La Estación,
+1208,2793,Punta Sabbioni,1208,Punta Cana,Punakaiki,
+1209,2794,Quebec,1209,Québec,Sebec,
+1210,2795,Moalboal,1210,Moab,Maybole,Malbork
+1211,2796,Placencia,1211,Palencia,Valencia,Pilani
+1212,2797,San Pedro,1212,San Isidro,San Diego,San Pedro de la Paz
+1213,2798,Negombo,1213,,,
+1214,2799,Bernal,1214,Bernal,Bern,Berga
+1215,2800,Durham,1215,Duchray,,
+1216,2801,Al Thakhira,1216,Al Karak,Al Hashemiya,
+1217,2802,Santiago de los Caballeros,1217,Santiago de la Ribera,Santiago de Cuba,Santiago de Surco
+1218,2803,Santillana del Mar,1218,Balcón del Mar,Viña del Mar,Santander
+1219,2804,Comillas,1219,Comillas,El Colls,Cambrils
+1220,2805,Torrelavega,1220,Torteval,Torla-Ordesa,Torraccia
+1221,2806,Aberdeen,1221,Adeje,,
+1222,2807,Monterosso,1222,Monterosso al Mare,Monte Cristi,Montsonís
+1223,2808,Portofino,1223,Porto,Portimão,Portinatx
+1224,2809,Modena,1224,Òdena,Mosen,Mdina
+1225,2810,Mantua,1225,Masua,Montezuma,Mataró
+1226,2811,Hella,1226,Huelva,Morella,Melilla
+1227,2812,Yanque,1227,Palenque,Banaue,Llanquihue
+1228,2813,Otaru,1228,Tartu,Aarau,
+1229,2814,Miyajima,1229,Miami,,
+1230,2815,Juneda,1230,Hunedoara,Jamundí,Dunedin
+1231,2816,Reykholt,1231,Recoleta,,
+1232,2817,Hornos,1232,Hoorn,Osorno,Hornopirén
+1233,2818,Coulon,1233,Coron,Corgoloin,Tourlos
+1234,2819,Foz,1234,Foz,,
+1235,2820,Astypalaia,1235,,,
+1236,2821,Magné,1236,Mazagón,Malé,Marmagne
+1237,2822,Yerevan,1237,Yerevan,Cervantes,Geneva
+1238,2823,Egilsstadir,1238,Essaouira,,
+1239,2824,Viacamp y Litera,1239,,,
+1240,2825,Rincón de la Victoria,1240,,,
+1241,2826,Ottawa,1241,Otavalo,,
+1242,2827,Jaén,1242,Jaén,Jaun,
+1243,2828,Bandung,1243,Ban Luang,Mangkung,Candikuning
+1244,2829,Versailles,1244,Versailles,Versam,Serravalle
+1245,2830,Fátima,1245,Lima,,
+1246,2831,Letterfrack,1246,,,
+1247,2832,Huancavelica,1247,Huacachina,Hanalei,
+1248,2833,Chihuahua,1248,Chihuahua,Chiapas,Chiesanuova
+1249,2834,Los Mochis,1249,Los Pocitos,Los Llaos,Los Cabos
+1250,2835,Cerocahui,1250,Chocohuital,,
+1251,2836,Grange,1251,Girne,Prague,Goyang
+1252,2837,Creel,1252,Cee,Cres,Trevelin
+1253,2838,Reus,1253,Reims,Rhodes,Rennes
+1254,2839,Kilkieran,1254,Kilkenny,Kalkan,Kalkara
+1255,2840,Barreal,1255,Berriedale,Narra,Basel
+1256,2841,Tingo María,1256,Ano Mera,,
+1257,2842,Vila Nova de Milfontes,1257,Vila Nova de Gaia,Vila Nova de Cacela,
+1258,2844,Alqueva,1258,Alquézar,Alajuela,Acquaviva
+1259,2845,Osa de la Vega,1259,Cabo de la Vela,Barranco de la Verga,Cacela Velha
+1260,2846,Oughterard,1260,,,
+1261,2847,Rossaveel,1261,Rakvere,,
+1262,2849,Tievegarriff,1262,,,
+1263,2850,Hurricane,1263,Żurrieq,Yuriria,
+1264,2851,El Campello,1264,El Castillo,El Salto,El Colls
+1265,2852,Urubamba,1265,Urubamba,,
+1266,2853,Almada,1266,Amdari,Almora,Almendras
+1267,2855,Aracena,1267,Aachen,Artagnan,Arona
+1268,2856,Cleggan,1268,,,
+1269,2857,Cadaqués,1269,Cadaqués,,
+1270,2858,Lamego,1270,Lagos,Lagoa,Laredo
+1271,2859,Riells del Fai,1271,Riells del Fai,Ribes de Freser,Torres del Paine
+1272,2860,Puerto Nariño,1272,Puerto Viejo,Puerto Varas,Puerto Madryn
+1273,2861,Èze,1273,,,
+1274,2862,Patreksfjordur,1274,,,
+1275,2863,Ardales,1275,Ardales,Arriondas,Saldes
+1276,2864,Managua,1276,Manaus,Panagra,Manyara
+1277,2865,Baltanás,1277,Blanes,Balzan,Bantayan
+1278,2866,Salceda de Caselas,1278,Santiago de Compostela,,
+1279,2867,Toruń,1279,Toruń,Toro,Tartu
+1280,2868,Albi,1280,Albi,Albury,Abidos
+1281,2869,Tegucigalpa,1281,Tecoanapa,,
+1282,2870,Tomar,1282,Tomares,Colmar,Toro
+1283,2871,Laujar de Andarax,1283,,,
+1284,2872,Santa Maria Navarrese,1284,Santa Maria de Besora,,
+1285,2873,Battambang,1285,Catarman,Bantayan,
+1286,2874,Huraa,1286,Huraa,Hurghada,Murata
+1287,2875,Yokohama,1287,,,
+1288,2876,Palmas,1288,Palma,Pals,Palamós
+1289,2877,Bíldudalur,1289,,,
+1290,2878,Mirissa,1290,Perissa,Misurina,Marsa
+1291,2880,Torres do Mondego,1291,Torroella de Montgrí,,
+1292,2881,Lucignano,1292,Lugano,Lesignano,Lecina
+1293,2882,Kilkenny,1293,Kilkenny,,
+1294,2883,Chiuro,1294,Chinchero,Chicago,
+1295,2884,Paula,1295,Paola,Palma,Pal
+1296,2885,Dhiffushi,1296,Dhiffushi,Himmafushi,Eydhafushi
+1297,2886,Camigliatello Silano,1297,,,
+1298,2887,Gibraltar,1298,Gualta,Kiratnagar,
+1299,2888,Santarém,1299,Santa Fé,Santander,Santoña
+1300,2889,Las Grutas,1300,Las Galeras,Las Margaritas,Las Terrenas
+1301,2890,Rapid City,1301,Lindi City,Vatican City,Zanzibar City
+1302,2891,Harrogate,1302,,,
+1303,2892,Quetzaltenango,1303,Quezaltenango,Huehuetenango,Acatenango
+1304,2893,La Ceiba,1304,La Conreria,La Tejita,La Vega
+1305,2894,Comayagua,1305,Damajagua,Roaguia,Cala Agulla
+1306,2895,Copán Ruins,1306,Ani Ruins,,
+1307,2896,Mahahual,1307,Masua,,
+1308,2897,Pucallpa,1308,Punucapa,Paola,Palma
+1309,2898,Torres Vedras,1309,Torres del Paine,Torredembarra,Torre del Ram
+1310,2899,Santa Margherita Ligure,1310,,,
+1311,2900,Skopje,1311,,,
+1312,2901,Leeds,1312,Lepe,Liencres,Lecce
+1313,2902,Azpeitia,1313,,,
+1314,2903,Viladrau,1314,Villar,Vitacura,Vilaflor
+1315,2904,Puerto Galera,1315,Puerto Galera,Puerto Varas,Puerto Guadal
+1316,2905,Cajamarca,1316,Salamanca,Casablanca,
+1317,2906,Macedo de Cavaleiros,1317,Carcedo de Burgos,,
+1318,2907,Bayeux,1318,,,
+1319,2908,Pernes-les-Fontaines,1319,,,
+1320,2909,Morro de São Paulo,1320,São Paulo,,
+1321,2910,Ossa de Montiel,1321,,,
+1322,2911,Porto Santo,1322,Porto Santo Stefano,Puerto San José,Toronto
+1323,2912,Águilas,1323,Las Águilas Bay,,
+1324,2913,Kutaisi,1324,Kuta,,
+1325,2914,Bishkek,1325,,,
+1326,2915,Ribeira de Pena,1326,Ribera de Cardós,Ribeirinha,Ribeira da Janela
+1327,2916,Pozzuoli,1327,,,
+1328,2917,Hervás,1328,,,
+1329,2918,Malapascua,1329,Masua,Masca,Tapachula
+1330,2919,Canosa di Puglia,1330,,,
+1331,2920,El Fuerte,1331,El Tarter,El Serrat,El Cuervo
+1332,2921,Sirmione,1332,Sirmione,Sion,Simonsberg
+1333,2922,Nilaveli,1333,Claveria,,
+1334,2923,Jarabacoa,1334,Jarabacoa,Baracoa,Casablanca
+1335,2924,Ostuni,1335,Ostuni,,
+1336,2925,Locorotondo,1336,,,
+1337,2926,Altamura,1337,Almora,Altafulla,Vitacura
+1338,2927,Peniche,1338,Venice,Benitachell,Gränichen
+1339,2928,Barletta,1339,Valletta,Barva,
+1340,2929,Villajoyosa,1340,Villaricos,,
+1341,2930,Almuñecar,1341,,,
+1342,2931,Monopoli,1342,Montpellier,Mokpo,
+1343,2932,Polignano a Mare,1343,,,
+1344,2933,Esposende,1344,Essen,,
+1345,2934,Korčula,1345,Korčula,Kula,Kolka
+1346,2935,Los Barrios,1346,Los Llaos,Los Cabos,Los Cristianos
+1347,2936,Honfleur,1347,Honolulu,Honey,
+1348,2937,Tortosa,1348,Toro,Tourlos,Toronto
+1349,2938,Sotogrande,1349,Santander,,
+1350,2939,Valdobbiadene,1350,Valdragone,,
+1351,2940,Amarante,1351,Amarante,Ararat,Marmagne
+1352,2941,Castellar de la Frontera,1352,Castellar de la Ribera,Vejer de la Frontera,Palos de la Frontera
+1353,2942,Mazatlán,1353,Mazatlan,Mazamitla,Mazagón
+1354,2943,Manilva,1354,Manila,Milan,Malay
+1355,2944,Madeira Island,1355,Mafia Island,Mnemba Island,Easter Island
+1356,2945,Bubión,1356,Dublin,Eurobin,Buhi
+1357,2946,Ohrid,1357,,,
+1358,2947,Puerto Deseado,1358,Puerto Viejo,Puerto Princesa,Puerto Madryn
+1359,2948,Guadix,1359,,,
+1360,2949,Nazaré,1360,Naxxar,Nara,
+1361,2950,Castellón de la Plana,1361,Castelló de la Plana,Castejón del Puente,Castellar de la Ribera
+1362,2951,Otranto,1362,Orlando,Ordino,
+1363,2952,Sesimbra,1363,Sesimbra,Jimbaran,
+1364,2953,Frigiliana,1364,Floriana,,
+1365,2954,Isla de Faial,1365,Vila Nova de Gaia,,
+1366,2955,San Pedro Sula,1366,San Pedro de la Paz,San Pedro Tlaquepaque,
+1367,2956,Mora la Nueva,1367,Zagala Nueva,Andorra la Vella,
+1368,2957,Écija,1368,Lija,,
+1369,2958,Salobreña,1369,Salcea,Santoña,Saldaña
+1370,2959,Requena,1370,Quena,Cuenca,
+1371,2960,Motril,1371,Montréal,Mont-ral,Mostar
+1372,2961,Side,1372,Sidemen,Spiez,Siena
+1373,2962,Real Sitio de San Ildefonso,1373,,,
+1374,2963,Levi,1374,Lviv,Lehi,Lupeni
+1375,2964,Lourinhã,1375,,,
+1376,2965,Ponte da Barca,1376,Oroteanda Baja,,
+1377,2966,Takayama,1377,Tampa,,
+1378,2967,Malpica de Bergantiños,1378,,,
+1379,2968,Mugía,1379,,,
+1380,2969,Ferrol,1380,,,
+1381,2970,Zuheros,1381,Quepos,Burgos,
+1382,2971,Somo,1382,Somo,Sokcho,Mompox
+1383,2972,Benicassim,1383,Benicàssim,,
+1384,2973,Puente Genil,1384,Ponte Mellini,Pimentel,
+1385,2974,Óbidos,1385,Abidos,,
+1386,2975,Castel di Tusa,1386,Castellar del Riu,Castelsardo,Castellar de n'Hug
+1387,2976,Santa María,1387,Santa Pau,Santa Venera,Santa Monica
+1388,2977,Mahamud,1388,Manaus,Maihar,
+1389,2978,Sagres,1389,Sagres,Zagreb,Skagen
+1390,2979,Aínsa,1390,Aínsa,Ansa,Anglesea
+1391,2980,Sierra Nevada,1391,Serravalle,Serradilla,
+1392,2981,Almancil,1392,Anciles,Al Jumayyil,Amman
+1393,2982,Manteigas,1393,Manizales,Manila,Manaus
+1394,2983,Tui,1394,Tusheti,Turaida,
+1395,2984,Agua Amarga,1395,,,
+1396,2985,Mealhada,1396,Mehsana,Nalladai,Igualada
+1397,2986,Cape Palos,1397,Cape Town,Na Pali Coast,Cabezabellosa
+1398,2987,Pampaneira,1398,Pamplona,Karpaseia,Panjer
+1399,2988,Figline Valdarno,1399,,,
+1400,2989,Dehesa de Campoamor,1400,,,
+1401,2990,Pinseque,1401,Pirque,Palenque,
+1402,2991,Alfamén,1402,,,
+1403,2992,Montepulciano,1403,Monte Pulito,Montegiardino,Montezuma
+1404,2993,Bragança,1404,Braga,Badalona,Artagnan
+1405,2994,Soajo,1405,Somo,Soria,Sofia
+1406,2995,Tavira,1406,Gaira,Tarifa,Tai'an
+1407,2996,Vadesalor,1407,Viladellops,,
+1408,2997,Posada Barrancas,1408,Playa Blanca,Paracas,
+1409,2998,Leccio,1409,Lecce,Lecina,Leticia
+1410,2999,Lagoa,1410,Lagoa,Lagos,Lagunas
+1411,3000,Colima,1411,Colmar,Sliema,Morelia
+1412,3001,Conegliano,1412,Montegiardino,Corianino,Consuegra
+1413,3002,Kochkor,1413,Kotor,Sokcho,
+1414,3004,Guadalajara,1414,Guadalajara,Guardalavaca,Gudja
+1415,3005,Linguaglossa,1415,,,
+1416,3006,Tarquinia,1416,Trinidad,Barumini,Tarifa
+1417,3008,São Jorge,1417,Sao Jorge,,
+1418,3009,Lunahuaná,1418,Dunhuang,Bunutan,
+1419,3010,Viterbo,1419,Vitré,Verona,
+1420,3011,Viana do Castelo,1420,Vila Nova de Cacela,Arenal d'en Castell,
+1421,3012,Huánuco,1421,,,
+1422,3013,Koblenz,1422,Koblenz,,
+1423,3014,Fairbanks,1423,Cairns,,
+1424,3015,Miranda de Douro,1424,Mairena del Alcor,Santiago de Surco,
+1425,3016,Ribadelago Nuevo,1425,Ribadelago Nuevo,,
+1426,3017,Wittenberg,1426,Menzberg,Plettenberg Bay,Simonsberg
+1427,3018,Itajaí,1427,,,
+1428,3019,Itapema,1428,Icalma,,
+1429,3020,Barreirinhas,1429,Ribeirinha,,
+1430,3021,Maceió,1430,Maó,Mae Win,Machico
+1431,3022,Dijon,1431,Dijon,Sion,Sidon
+1432,3023,Jerez de los Caballeros,1432,,,
+1433,3024,Santa Cruz de la Sierra,1433,Santa Cruz de la Palma,Zahara de la Sierra,Santa Cruz del Valle
+1434,3025,Besalú,1434,Besalú,Bielsa,Bernal
+1435,3026,Alter do Chão,1435,,,
+1436,3027,Figueras,1436,Figueres,Fgura,Queralbs
+1437,3028,Boecillo,1437,Bellagio,,
+1438,3029,Castro Urdiales,1438,Caño Cristales,Crociale,
+1439,3030,Cañuelas,1439,Calella,Alajuela,
+1440,3031,San Antonio de Areco,1440,Sant Antoni de Calonge,Santiago de Surco,Sant Antoni de Portmany
+1441,3032,Canelones,1441,Canyelles,Calonge,Farellones
+1442,3033,Épernay,1442,Verona,Bernal,
+1443,3034,Tumbes,1443,Tumbu,Tumbalá,Tomares
+1444,3035,Suesca,1444,Huesca,Cuenca,Vinuesa
+1445,3036,Filandia,1445,Pilani,Alexandria,Milan
+1446,3037,Calarcá,1446,Caldebarcos,Cala Gració,Cagliari
+1447,3038,Salento,1447,Salento,Santoña,Santiago
+1448,3039,La Carolina,1448,La Molina,La Savina,Santa Catalina
+1449,3040,Villa de Merlo,1449,Villa de Valverde,Viña del Mar,Viladellops
+1450,3041,Huancayo,1450,Hana,Yucay,Nancy
+1451,3042,Sant'Antioco,1451,Sant'Andrea,Santiago,
+1452,3043,Clorinda,1452,Fiorina,Condado,Celorio
+1453,3044,La Falda,1453,La Franca,La Adrada,La Roda
+1454,3045,Travacò Siccomario,1454,,,
+1455,3046,Orio,1455,Ordino,Oviedo,Ourika
+1456,3047,Quartu Sant'Elena,1456,,,
+1457,3048,Villa La Angostura,1457,Villa La Angostura,,
+1458,3049,Cedillo,1458,Cudillero,Canillo,Cercedilla
+1459,3050,Ceclavín,1459,,,
+1460,3051,Sistelo,1460,Sitges,Eriste,Castel
+1461,3052,Salinas de Pisuerga,1461,Santiago de la Ribera,Santiago de Querétaro,
+1462,3053,Velilla del Río Carrión,1462,,,
+1463,3054,Caín de Valdeón,1463,Cuevas del Valle,Villa de Valverde,
+1464,3055,Camariñas,1464,Pardiñas,Cambrils,Kamari
+1465,3056,Cedeira,1465,Pedreira,Pereira,Pedrera
+1466,3057,Poncebos,1466,,,
+1467,3058,Combarro,1467,Combarro,Colmar,Coron
+1468,3059,Arbejal,1468,Agrelo,,
+1469,3060,Piura,1469,Siurana,Pisa,Piornal
+1470,3061,Saint-Valery-sur-Somme,1470,,,
+1471,3062,Máncora,1471,,,
+1472,3063,Liérganes,1472,Llanes,Leganés,
+1473,3064,San Luis,1473,San Luis,Santa Luċija,Cabo San Lucas
+1474,3065,Lençóis,1474,Lupeni,,
+1475,3066,Callao,1475,Canillo,Calella,Caladino
+1476,3067,Getxo,1476,Ghent,Geoje,
+1477,3068,Santurtzi,1477,Savuti,Sankt Moritz,Santa Cruz
+1478,3069,Aguilar de Campoo,1478,Pilar de la Mola,,
+1479,3070,Ibagué,1479,,,
+1480,3071,Águeda,1480,,,
+1481,3072,Puerto Inca,1481,Puerto Princesa,Puerto Iguazú,Puerto Varas
+1482,3073,Tupiza,1482,Trapeza,Tonsupa,
+1483,3074,Celorio,1483,Celorio,Coron,Corianino
+1484,3075,Playa de Aro,1484,Platja d'Aro,Playa del Carmen,Playa de Bolonia
+1485,3076,Carrascalejo,1485,Crociale,Barranco,
+1486,3077,Paraná,1486,Pájara,Prčanj,Paraty
+1487,3078,Potrero de los Funes,1487,Zahara de los Atunes,,
+1488,3079,Castelldefels,1488,Castelldefels,Castellet,Castellar del Riu
+1489,3080,Tabuaço,1489,Taba,Tabacon,
+1490,3081,Brest,1490,Forest,Bruges,Bucharest
+1491,3082,Quimbaya,1491,Jimbaran,,
+1492,3083,Montenegro,1492,Montevideo,Monteverde,Montegiardino
+1493,3084,Boticas,1493,Biescas,,
+1494,3085,Oropesa del Mar,1494,Tossa de Mar,Arenys de Mar,Viña del Mar
+1495,3087,Lapuebla de Labarca,1495,Puebla de Sanabria,Cap de Barbaria,
+1496,3088,Níjar,1496,Níjar,Nara,Ngari
+1497,3089,Colón,1497,Colunga,Moroleón,Molló
+1498,3090,Triongo,1498,Toronto,Ordino,
+1499,3091,Montalegre,1499,Montréal,Montreux,Mont-ral
+1500,3092,Castro Laboreiro,1500,,,
+1501,3093,Nelas,1501,Näfels,Nelson,New Orleans
+1502,3094,La Rioja Argentina,1502,,,
+1503,3095,Alcalá del Júcar,1503,Alcolea del Pinar,Balcón del Mar,
+1504,3096,Celorico de Basto,1504,,,
+1505,3097,Mojácar,1505,Mostar,,
+1506,3098,Nigrán,1506,Nigrán,,
+1507,3099,Bastiagueiro,1507,Santiago,,
+1508,3100,Bulnes,1508,Blanes,Llanes,Bruges
+1509,3101,Cudillero,1509,Cudillero,Canillo,
+1510,3102,Lastres,1510,Lastres,Las Terrenas,Ullastret
+1511,3103,Luarca,1511,Luarca,Lorca,Murcia
+1512,3104,Puerto de Vega,1512,Puerto de la Cruz,Puerto Viejo,Puerto Varas
+1513,3105,Tapia de Casariego,1513,Cap de Barbaria,,
+1514,3106,Tazones,1514,Toñanes,Talloires,Llanes
+1515,3107,Taramundi,1515,Jamundí,,
+1516,3110,Covarrubias,1516,Covarrubias,Currumbin,
+1517,3111,Grazalema,1517,Granadilla,Haarlem,Granada
+1518,3112,Olvera,1518,Claveria,Livera,Odemira
+1519,3113,Zahara de la Sierra,1519,Zahara de la Sierra,Mirador de la Sierra,Castellar de la Ribera
+1520,3114,Frías,1520,Maras,Graus,Grabs
+1521,3115,Lerma,1521,Livera,Zermatt,Lima
+1522,3116,Peñaranda de Duero,1522,,,
+1523,3117,Bárcena Mayor,1523,,,
+1524,3120,Morella,1524,Morella,Morelia,Marbella
+1525,3121,Villafamés,1525,Villar,Villaricos,
+1526,3122,Villanueva de los Infantes,1526,Villanueva de la Cañada,Vilafranca de Bonany,
+1527,3123,Iznájar,1527,Inari,Pájara,
+1528,3124,Alarcón,1528,Albarracín,Aachen,
+1529,3125,Beget,1529,Beget,Berge,Bierge
+1530,3126,Pals,1530,Pals,Pal,Palamós
+1531,3127,Capileira,1531,Vasileia,Calella,
+1532,3128,Montefrío,1532,Monteriggioni,Montegiardino,Montserrat
+1533,3129,Briones,1533,Sirmione,Gines,Brisbane
+1534,3130,Campillo de Ranas,1534,Valle de Banderas,Cabo de Gata,Valle de la Luna
+1535,3131,Peñalba de Santiago,1535,Puebla de Sanabria,,
+1536,3132,Sigüenza,1536,Siena,Sigean,Spiez
+1537,3133,Mondoñedo,1537,Montevideo,Mandhoo,Condado
+1538,3134,Alquézar,1538,Alquézar,,
+1539,3135,Buitrago de Lozoya,1539,Burgo de Osma,Gargantilla del Lozoya,
+1540,3136,Patones de Arriba,1540,Salto de Agua,,
+1541,3137,Cazorla,1541,Paola,Coura,Colmar
+1542,3138,Segura de la Sierra,1542,Zahara de la Sierra,Mirador de la Sierra,Santiago de la Ribera
+1543,3139,Ansó,1543,Ansa,Aínsa,Athens
+1544,3140,Concordia,1544,Condado,La Conreria,Chocohuital
+1545,3141,Olite,1545,Olot,Alicante,Split
+1546,3142,Ujué,1546,,,
+1547,3143,Allariz,1547,Villar,Amdari,
+1548,3144,Candelario,1548,Candelaria,Celorio,Castelsardo
+1549,3145,Ciudad Rodrigo,1549,Ciudad Perdida,,
+1550,3146,La Alberca,1550,Las Galeras,La Goleta,La Franca
+1551,3147,Ledesma,1551,Odesa,Lleida,Leshan
+1552,3148,Miranda del Castañar,1552,Mar del Plata,Villanueva de la Cañada,Mairena del Aljarafe
+1553,3149,Mogarraz,1553,Makarora,Narra,Mġarr
+1554,3150,El Burgo de Osma,1554,Burgo de Osma,,
+1555,3151,Medinaceli,1555,Mdina,,
+1556,3152,Ayllón,1556,,,
+1557,3153,Maderuelo,1557,Teruel,,
+1558,3154,Pedraza,1558,Pedrera,Piedralaves,Pedreira
+1559,3155,Sepúlveda,1559,Senglea,,
+1560,3156,Turégano,1560,Lugano,Trancoso,Tauranga
+1561,3157,Puebla de Sanabria,1561,Puebla de Sanabria,Cap de Barbaria,Cala Santandria
+1562,3158,Miravet,1562,Miravet,Murata,
+1563,3159,Sos del Rey Católico,1563,,,
+1564,3160,Montblanc,1564,Son Blanc,Fontana,Monte la Reina
+1565,3161,Calaceite,1565,Cabarete,Canazei,Cala en Porter
+1566,3162,Rubielos de Mora,1566,Riells del Fai,,
+1567,3163,Elanchove,1567,Elche,Vancouver,Vollenhove
+1568,3164,Mundaka,1568,Mandalay,Punakaiki,Hunedoara
+1569,3165,Valderrobres,1569,Valdevaqueros,Valdragone,Caldebarcos
+1570,3166,Urueña,1570,Urda,,
+1571,3167,Llantrisant,1571,Llafranc,,
+1572,3168,Ruidera,1572,Sa Riera,Livera,
+1573,3169,Daimiel,1573,Daimiel,Waimea,Darien
+1574,3170,Gualeguaychú,1574,,,
+1575,3171,Valle de Matamoros,1575,Tlacolula de Matamoros,Valle de Banderas,Valle de la Luna
+1576,3172,Guatapé,1576,Gualta,Murata,
+1577,3174,Buenavista,1577,Buenavista del Norte,Pavilosta,Fuensanta
+1578,3175,Houston,1578,Boston,Hulst,Hoorn
+1579,3176,Vegacervera,1579,Vancouver,,
+1580,3177,Megève,1580,,,
+1581,3178,Kyzylorda,1581,,,
+1582,3179,Calvi,1582,Calp,Valdivia,Claveria
+1583,3180,Monteux,1583,Montreux,Montezuma,Montseny
+1584,3183,Villa de Leyva,1584,Villa de Valverde,Vilanova de Sau,Viña del Mar
+1585,3184,Gordoncillo,1585,Grouville,,
+1586,3185,Luanda,1586,Lund,Lugano,Luarca
+1587,3186,Skibbereen,1587,Tibubeneng,,
+1588,3187,Union Hall,1588,,,
+1589,3188,Riobamba,1589,Urubamba,,
+1590,3189,Guardamar del Segura,1590,Zahara de la Sierra,Mirador de la Sierra,
+1591,3190,Crevillent,1591,Seville,Grouville,Castellet
+1592,3191,Buġibba,1592,Bukoba,Bilbao,
+1593,3192,Šibenik,1593,,,
+1594,3193,Trincomalee,1594,,,
+1595,3194,Loja,1595,Lija,Lorca,Lozoya
+1596,3195,Gropparello,1596,Scopello,,
+1597,3196,L'Aquila,1597,Arequipa,,
+1598,3197,Pescara,1598,Peñíscola,Pájara,Perast
+1599,3198,Aielli,1599,Kiel,Albi,
+1600,3199,Tarija,1600,Tarifa,Tai'an,Vardzia
+1601,3200,Machala,1601,Bacalar,Mazatlan,Masca
+1602,3201,El Palmar de Vejer,1602,El Palmar de Vejer,El Palmer,
+1603,3202,Bailén,1603,Balzan,Baiona,Chaitén
+1604,3203,Palomino,1604,Palomino,Palermo,Positano
+1605,3204,Roccascalegna,1605,,,
+1606,3205,Guardiagrele,1606,,,
+1607,3206,Monreal del Llano,1607,Mairena del Alcor,Torres del Paine,Torre del Ram
+1608,3207,Manta,1608,Murata,Mataró,Manila
+1609,3208,Suances,1609,Saelices,Sarnen,Saldes
+1610,3209,Santa Fe,1610,Santa Fé,Sant Ferran,Santander
+1611,3210,Manresa,1611,Marsa,Mijares,Mengesta
+1612,3211,Jamao al Norte,1612,,,
+1613,3212,Gavás,1613,Gabás,Navès,Navàs
+1614,3213,Gumiel de Izán,1614,,,
+1615,3214,Sober,1615,Sort,Simonsberg,Soria
+1616,3215,Doade,1616,Doradal,Daedeok,Dead Sea
+1617,3216,Bolzano,1617,Balzan,Volcano,Bormla
+1618,3217,Mar del Plata,1618,Mar del Plata,Marbella,Mar de Cristal
+1619,3218,Acireale,1619,Ardales,Anciles,Crociale
+1620,3219,Maafushi,1620,Maafushi,Manaus,Marousi
+1621,3220,Deauville,1621,Seville,Grouville,Asheville
+1622,3221,Tiedra,1622,Trier,Thera,Tejeda
+1623,3222,Nueva,1623,Huelva,Suceava,Nuévalos
+1624,3223,Pacs del Penedés,1624,Castejón del Puente,,
+1625,3224,Santander,1625,Santander,Sangamner,Santa Venera
+1626,3225,Obregón,1626,,,
+1627,3226,Chincha,1627,Chinchero,Chicago,Chinatown
+1628,3227,Formosa,1628,Frómista,Faros,Bormujos
+1629,3228,Trelew,1629,Teruel,Telč,
+1630,3229,San Rafael,1630,Sian Ka'an,San Miguel,San Javier
+1631,3230,Samara,1631,Shakaria,Saqqarah,Sassafras
+1632,3232,Vicenza,1632,Vienna,Siena,Verona
+1633,3233,Alton,1633,Aitona,Carlton,Astún
+1634,3234,Klosters,1634,Klosterneuburg,Roses,Kotor
+1635,3235,Davos,1635,Navès,Navàs,Lagos
+1636,3236,Irkutsk,1636,,,
+1637,3237,Tashkent,1637,Tusheti,Ghent,
+1638,3238,Bukhara,1638,Barva,Bucharest,Bacharach
+1639,3239,Samarkand,1639,Saghmosavan,,
+1640,3240,Kutna Hora,1640,Kutna Hora,Quinta Normal,Punta Hermosa
+1641,3241,Karlovy Vary,1641,Karlovy Vary,,
+1642,3242,Lodz,1642,Lozoya,London,
+1643,3243,Esterri de Aneu,1643,Castellar de n'Hug,,
+1644,3244,Fagurhólsmýri,1644,,,
+1645,3245,Trento,1645,Teno,Toronto,Trevor
+1646,3249,Rostov-on-Don,1646,,,
+1647,3250,Stepantsminda,1647,Stepantsminda,,
+1648,3251,Watamu,1648,,,
+1649,3252,Menaggio,1649,Majengo,Bellagio,
+1650,3253,Piacenza,1650,Pianacci,Palencia,Siena
+1651,3254,Borgomanero,1651,,,
+1652,3255,Pisciotta,1652,Pisa,,
+1653,3256,Ascea,1653,Ansa,Anglesea,Masca
+1654,3257,Palinuro,1654,Palomino,Palermo,Palenque
+1655,3258,Lezzeno,1655,,,
+1656,3259,Opatija,1656,Oia,,
+1657,3260,Piran,1657,Prčanj,Pilani,Siurana
+1658,3261,Izola,1658,Paola,Kolka,Ibiza
+1659,3262,Portorož,1659,Porto,Porto Ercole,Porto Moniz
+1660,3263,Pian di Scò,1660,,,
+1661,3264,Atri,1661,Arica,Akrotiri,Attard
+1662,3265,Chieti,1662,Tusheti,Chennai,Chaitén
+1663,3266,Giulianova,1663,Gili Indah,,
+1664,3267,Scanno,1664,Sanok,Sarnen,Sannat
+1665,3268,Milazzo,1665,Milos,Milan,Manila
+1666,3269,Isil,1666,Giswil,,
+1667,3270,Byron Bay,1667,Byron Bay,Bondi Beach,
+1668,3271,Wanaka,1668,Wanaka,Panagra,Manyara
+1669,3272,Cuneo,1669,Puno,Cailungo,Vouno
+1670,3273,Saluzzo,1670,Salou,,
+1671,3274,Riviera Nayarit,1671,Riviera Nayarit,Riviera Maya,
+1672,3275,Holguín,1672,,,
+1673,3276,Guardalavaca,1673,Guardalavaca,Guadalajara,
+1674,3277,Boca Chica,1674,,,
+1675,3278,Tijuana,1675,Siurana,Tauranga,Ljubljana
+1676,3279,Morelia,1676,Morelia,Morella,Melilla
+1677,3280,Whistler,1677,Whistler,,
+1678,3281,Tampa,1678,Tampa,Trapeza,Tampere
+1679,3282,Denver,1679,Dendera,,
+1680,3283,Dushanbe,1680,Lausanne,Dunhuang,Dahab
+1681,3284,Agerola,1681,Agra,Arona,Aberfoyle
+1682,3285,Monteroni di Lecce,1682,,,
+1683,3286,Mondovì,1683,London,,
+1684,3287,Medan,1684,Mehsana,Medellín,Msida
+1685,3288,Bentota,1685,Menton,Bernal,Benijo
+1686,3289,Boca de Canasí,1686,,,
+1687,3290,Sihanoukville,1687,Grouville,Yountville,Seville
+1688,3291,Koh Rong,1688,Ko Chang,,
+1689,3292,Ella,1689,Elia,Elvas,Villar
+1690,3293,Rasdhoo,1690,Mandhoo,Manadhoo,Magoodhoo
+1691,3294,Rarotonga,1691,Datong,Rotorua,Carlton
+1692,3295,Koper,1692,Kopačevo,Kotor,
+1693,3296,Waddesdon,1693,Madison,,
+1694,3297,Chessington,1694,Chinatown,Wellington,Charleston
+1695,3298,Chertsey,1695,Chessy,Jerte,
+1696,3299,Laugarvatn,1696,Lugano,Luarca,
+1697,3300,Ingólfshöfði,1697,,,
+1698,3301,Rethymno,1698,Rethymno,,
+1699,3302,Pastrana,1699,Santana,Paracas,La Pastora
+1700,3303,Brihuega,1700,Braga,Berga,
+1701,3304,Nicosia,1701,Victoria,Victoria,Naoshima
+1702,3305,Nur-Sultan,1702,,,
+1703,3306,Sedona,1703,Siena,Sidon,Verona
+1704,3307,Cusiano,1704,Positano,Cusco,Busan
+1705,3308,Khiva,1705,Chivay,Kinvara,Khwai
+1706,3309,Avranches,1706,Aachen,Manchester,Ardales
+1707,3310,Mortain,1707,Mosta,Molarini,Portinatx
+1708,3311,Savigny-le-Vieux,1708,,,
+1709,3312,Addu,1709,Addu,Aydius,
+1710,3313,Nimes,1710,Nome,Nice,Agüimes
+1711,3314,Llavorsí,1711,Llanars,Lagos,
+1712,3315,Aldea del Rey,1712,Talavera de la Reina,Alcolea del Pinar,
+1713,3316,Kralendijk,1713,Qrendi,Kinderdijk,
+1714,3317,Calcídica,1714,Alcúdia,,
+1715,3318,Diani,1715,Pilani,Dingli,Dana
+1716,3319,Finestrat,1716,Sintra,Fustat,Vinuesa
+1717,3320,Polop de la Marina,1717,Palos de la Frontera,Pilar de la Mola,Porto de Galinhas
+1718,3321,Pianillo,1718,Piandivello,Canillo,Pilani
+1719,3322,Cancale,1719,Hanalei,Caniçal,Canazei
+1720,3323,Salalah,1720,Saldaña,Saqqarah,Salamanca
+1721,3324,Khasab,1721,Lhasa,Kalambo,
+1722,3325,Agullent,1722,Aguascalientes,Agramunt,Aguas Calientes
+1723,3326,Espot,1723,Espot,,
+1724,3327,Chia,1724,Chivay,Chía,Chía
+1725,3328,Grindavík,1725,Granada,Granada,Grainau
+1726,3329,Vulcano,1726,Volcano,Vouno,Falciano
+1727,3330,Äkäslompolo,1727,,,
+1728,3331,La Merced,1728,Laredo,Es Mercadal,
+1729,3332,Cerro de Pasco,1729,Cerro Negro,,
+1730,3334,Amelia,1730,Delika,Morelia,Melilla
+1731,3335,Montefalco,1731,Montréal,Montmeló,Mont-ral
+1732,3336,Hillsborough,1732,,,
+1733,3337,Rodalquilar,1733,Roaguia,Rebollar,
+1734,3338,Monzón,1734,Donón,Temozón,Menznau
+1735,3339,Frascati,1735,Cascais,Masca,
+1736,3340,Killarney,1736,Killarney,Blarney,Villar
+1737,3341,La Hermida,1737,La Conreria,La Tejita,La Adrada
+1738,3342,Sargentes de la Lora,1738,San Vicente de la Barquera,Sant Carles de la Ràpita,Santiago de la Ribera
+1739,3343,Busso,1739,Brussels,Guaso,Cusco
+1740,3344,Capo d'Orlando,1740,Orlando,,
+1741,3345,Falcone,1741,Calonge,Farellones,Falciano
+1742,3346,Ponte de Lima,1742,Punta de Mita,Montejo de Tiermes,Ponte Mellini
+1743,3347,Montroy,1743,Montseny,Montréal,Montreux
+1744,3348,Yela,1744,Puebla,Huelva,Delika
+1745,3349,Casas-Ibáñez,1745,,,
+1746,3350,Subirats,1746,,,
+1747,3351,Castiglione della Pescaia,1747,Castilleja de la Cuesta,Castelló de la Plana,
+1748,3352,Zakopane,1748,Zakopane,,
+1749,3353,Hobart,1749,Sort,Hvar,
+1750,3354,Sperlonga,1750,Verona,Selong Blanak,Senglea
+1751,3355,Castino,1751,El Castillo,Caladino,Cailungo
+1752,3356,Andújar,1752,Ankara,Andrín,Amdari
+1753,3357,Victoria,1753,Victoria,Victoria,Fiorina
+1754,3358,Aosta,1754,Amposta,Mosta,Mostar
+1755,3359,Malveira,1755,Vasileia,Valencia,Palencia
+1756,3360,Mafra,1756,Marsa,Maras,Mtarfa
+1757,3361,Cañamero,1757,Camber,Varadero,
+1758,3362,Riveira,1758,Livera,Ribeirinha,Sa Riera
+1759,3363,Santa Maria da Feira,1759,Santa Maria de Besora,Santa María de la Alameda,Santiago de la Ribera
+1760,3364,Bodø,1760,,,
+1761,3365,Kittilä,1761,,,
+1762,3366,Turku,1762,Tumbu,Tulum,Toruń
+1763,3367,Sirkka,1763,Sintra,Birkirkara,Siurana
+1764,3368,Hever,1764,Hvar,Vevey,
+1765,3369,Isle of Man,1765,Islets of Granada,Isle of Skye,
+1766,3370,Cortona,1766,Coron,Carlton,Porto
+1767,3371,Arcos de Valdevez,1767,,,
+1768,3372,Piriápolis,1768,,,
+1769,3373,Holbox,1769,Holbox,Kolo,
+1770,3374,Isla de La Toja,1770,Pilar de la Mola,,
+1771,3375,Alta,1771,Altafulla,Gualta,Attard
+1772,3376,Tropea,1772,Trapeza,Tonsupa,Toro
+1773,3377,Capri,1773,Capri,Cardiff,Calp
+1774,3378,Vodice,1774,Vic,Venice,Nice
+1775,3379,Monforte d'Alba,1775,,,
+1776,3380,Martina Franca,1776,La Franca,Maria Saal,
+1777,3381,Tricarico,1777,Villaricos,,
+1778,3382,Taranto,1778,Toronto,Trancoso,Tauranga
+1779,3383,Vieste,1779,Vis,Eriste,Viñales
+1780,3384,Santa María de Leuca,1780,Santa Maria de Besora,Santa María de la Alameda,Santiago de Cuba
+1781,3385,Molfetta,1781,Valletta,Recoleta,Mosta
+1782,3386,Melfi,1782,Morelia,Melk,Melilla
+1783,3387,Maratea,1783,Murata,Keratea,Paradera
+1784,3388,Manfredonia,1784,Cardonal,Barcelona,
+1785,3389,Gravina in Puglia,1785,,,
+1786,3390,Asheville,1786,Asheville,Seville,
+1787,3391,Galatina,1787,Gualta,Grainau,Caladino
+1788,3392,Gallipoli,1788,Valladolid,Valladolid,
+1789,3393,Lublin,1789,Dublin,Ljubljana,Eurobin
+1790,3394,Saumur,1790,Sumpu,Hamburg,
+1791,3395,Árskógssandi,1791,,,
+1792,3396,Edam,1792,Edam,Encamp,
+1793,3397,Marsala,1793,Marsa,Marsaskala,Marsa Alam
+1794,3398,Castel del Monte,1794,Castejón del Puente,Castellar del Riu,Castellar de n'Hug
+1795,3399,Favignana,1795,Havana,Santana,Saignon
+1796,3400,Serra San Quirico,1796,,,
+1797,3401,Aldeadávila de la Ribera,1797,Santiago de la Ribera,Castellar de la Ribera,Zahara de la Sierra
+1798,3402,Pietranico,1798,Positano,Pieta,Petermann
+1799,3403,Casalbordino,1799,Caladino,Celorio,Castelsardo
+1800,3404,Ortona,1800,Arona,Verona,Girona
+1801,3405,Hospitalet de Llobregat,1801,L'Hospitalet de Llobregat,Sant Climent de Llobregat,El Prat de Llobregat
+1802,3406,Badalona,1802,Badalona,Baiona,Barcelona
+1803,3407,Tarrasa,1803,Tarragona,Tauranga,Narra
+1804,3408,Sabadell,1804,Marbella,,
+1805,3409,Móstoles,1805,,,
+1806,3410,Fuenlabrada,1806,Fuensanta,,
+1807,3411,Leganés,1807,Leganés,Lesignano,Lembongan
+1808,3412,Getafe,1808,Fafe,,
+1809,3413,Alcorcón,1809,Alcover,,
+1810,3414,Dos Hermanas,1810,Dos Hermanas,Hermanus,
+1811,3415,Torrejón de Ardoz,1811,Torrejón de Ardoz,Torrejón el Rubio,Torre del Ram
+1812,3416,Parla,1812,Paola,Palma,Pal
+1813,3417,Mataró,1813,Mataró,Murata,Mtarfa
+1814,3418,Santa Coloma de Gramenet,1814,Santa Coloma de Farners,Santa Coloma,Sant Climent de Llobregat
+1815,3419,Algeciras,1815,Almendras,Agirda,Alcúdia
+1816,3420,Baracaldo,1816,Baracoa,Barranco,Barcelona
+1817,3421,Quintanilla del Agua,1817,Quintanilla del Agua,Salto de Agua,
+1818,3422,Tordesillas,1818,Morella,Fornells,Comillas
+1819,3423,Homer,1819,Rome,Nome,Hoorn
+1820,3424,Mazaricos,1820,Villaricos,Manzanillo,Maastricht
+1821,3425,Ceský Krumlov,1821,Český Krumlov,,
+1822,3426,Rosario de la Frontera,1822,Palos de la Frontera,Arcos de la Frontera,Vejer de la Frontera
+1823,3427,Castro,1823,Castropol,Castelsardo,Castel
+1824,3428,Castellammare di Stabia,1824,Castellammare del Golfo,Castellar de la Ribera,Castellar del Riu
+1825,3429,Lettere,1825,,,
+1826,3430,Pimonte,1826,Pimentel,Sirmione,Pingwe
+1827,3431,Vico Equense,1827,,,
+1828,3432,Gragnano,1828,Artagnan,Domagnano,Granada
+1829,3433,Sani,1829,Svaneti,Shanghai,Santiago
+1830,3434,Pefkochori,1830,,,
+1831,3435,Berat,1831,Berga,Perast,Bernal
+1832,3436,Sabana de la Mar,1832,Cabezón de la Sal,Balcón del Mar,Santiago de la Ribera
+1833,3437,Olivenza,1833,La Oliva,Siena,
+1834,3438,Felmín,1834,,,
+1835,3439,Villamanín,1835,Villar,,
+1836,3440,Alba,1836,Albi,Aqaba,Bilbao
+1837,3441,Racconigi,1837,,,
+1838,3442,Nichelino,1838,Nice,,
+1839,3443,Baní,1839,Busan,Blanes,Banjul
+1840,3444,Bahía de las Águilas,1840,Playa de las Américas,Zahara de la Sierra,Río de los Chilares
+1841,3445,Cubillo,1841,Cudillero,Canillo,Trujillo
+1842,3446,Buin,1842,Buhi,Busan,Barumini
+1843,3447,Torri del Benaco,1843,Torre del Ram,Torres del Paine,
+1844,3448,Puerto de la Selva,1844,El Port de la Selva,Puerto de la Cruz,Puerto Plata
+1845,3449,Begur,1845,Begur,Begues,Bern
+1846,3450,Tamariu,1846,Tamarit,Kamari,Tartu
+1847,3451,Palafrugell,1847,Palafrugell,Calella de Palafrugell,Cala Morell
+1848,3452,Palamós,1848,Palamós,Pals,Paola
+1849,3453,Banyoles,1849,Banyoles,Blanes,Bagnes
+1850,3454,Empuriabrava,1850,Empuriabrava,,
+1851,3455,Sant Pere Pescador,1851,Sant Pere Pescador,St. Peter Port,Santa Maria de Besora
+1852,3456,Sant Martí d'Empúries,1852,Sant Martí d'Empúries,Castelló d'Empúries,
+1853,3457,La Escala,1853,Les Escaldes,Las Cascadas,Escaladei
+1854,3458,Torroella de Montgrí,1854,Torroella de Montgrí,Monistrol de Montserrat,
+1855,3459,Loreto Aprutino,1855,,,
+1856,3460,Pineto,1856,Princetown,Pieta,Pingwe
+1857,3461,Ancud,1857,Ancud,,
+1858,3462,Chonchi,1858,Sochi,Chocohuital,Chamonix
+1859,3463,Dalcahue,1859,Hualaihue,Elche,
+1860,3464,Coslada,1860,Nosara,Colmar,The Coloradas
+1861,3465,Las Rozas de Madrid,1861,Las Casas de Alcanar,San José de Maipo,Los Caños de Meca
+1862,3466,Orihuela,1862,,,
+1863,3467,Talavera de la Reina,1863,Talavera de la Reina,Zahara de la Sierra,Valle de la Luna
+1864,3468,Cornellá de Llobregat,1864,Cornellà de Llobregat,Sant Feliu de Llobregat,El Prat de Llobregat
+1865,3469,San Cugat del Vallés,1865,Sant Cugat del Vallès,Santa Cruz del Valle,La Roca del Vallès
+1866,3470,Pozuelo de Alarcón,1866,Puerto de la Cruz,,
+1867,3471,El Ejido,1867,El Nido,El Nicho,El Cairo
+1868,3472,Sant Boi de Llobregat,1868,Sant Boi de Llobregat,Sant Feliu de Llobregat,Sant Climent de Llobregat
+1869,3473,San Sebastián de los Reyes,1869,San Martin de los Andes,San Sebastián - Donostia,
+1870,3474,Torrent,1870,Toronto,Loreto,Forest
+1871,3475,Rivas-Vaciamadrid,1871,,,
+1872,3476,Ciudad Real,1872,Ciudad Perdida,Ciutadella,Ciudad Juarez
+1873,3477,Rubí,1873,,,
+1874,3478,Alcalá de Guadaíra,1874,,,
+1875,3479,Valdemoro,1875,Varadero,Valdevaqueros,Valdragone
+1876,3480,Majadahonda,1876,Manadhoo,Badalona,
+1877,3481,Molina de Segura,1877,Mirador de la Sierra,Colmenar de Oreja,
+1878,3482,Paterna,1878,Paradera,Palencia,Watertown
+1879,3483,Villanueva y Geltrú,1879,Vilanova i la Geltrú,Villanueva de la Cañada,
+1880,3484,Viladecans,1880,Viladellops,Villaricos,
+1881,3485,La Línea de la Concepción,1881,,,
+1882,3486,El Prat de Llobregat,1882,El Prat de Llobregat,Sant Boi de Llobregat,Sant Feliu de Llobregat
+1883,3487,Collado Villalba,1883,,,
+1884,3488,Irún,1884,,,
+1885,3489,Alcoy,1885,Alcover,,
+1886,3490,Granollers,1886,Gallegos,Gallarus,Banyoles
+1887,3491,Cerdanyola del Vallès,1887,La Roca del Vallès,Mollet del Vallès,Sant Cugat del Vallès
+1888,3492,Arganda del Rey,1888,,,
+1889,3493,San Vicente del Raspeig,1889,San Vicente de la Barquera,San Vicente La Mesilla,
+1890,3494,Elda,1890,Elia,Edam,Elvas
+1891,3495,Mollet del Vallés,1891,Mollet del Vallès,La Roca del Vallès,Teotitlán del Valle
+1892,3496,Siero,1892,Sion,Gierłoż,Sirmione
+1893,3497,Puertollano,1893,Puerto Plata,Puerto Williams,Puerto Villamil
+1894,3498,Utrera,1894,Utrecht,Pedrera,Urda
+1895,3499,Villarreal,1895,Villar,Killarney,Villaricos
+1896,3500,Algiers,1896,Agüimes,Almendras,Agirda
+1897,3501,Vila Pouca de Aguiar,1897,Vila Nova de Gaia,Vilanova de Sau,Vila Nova de Cacela
+1898,3502,Predaia,1898,Pereira,Pedreira,Qrendi
+1899,3503,Verín,1899,Verona,Bern,Verul
+1900,3504,La Vecilla,1900,La Villa,La Vega,La Puntilla
+1901,3505,Caldas de Luna,1901,Valle de la Luna,Casbas de Huesca,Cangas de Onís
+1902,3506,Senra,1902,Siena,Sintra,Senglea
+1903,3507,Boadilla del Monte,1903,Torroella de Montgrí,Buenavista del Norte,
+1904,3508,Pinto,1904,Puno,Princetown,Pingyao
+1905,3509,Espluges de Llobregat,1905,L'Hospitalet de Llobregat,El Prat de Llobregat,Cornellà de Llobregat
+1906,3510,Gavá,1906,Gabás,,
+1907,3511,Colmenar Viejo,1907,Colmenar de Oreja,Puerto Viejo,Colmar
+1908,3512,Alcira,1908,Alcúdia,Almora,Alcalá
+1909,3513,Mislata,1909,Mosta,Milan,Málaga
+1910,3514,Sant Feliú de Llobregat,1910,Sant Feliu de Llobregat,Sant Boi de Llobregat,Sant Climent de Llobregat
+1911,3515,Langreo,1911,Laredo,Lagos,Lagoa
+1912,3516,Mairena del Aljarafe,1912,Mairena del Aljarafe,Mairena del Alcor,Mar del Plata
+1913,3517,Mieres,1913,Mijares,Liencres,Figueres
+1914,3518,Basauri,1914,Bari,Bisharri,Manapouri
+1915,3519,Alcantarilla,1915,Islantilla,Altafulla,Granadilla
+1916,3520,San Fernando de Henares,1916,,,
+1917,3521,Puerto Real,1917,Puerto Guadal,Puerto Galera,Puerto Natales
+1918,3522,Arraial d'Ajuda,1918,Arraial do Cabo,,
+1919,3523,Trancoso,1919,Trancoso,Barranco,
+1920,3524,Tres Cantos,1920,Trancoso,Los Cabos,
+1921,3525,Porto Seguro,1921,Porto Ercole,Porto Moniz,
+1922,3526,Vich,1922,Vic,Zürich,Venice
+1923,3527,La Teste-de-Buch,1923,,,
+1924,3528,Perpignan,1924,Perpignan,Lesignano,Perissa
+1925,3529,Saint-Pierre-d'Oléron,1925,,,
+1926,3530,Panticosa,1926,Pavilosta,Santoña,Pisa
+1927,3531,Torla-Ordesa,1927,Torla-Ordesa,Tomares,
+1928,3532,Arties,1928,Arbúcies,Athens,Motides
+1929,3533,Viella,1929,Villar,La Villa,Xixerella
+1930,3534,Taüll,1930,Tallinn,Halle,
+1931,3535,Bagergue,1931,Bagergue,Berge,Bierge
+1932,3536,Prullans,1932,Peroulades,Orléans,
+1933,3537,Rentería,1933,Dendera,Aventura,
+1934,3538,Torre del Greco,1934,Torre del Ram,Torres del Paine,Torrejón de Ardoz
+1935,3539,Torre Annunziata,1935,,,
+1936,3540,Narón,1936,Nara,Níjar,Ngari
+1937,3541,Igualada,1937,Igualada,Nalladai,
+1938,3542,Tomelloso,1938,Tourlos,Tomares,Templos
+1939,3543,Villafranca del Panadés,1939,Vilafranca de Bonany,Villarreal de San Carlos,Villanueva de la Cañada
+1940,3544,Miranda de Ebro,1940,Mairena del Alcor,,
+1941,3545,Burjasot,1941,Budapest,Guaso,Broto
+1942,3546,Los Palacios y Villafranca,1942,,,
+1943,3547,La Rinconada,1943,La Roda,La Romana,La Lanzada
+1944,3548,Alhaurín de la Torre,1944,Alhaurín de la Torre,Zahara de la Sierra,Pilar de la Mola
+1945,3549,Ripollet,1945,Recoleta,Lille,
+1946,3550,Onteniente,1946,,,
+1947,3551,Don Benito,1947,Benijo,,
+1948,3552,El Vendrell,1948,Els Muntells,,
+1949,3553,Burriana,1949,Yuriria,Siurana,Tauranga
+1950,3554,Alcocéber,1950,Alcover,,
+1951,3555,Azuqueca de Henares,1951,,,
+1952,3556,Villena,1952,Villar,Vienna,Villeneuve
+1953,3557,Petrer,1953,Pereira,Pedrera,Pedreira
+1954,3558,Almendralejo,1954,Almendras,Alexandria,Glendalough
+1955,3559,Yecla,1955,Recoleta,Yucay,
+1956,3560,Oleiros,1956,Aveiro,,
+1957,3561,Torre-Pacheco,1957,Torraccia,,
+1958,3562,Olot,1958,Olot,Oslo,Vlotho
+1959,3563,San Juan Despí,1959,San Juan del Sur,Sant Just Desvern,Saint Julian's
+1960,3564,Vall de Uxó,1960,,,
+1961,3565,Barberá del Vallés,1961,Cabezuela del Valle,Mollet del Vallès,La Roca del Vallès
+1962,3566,Alcázar de San Juan,1962,Horta de Sant Joan,,
+1963,3567,Camargo,1963,Combarro,Camprodon,Cambridge
+1964,3568,Carballo,1964,Carlton,Canillo,Cabezabellosa
+1965,3569,Hellín,1965,Medellín,,
+1966,3570,Valdepeñas,1966,Saldes,Valdevaqueros,Valparaíso
+1967,3571,Manises,1967,Manizales,Meknes,Manila
+1968,3572,Aldaya,1968,Saldaña,Alcúdia,
+1969,3573,Arteijo,1969,Benijo,Aveiro,Agrelo
+1970,3574,Lejona,1970,Verona,Lembongan,Lecina
+1971,3575,Totana,1971,Fontana,Tonala,Tecoanapa
+1972,3576,San Roque,1972,Sant Josep,San Miguel,Los Roques
+1973,3577,Alacuás,1973,Glarus,Alcalá,Aarhus
+1974,3578,Redondela,1974,Ronda,Dendera,
+1975,3579,Coria del Río,1975,Torre del Ram,,
+1976,3580,Culleredo,1976,Cudillero,,
+1977,3581,Ames,1977,Agüimes,Almendras,Athens
+1978,3582,San Pedro de Ribas,1978,San Pedro de la Paz,Santiago de la Ribera,
+1979,3583,Galdácano,1979,Falciano,Volcano,
+1980,3584,Rota,1980,Rotorua,Rovereta,Ronda
+1981,3585,Sestao,1981,Faetano,,
+1982,3586,Vinaroz,1982,Villar,Vienna,
+1983,3587,Durango,1983,Tauranga,Dunhuang,Lugano
+1984,3590,Morón de la Frontera,1984,Vejer de la Frontera,Palos de la Frontera,Arcos de la Frontera
+1985,3591,Algemesí,1985,Agüimes,,
+1986,3592,Oliva,1986,La Oliva,Oia,Elia
+1987,3593,Premiá de Mar,1987,Premià de Mar,Lloret de Mar,Arenys de Mar
+1988,3594,San Vicente dels Horts,1988,San Vicente de la Barquera,Sant Climent de Llobregat,San Vicente La Mesilla
+1989,3595,Martorell,1989,Morella,Marbella,Meritxell
+1990,3596,Catarroja,1990,Catarman,Catania,Castelsardo
+1991,3597,Éibar,1991,Jimbaran,Ézaro,
+1992,3598,San Andrés de la Barca,1992,San Pedro de la Paz,Sant Andreu de Llavaneres,San Vicente de la Barquera
+1993,3599,Lebrija,1993,Lija,Umbria,Lleida
+1994,3600,Lepe,1994,Lepe,Lecce,Lupeta
+1995,3601,Villaviciosa de Odón,1995,Villaricos,,
+1996,3602,Benicarló,1996,Benares,Benitachell,
+1997,3603,Villarrobledo,1997,Algarrobo,Villar,Villaricos
+1998,3604,Alcobendas,1998,Almendras,Arriondas,Alexandria
+1999,3605,Camas,1999,Cangas,Chiapas,Tlamacas
+2000,3606,Almazora,2000,Almora,Amlapura,Amarante
+2001,3607,Villanueva de la Serena,2001,Villanueva de la Cañada,Vilanova de Sau,Valle de la Luna
+2002,3608,Onda,2002,Ronda,Odesa,Kendwa
+2003,3609,Marín,2003,Marken,Molarini,Marmagne
+2004,3610,Navalcarnero,2004,Navalcán,Falciano,
+2005,3611,Almansa,2005,Ansa,S'Almudaina,Aínsa
+2006,3612,Valls,2006,Dallas,Viñales,Versailles
+2007,3613,Pinhão,2007,Pingyao,Puno,
+2008,3614,Rapallo,2008,,,
+2009,3615,Ubrique,2009,Taibique,Umbria,Pirque
+2010,3617,Montoro,2010,Montréal,Montreux,Mont-ral
+2011,3618,Ferentino,2011,Fiorentino,Forțeni,Faetano
+2012,3619,Anagni,2012,Anyang,Pangani,Arinaga
+2013,3620,Pico,2013,Pisac,Portichol,Sichon
+2014,3621,Pastena,2014,Pristina,Palencia,Pavilosta
+2015,3622,Vallecorsa,2015,Vallter,Valletta,Valencia
+2016,3623,Castro dei Volsci,2016,Castejón de Sos,Castropol,
+2017,3624,Fumone,2017,,,
+2018,3625,Alatri,2018,Amdari,Alexandria,Bari
+2019,3626,Alvito,2019,Aveiro,Aitona,Albi
+2020,3627,Atina,2020,Aitona,Arinaga,Ansa
+2021,3628,Gaeta,2021,Gualta,Faetano,Valletta
+2022,3629,Cassino,2022,Caladino,Cailungo,Corianino
+2023,3630,Aquino,2023,Iquitos,Puno,
+2024,3631,Veroli,2024,Verul,Verona,Berlin
+2025,3632,Gualchos,2025,Maalhos,Nuévalos,Gallegos
+2026,3633,Buñol,2026,Bol,,
+2027,3634,Collepardo,2027,Cudillero,Toledo,Toledo
+2028,3635,Casamari,2028,Kamari,Tamarit,Cascais
+2029,3636,Almonaster la Real,2029,Monte la Reina,Castellar de la Ribera,
+2030,3637,Linares de la Sierra,2030,Zahara de la Sierra,Mirador de la Sierra,Sant Carles de la Ràpita
+2031,3638,Tampere,2031,Tampere,Tavertet,Tampa
+2032,3640,Pola de Somiedo,2032,Toluca de Lerdo,,
+2033,3641,Cannobio,2033,Canillo,Hanoi,
+2034,3642,Torgiano,2034,Corianino,Toro,Trancoso
+2035,3643,Los Antiguos,2035,Los Angeles,Los Cristianos,Los Pocitos
+2036,3644,Perito Moreno,2036,Perito Moreno Glacier,Puerto Montt,Puerto Madryn
+2037,3645,Queilen,2037,Quena,Quezon,Huedin
+2038,3646,Chantilly,2038,Canillo,Changi,Islantilla
+2039,3647,Reconquista,2039,Recoleta,,
+2040,3648,Valle de Lago,2040,Valle de la Luna,Valle de Banderas,Sallent de Gállego
+2041,3649,Torrestío,2041,Loreto,Forest,Tomares
+2042,3650,La Serena,2042,Las Terrenas,Serekunda,La Virgen
+2043,3651,Coquimbo,2043,Combarro,,
+2044,3652,Vicuña,2044,Vitacura,Vic,Viñales
+2045,3653,Pisco Elqui,2045,,,
+2046,3654,Orizaba,2046,Ourika,Oia,
+2047,3655,Fermoselle,2047,Eersel,Versailles,Farellones
+2048,3656,Port Arthur,2048,Fort Worth,Puerto Aventura,
+2049,3657,Frutillar,2049,Frutillar,Frutillar Bajo,Villar
+2050,3658,Iquique,2050,Iquique,Pirque,
+2051,3659,Copiapó,2051,Copiapó,,
+2052,3660,Coyhaique,2052,Coyhaique,,
+2053,3661,Fregenal de la Sierra,2053,Mirador de la Sierra,Zahara de la Sierra,Castellar de la Ribera
+2054,3662,Zafra,2054,Zarqa,Zarauz,Nara
+2055,3663,Listvyanka,2055,,,
+2056,3664,Olkhon Island,2056,Olkhon Island,Saona Island,Bowen Island
+2057,3665,Nidri,2057,Nairobi,Ngari,Nadur
+2058,3666,Kampala,2058,Kampyli,Chapala,Tampa
+2059,3667,Entebbe,2059,,,
+2060,3668,Porto Belo,2060,Porto Moniz,Porto,Puerto Viejo
+2061,3669,Bombinhas,2061,,,
+2062,3670,Governador Celso Ramos,2062,,,
+2063,3671,Antibes,2063,Anciles,Athens,
+2064,3672,Murga,2064,Murcia,Murata,Orga
+2065,3673,Miches,2065,Munich,Manchester,Motides
+2066,3674,Terras do Bouro,2066,Barra do Bugres,,
+2067,3675,Avellá,2067,Alcalá,,
+2068,3676,Castelsaraceno,2068,Castelsardo,Catarman,Castellar de n'Hug
+2069,3677,Colorado Springs,2069,Tarpon Springs,Palm Springs,
+2070,3678,Amalfi,2070,Amdari,Akumal,Albi
+2071,3679,Besanzón,2071,Busan,,
+2072,3680,Queralbs,2072,Queralbs,Quena,Grabs
+2073,3681,Novosibirsk,2073,Novosibirsk,,
+2074,3682,San Cebrián de Mudá,2074,,,
+2075,3683,Dorgali,2075,Doradal,Corgoloin,Dogana
+2076,3684,Geelong,2076,Gyeongju,Mae Klong,Nelson
+2077,3685,Lord Howe Island,2077,Lobos Island,Bowen Island,Bornholm Island
+2078,3686,Neustift im Stubaital,2078,,,
+2079,3687,Rebollar,2079,Rebollar,Recoleta,
+2080,3688,Newcastle,2080,Belcastel,Seattle,
+2081,3689,Folgosa,2081,Flores,,
+2082,3690,Alange,2082,Alicante,Malang,Llanes
+2083,3691,Cabezuela del Valle,2083,Cabezuela del Valle,Cuevas del Valle,Teotitlán del Valle
+2084,3692,Casas del Castañar,2084,Casbas de Huesca,Las Casas de Alcanar,Calatañazor
+2085,3693,S'Agaró,2085,S'Agaró,Agadir,
+2086,3694,Peratallada,2086,Puerto Vallarta,Nalladai,
+2087,3695,Fresno el Viejo,2087,,,
+2088,3696,San Pedro Tlaquepaque,2088,San Pedro Tlaquepaque,San Pedro de la Paz,
+2089,3697,Vinuesa,2089,Vinuesa,Vilnius,Gines
+2090,3698,Ucero,2090,,,
+2091,3699,Astún,2091,Astún,Aswan,
+2092,3700,Candanchú,2092,Carnac,Cancún,Can Blanc
+2093,3701,Canillo,2093,Canillo,Cagayancillo,Caniçal
+2094,3702,Encamp,2094,Encamp,Esna,Enna
+2095,3703,Ordino,2095,Ordino,Osorno,Orlando
+2096,3704,La Massana,2096,La Massana,La Manga,Las Cascadas
+2097,3705,Andorra la Vella,2097,Andorra la Vella,,
+2098,3706,San Julià de Loria,2098,Sant Julià de Lòria,Sant Feliu de Llobregat,Sant Boi de Llobregat
+2099,3707,El Romeral,2099,El Serrat,El Palmer,El Tor
+2100,3708,Ullastret,2100,Ullastret,Utrecht,Lastres
+2101,3709,Corcubión,2101,Covarrubias,,
+2102,3710,Île de Ré,2102,,,
+2103,3711,Analipsi,2103,Anapa,,
+2104,3712,Malia,2104,Malay,Manila,Malang
+2105,3713,Stalida,2105,Saldaña,Stari Bar,Savolinna
+2106,3714,Kokkini Hani,2106,,,
+2107,3715,Campo de Criptana,2107,Mar de Cristal,Cap de Barbaria,Cabo de Gata
+2108,3716,Gouves,2108,Gures,Grouville,Gordes
+2109,3718,Ammoudara,2109,Amdari,Almora,Amoudi Bay
+2110,3719,Durango,2110,Tauranga,Dunhuang,Lugano
+2111,3720,Chinchilla de Montearagón,2111,,,
+2112,3721,Posadas,2112,Potsdam,Pardiñas,Nosara
+2113,3722,Mo'orea,2113,Morella,Morelia,
+2114,3723,Fort-de-France,2114,Florence,,
+2115,3724,Herculano,2115,Orlando,,
+2116,3725,Saint-Laurent-des-Combes,2116,,,
+2117,3726,Astrakhan,2117,Astigarraga,,
+2118,3727,Escalona,2118,Escaladei,Esna,Pamplona
+2119,3728,Le Mans,2119,Leganés,La Manga,Manaus
+2120,3729,Quimper ,2120,,,
+2121,3730,Caen,2121,Cayena,Clarens,Cartagena
+2122,3731,Inishmore,2122,Canmore,,
+2123,3732,Inisheer,2123,,,
+2124,3733,Inishmaan,2124,Indiana,,
+2125,3734,Doolin,2125,Roslin,Dublin,Corgoloin
+2126,3735,Monforte de Lemos,2126,Montejo de Tiermes,,
+2127,3736,Kigali,2127,Kigomani,Kalami,Dingli
+2128,3737,La Guingueta d'Àneu,2128,La Gineta,,
+2129,3738,Ylläsjärvi,2129,,,
+2130,3739,Skógar,2130,Skardu,S'Agaró,
+2131,3740,San Vito Lo Capo,2131,San José del Cabo,San José de Maipo,
+2132,3741,Priego de Córdoba,2132,Picos de Europa,Santiago de Cuba,
+2133,3742,Hospitalet del Infante,2133,L'Hospitalet de Llobregat,Els Hostalets de Balenyà,
+2134,3743,Zonda,2134,Ronda,Zaandam,Condado
+2135,3744,Massa Lubrense,2135,,,
+2136,3745,Porto de Galinhas,2136,Porto de Galinhas,Port de Pollença,Puerto Galera
+2137,3746,João Pessoa,2137,,,
+2138,3747,Fernando de Noronha,2138,,,
+2139,3748,Jyväskylä,2139,Jyväskylä,,
+2140,3749,Laukaa,2140,Luarca,Lefkada,Lagunas
+2141,3750,Kuusa,2141,Kuta,Kula,Busan
+2142,3751,Fuente Dé,2142,,,
+2143,3752,Gournes,2143,Gures,Gordes,Girne
+2144,3753,Anissaras,2144,Sassafras,Ankara,Ansa
+2145,3754,Boltaña,2145,Boltaña,Bormla,Bol
+2146,3755,Karteros,2146,Varadero,Faros,Barro
+2147,3756,Syracuse,2147,Graus,,
+2148,3757,Ravello,2148,Piandivello,,
+2149,3758,San Carlos de la Rápita,2149,Sant Carles de la Ràpita,San Carlos de Bariloche,Santiago de la Ribera
+2150,3759,Enciso,2150,Anciles,,
+2151,3760,Arnedo,2151,Laredo,Agrelo,Orlando
+2152,3761,Quel,2152,Queralbs,Quena,Puelo
+2153,3762,Arnedillo,2153,Agrelo,Granadilla,Cercedilla
+2154,3763,Barnaul,2154,Bernal,Banjul,Banaue
+2155,3764,Yaroslavl,2155,,,
+2156,3765,Gustavia,2156,Gustavia,Gaira,
+2157,3766,Lampedusa,2157,,,
+2158,3767,Guápiles,2158,Gures,Gines,
+2159,3768,Sierra de los Padres,2159,Río de los Chilares,Ribera de Cardós,San Martin de los Andes
+2160,3769,Saariselkä,2160,,,
+2161,3770,Betanzos,2161,Faetano,Banyoles,Baros
+2162,3771,Ribadeo,2162,Ribe,Bilbao,Ribadelago Nuevo
+2163,3772,Cervera de Pisuerga,2163,,,
+2164,3773,Bermeo,2164,Bergamo,Berge,Bierge
+2165,3774,Arenas de San Pedro,2165,Arenas de San Pedro,Arenys de Mar,Vegas de San Esteban
+2166,3775,Tarazona,2166,Tarragona,Tauranga,Trapeza
+2167,3776,Solsona,2167,Bologna,Savolinna,Nelson
+2168,3777,Cardona,2168,Cardonal,Carnac,Camprodon
+2169,3778,Belmonte,2169,Belo Horizonte,Bargemon,
+2170,3779,Bocairente,2170,Bucharest,,
+2171,3780,Rute,2171,,,
+2172,3781,Moratalla,2172,Morella,Murata,Portlligat
+2173,3782,Osuna,2173,Ostuni,Esna,Misurina
+2174,3783,Cercedilla,2174,Cercedilla,Serradilla,Sircilla
+2175,3784,Alpedrete,2175,,,
+2176,3785,Dalaman,2176,Salamanca,Kalmane,Palma
+2177,3786,Windermere,2177,,,
+2178,3787,Fethiye,2178,Fet,,
+2179,3788,Dalyan,2179,Danyang,Malang,Kalkan
+2180,3789,Göcek,2180,,,
+2181,3790,Sarigerme,2181,Sagres,Sidemen,
+2182,3791,Sainte-Luce,2182,Saint-Eustache,,
+2183,3792,Les Trois Îlets,2183,,,
+2184,3793,Delphi,2184,Delphi,Delhi,New Delhi
+2185,3794,Vilasar de Dalt,2185,Vilanova de Sau,Vila Nova de Cacela,Villa de Valverde
+2186,3795,Cangas del Narcea,2186,Candelaria,Cangas de Onís,Wangen an der Aare
+2187,3796,Corias,2187,Soria,Coura,Comillas
+2188,3797,Torres del Paine,2188,Torres del Paine,Torre del Ram,Torrent de Cala Pi
+2189,3798,Saleres,2189,Saldes,Sagres,Skerries
+2190,3799,Tequisquiapan ,2190,,,
+2191,3800,La Vega,2191,La Vega,Las Vegas,Lagoa
+2192,3801,Comitán de Domínguez,2192,Comitán de Domínguez,,
+2193,3802,Viseu,2193,Vis,Verul,Lisse
+2194,3803,Chantada,2194,Santana,Ratsada,Granada
+2195,3804,Escaladei,2195,Escaladei,Les Escaldes,
+2196,3805,Krasnoyarsk ,2196,,,
+2197,3806,Veliki Nóvgorod,2197,,,
+2198,3807,'s-Hertogenbosch,2198,,,
+2199,3808,Acqui Terme,2199,,,
+2200,3809,Isla Reunión,2200,Asunción,,
+2201,3810,Villa Rica,2201,Villaricos,Villar,
+2202,3811,Guijo de Granadilla,2202,Granadilla,,
+2203,3812,Trévelez,2203,Trevelin,,
+2204,3813,Wengen ,2204,Seengen,Bergen,
+2205,3814,Grindelwald ,2205,Grindelwald,Trinidad,
+2206,3815,Santo Domingo de Silos,2206,Santo Domingo de Silos,Santo Domingo,Santiago de Surco
+2207,3816,Les Diablerets,2207,Las Galeras,Ses Bardetes,Les Clefs
+2208,3817,Providence,2208,Providencia,Providencia Island,Aix-en-Provence
+2209,3818,Sesquilé,2209,Sesué,Seoul,
+2210,3819,Trouville-sur-Mer,2210,Grouville,,
+2211,3820,Valoria la Buena,2211,Valle de la Luna,,
+2212,3821,Trinidad,2212,Trinidad,Turaida,Trinity
+2213,3822,Fonni,2213,Forțeni,Fontana,Bonnieux
+2214,3823,Noto ,2214,Porto,Noord,Kyoto
+2215,3824,Cesarò,2215,Cres,,
+2216,3825,Avola,2216,Paola,Kolka,Evora
+2217,3826,Trecastagni,2217,Terrasini,,
+2218,3827,Ribera,2218,Ribe,Ribeirinha,Sa Riera
+2219,3828,Ferla,2219,Ftericha,Fellbach,Verul
+2220,3829,Fusagasugá,2220,,,
+2221,3830,Jardín,2221,Jamundí,Jaén,Jaun
+2222,3831,Mompox,2222,Mompox,Mokpo,Somo
+2223,3832,Bolotana,2223,Boltaña,Bologna,Fontana
+2224,3833,Villacidro,2224,Villar,Villaricos,Valladolid
+2225,3834,Partinico,2225,Portichol,Princetown,
+2226,3835,Reggio Calabria,2226,Poggio Casalino,,
+2227,3836,Caltanissetta,2227,Catania,,
+2228,3837,Palazzolo Acreide,2228,,,
+2229,3838,Mamoiada,2229,Msida,,
+2230,3839,Bova,2230,Bosa,Budva,Borșa
+2231,3840,Gambarie,2231,Kamari,Cambridge,Tamarit
+2232,3841,Pentedattilo,2232,Pimentel,,
+2233,3842,Palmi,2233,Palma,Palomino,Pal
+2234,3843,Nicolosi,2234,Milos,San Nicolaas,
+2235,3844,Racalmuto,2235,,,
+2236,3845,Almadén,2236,Amman,Almora,
+2237,3846,Bern,2237,Bern,Bernal,Berlin
+2238,3847,Belek,2238,Melk,Baalbek,Belgrade
+2239,3848,Kemer,2239,,,
+2240,3849,Lalibela ,2240,Calella,,
+2241,3850,Leiria,2241,Leticia,Ligia,Lleida
+2242,3851,Putre ,2242,Puteaux,,
+2243,3852,Antofagasta ,2243,Antofagasta,,
+2244,3853,Reñaca ,2244,,,
+2245,3854,Concón ,2245,Donón,Cancún,
+2246,3855,Potrerillos ,2246,Zorritos,Fornells,
+2247,3856,Órgiva,2247,Orga,,
+2248,3857,Palma del Río,2248,Castellar del Riu,,
+2249,3858,Ribera del Fresno,2249,Ribes de Freser,Ribera de Cardós,
+2250,3859,Valença,2250,Valencia,Vale,Volendam
+2251,3860,Oświęcim,2251,,,
+2252,3861,Yepes,2252,Lepe,Yeghegis,Yeosu
+2253,3862,Albelda de Iregua,2253,,,
+2254,3863,Ribeira Grande,2254,Ribeira da Janela,Quinta Grande,Ribera de Cardós
+2255,3864,Pesués ,2255,Sesué,,
+2256,3865,Vega de Pas,2256,Venta de Baños,Venta de Urbasa,Vegas de San Esteban
+2257,3866,El Toboso,2257,El Torno,El Tor,El Paso
+2258,3867,Medina de Rioseco,2258,,,
+2259,3868,Vila Viçosa,2259,Villaricos,,
+2260,3869,Barbastro,2260,Barbastro,Barro,Bristol
+2261,3870,Asque,2261,Benasque,,
+2262,3871,Ágios Nikolaos,2262,Agios Ermolaos,Agios Epiktitos,Los Llaos
+2263,3872,Futaleufú,2263,Futaleufú,,
+2264,3873,Arica,2264,Arica,Arinaga,Agra
+2265,3874,Sabbioneta,2265,Savaneta,La Gineta,Sintra
+2266,3875,Aci Castello,2266,El Castillo,Castellet,Castel
+2267,3876,Soto de Cangas,2267,Porto de Galinhas,Salto de Agua,Hoyo de Manzanares
+2268,3877,Da Lat,2268,Dana,,
+2269,3878,Lousã,2269,Lagos,,
+2270,3879,Cantanhede,2270,Santander,,
+2271,3880,Luso,2271,Luxor,Guaso,Cusco
+2272,3881,Anadia,2272,Anapa,Ankara,Agadir
+2273,3882,Miranda do Corvo,2273,Mairena del Alcor,,
+2274,3883,Figueira da Foz,2274,Figueira da Foz,,
+2275,3884,Ocenilla ,2275,Cercedilla,Melilla,
+2276,3885,Myra,2276,Manyara,Maras,Mérida
+2277,3886,Aguascalientes ,2277,Aguascalientes,Aguas Calientes,
+2278,3887,Ostia Antica,2278,,,
+2279,3888,Arganil,2279,Artagnan,Marganell,Manila
+2280,3889,Kostroma,2280,Kolomyya,Mosta,Kyoto
+2281,3890,Carcastillo,2281,El Castillo,Canillo,Carcassonne
+2282,3891,Munnar,2282,Munxar,Mount Etna,Menznau
+2283,3892,San Bartolo,2283,Manarola,Santa Coloma,Stari Bar
+2284,3893,Ras al-Khaimah,2284,Ras al-Jaima,,
+2285,3894,Bardolino,2285,Bandoli,Ordino,Berlin
+2286,3895,Mascota,2286,Masca,Mosta,Masua
+2287,3896,Cauterets,2287,Castellet,Lastres,Cáceres
+2288,3897,Arroyo ,2288,Algarrobo,Airolo,Arroyo Agua Azul
+2289,3898,Kiruna,2289,Kiruna,Kaunas,Girona
+2290,3899,Ezquioga ,2290,,,
+2291,3900,Vila Real de Santo António,2291,Vila Real de Santo António,Villarreal de San Carlos,
+2292,3901,Silvia ,2292,Sliema,,
+2293,3902,Manado,2293,Manadhoo,Mandhoo,Manarola
+2294,3903,Nuoro,2294,Toro,Porto,Noord
+2295,3904,Favara,2295,Havana,Panagra,Manyara
+2296,3905,San Giovanni Suergiu,2296,,,
+2297,3906,Birmingham,2297,Ribeirinha,,
+2298,3907,Almonte,2298,Amarante,Alicante,Almora
+2299,3908,Albacete,2299,Agaete,Cabarete,Alicante
+2300,3909,Matalascañas,2300,Matamata,,
+2301,3910,Valdivia,2301,Valdivia,Vardzia,Vasileia
+2302,3911,Porto Santo Stefano,2302,Porto Santo Stefano,,
+2303,3912,Salaverry,2303,San Javier,,
+2304,3913,Nukus,2304,,,
+2305,3914,Bahía Solano,2305,,,
+2306,3915,Saint Andrews,2306,St. Andrew,San Andrés,Sant'Andrea
+2307,3916,Volterra,2307,Vallter,Montserrat,Montserrat
+2308,3917,Montalcino,2308,Montegiardino,Montréal,Mont-ral
+2309,3918,Arezzo,2309,Agrelo,,
+2310,3919,San Quirico d’Orcia,2310,,,
+2311,3920,Karlsruhe ,2311,,,
+2312,3921,Peulla ,2312,Puebla,,
+2313,3922,Rouen ,2313,Rome,,
+2314,3923,Ait Ben Haddou,2314,,,
+2315,3924,Fusina,2315,Finya,Fustat,Fujinomiya
+2316,3925,Comodoro Rivadavia,2316,,,
+2317,3926,Poggiorsini,2317,Poggio Casalino,Podgorica,
+2318,3927,Mucientes,2318,Aguascalientes,Meknes,Lucerne
+2319,3928,Medulin ,2319,Medellín,Mdina,Dedin
+2320,3929,Nerano ,2320,,,
+2321,3930,Calasparra ,2321,Galapagar,,
+2322,3931,Penafiel,2322,Pimentel,,
+2323,3932,Villanueva del Arzobispo,2323,,,
+2324,3933,Collado Mediano,2324,Caladino,,
+2325,3934,Bemposta,2325,Amposta,Templos,Bosa
+2326,3935,Felgueiras ,2326,Figueres,Fgura,Figueira da Foz
+2327,3936,Reinosa,2327,Reinach,Reims,Rennes
+2328,3937,Borba,2328,Borșa,Bukoba,Bormla
+2329,3938,Estremoz,2329,,,
+2330,3939,Valencia de Alcántara,2330,Mairena del Aljarafe,Mairena del Alcor,
+2331,3940,Covilhã,2331,,,
+2332,3941,Flores Island,2332,Fraser Island,Lobos Island,Bowen Island
+2333,3942,Pirque,2333,Pirque,Prague,Porqueres
+2334,3943,Almusafes  ,2334,,,
+2335,3944,San Salvador de Alesga,2335,Salto de Agua,Santa Maria de Besora,Sant Boi de Llobregat
+2336,3945,Colunga,2336,Colunga,Coura,Cailungo
+2337,3946,Corvo Island,2337,Lobos Island,Bornholm Island,Big Corn Island
+2338,3947,Isla de Arosa,2338,Isla Mujeres,Isla Cristina,
+2339,3948,El Saler,2339,El Palmer,El Salto,El Tarter
+2340,3949,Alcaraz,2340,Amlapura,Al Karak,Aarau
+2341,3950,San Agustín,2341,San Agustín,San Luis,
+2342,3951,Stechelberg,2342,Heidelberg,Feldberg,
+2343,3952,Chiusdino,2343,Chiesanuova,,
+2344,3953,Ilhabela,2344,Ilhabela,Marbella,Alajuela
+2345,3954,Cabra Corral,2345,La Conreria,Cala Morell,Cardonal
+2346,3955,San Lorenzo,2346,San Lawrenz,San Lorenzo Albarradas,San Alfonso
+2347,3956,Argüeso,2347,Agüimes,Bruges,Agrelo
+2348,3957,Augsburgo,2348,,,
+2349,3958,Sal Rei,2349,Sa Riera,Saldes,Salcea
+2350,3959,Vidago,2350,Valdragone,Chicago,
+2351,3960,Llerena,2351,Las Terrenas,Serekunda,Verona
+2352,3961,Stonglandseidet ,2352,,,
+2353,3962,Oeiras,2353,Odemira,Perast,Oia
+2354,3963,Montreux,2354,Montreux,Montezuma,Montseny
+2355,3964,Chamonix-Mont-Blanc,2355,,,
+2356,3965,San Ramón,2356,San Raymundo,Sangamner,San Ġwann
+2357,3966,Pasto,2357,Perast,Pals,La Pastora
+2358,3967,Villavicencio,2358,Villaricos,,
+2359,3968,Popayán,2359,Popoyo,,
+2360,3969,Riópar,2360,,,
+2361,3970,Mula,2361,Kula,Milan,Malay
+2362,3971,Basel,2362,Basel,Bassella,Castel
+2363,3972,Tampico ,2363,Tampa,Hampi,
+2364,3973,Baltimore,2364,Canmore,,
+2365,3974,Murillo,2365,Trujillo,Milos,Urquillos
+2366,3975,El Palmar,2366,El Palmer,Palma,El Pangal
+2367,3976,Arouca,2367,Arona,Arica,Arusha
+2368,3977,Norfolk,2368,,,
+2369,3978,Atananarivo,2369,Artagnan,,
+2370,3979,Bullas,2370,Dallas,Blanes,Bellapais
+2371,3980,Pozo Alcón,2371,,,
+2372,3981,Castril,2372,Castel,Castropol,El Castillo
+2373,3982,Anna,2373,Enna,Ansa,Aínsa
+2374,3983,Manzanares el Real,2374,Hontanares de Eresma,,
+2375,3984,La Palma del Condado,2375,Las Palmas de Gran Canaria,,
+2376,3985,Fuencaliente,2376,Aguascalientes,Fuensanta,Funchal
+2377,3986,Almodóvar del Campo,2377,,,
+2378,3987,Minas del Horcajo,2378,Mairena del Alcor,Bocas del Toro,
+2379,3988,Pedreña ,2379,Pedrera,Pedreira,Pereira
+2380,3989,Leidschendam,2380,,,
+2381,3990,Klosterneuburg,2381,Klosterneuburg,Gothenburg,
+2382,3991,Concepción,2382,,,
+2383,3992,Duala,2383,Gualta,Dallas,Qala
+2384,3993,Guadarrama,2384,Gurugram,Guadalajara,Guardalavaca
+2385,3994,Miraflores de la Sierra,2385,Mirador de la Sierra,Zahara de la Sierra,Palos de la Frontera
+2386,3995,Soto del Real,2386,Santiago de la Ribera,Torre del Ram,Salto de Agua
+2387,3996,Piedralaves,2387,Piedralaves,Peroulades,
+2388,3997,Torregamones ,2388,Toñanes,,
+2389,3998,Ciénaga,2389,Arinaga,Cangas,
+2390,3999,Otavalo ,2390,Otavalo,,
+2391,4000,Cartaxo,2391,Carlton,Cartagena,Cartagena
+2392,4001,El Peñón,2392,El Peñol,El Retén,
+2393,4002,Galera,2393,Gaira,Las Galeras,Salcea
+2394,4003,Ortiguero,2394,,,
+2395,4004,La Herradura,2395,Playa Herradura,La Adrada,Paradera
+2396,4005,Eskifjörður,2396,Seyðisfjörður,,
+2397,4006,Breiðdalsvík,2397,,,
+2398,4007,Seyðisfjörður,2398,Seyðisfjörður,,
+2399,4008,Djúpivogur,2399,,,
+2400,4009,Mindelo,2400,Piandivello,Milos,
+2401,4010,Morondava,2401,,,
+2402,4011,Övertorneå,2402,,,
+2403,4012,Tórshavn,2403,,,
+2404,4013,Trøllanes,2404,Llanes,Blanes,Farellones
+2405,4014,Sørvágur,2405,,,
+2406,4015,Fuentidueña,2406,Fuentidueña de Tajo,,
+2407,4016,San Miguel de Bernuy,2407,Sant Miquel de Balenyà,San Miguel de Allende,San Miguel
+2408,4017,Almaraz ,2408,Almora,Amlapura,Amarante
+2409,4018,Magdalena de Kino,2409,,,
+2410,4019,Castilléjar,2410,El Castillo,Castelsardo,Valdastillas
+2411,4020,Ciudad Obregón,2411,Ciudad Juarez,,
+2412,4021,Varmahlíð,2412,,,
+2413,4022,Santa Domenica di Ricadi,2413,Santa Monica,,
+2414,4023,Nicotera,2414,Nice,Victoria,Victoria
+2415,4024,Vevey ,2415,Vevey,,
+2416,4025,Malang,2416,Malang,Milan,Malay
+2417,4026,Palau,2417,Paola,Palma,Pal
+2418,4027,Oruro,2418,Barro,,
+2419,4028,Lisdoonvarna,2419,Kinvara,,
+2420,4029,Leenaun,2420,Lesignano,Lembongan,Leshan
+2421,4030,El Palmar Valencia,2421,Valencia,Palencia,El Palmar de Vejer
+2422,4031,Asti ,2422,Astún,,
+2423,4032,Sciacca ,2423,,,
+2424,4033,Torrox,2424,Toro,Tourlos,Toronto
+2425,4034,Puerto Bertrand,2425,Puerto Aventura,Puerto Galera,Puerto Varas
+2426,4035,Puerto Tranquilo,2426,Puerto Río Tranquilo,Puerto San José,Puerto Viejo
+2427,4036,Desenzano del Garda,2427,,,
+2428,4037,Fribourg,2428,Fribourg,,
+2429,4038,Oxapampa,2429,Tampa,,
+2430,4039,Cabra,2430,Canberra,Carnac,Camber
+2431,4040,Monticelli Brusati,2431,Monte Cristi,Monticello,Montpellier
+2432,4041,Punta Sal,2432,Punta Cana,Punta Ballena,Punta Prieta
+2433,4042,Saint-Remèze,2433,,,
+2434,4043,Monçao ,2434,Monsanto,,
+2435,4044,Salvatierra de Miño,2435,,,
+2436,4045,Argelès-sur-Mer,2436,Auvers-sur-Oise,,
+2437,4046,Alcántara ,2437,Ankara,,
+2438,4047,Edzná,2438,,,
+2439,4048,Ek Balam,2439,,,
+2440,4049,Toluca ,2440,Toluca de Lerdo,,
+2441,4050,Kantemó,2441,,,
+2442,4051,Thuir,2442,Thun,Traquair,Tigre
+2443,4052,Cases-de-Pène,2443,,,
+2444,4053,Tekal de Venegas,2444,Valle de Banderas,,
+2445,4054,Limone sul Garda,2445,,,
+2446,4055,Frontera ,2446,Montserrat,Montserrat,Fontana
+2447,4056,Fauske,2447,Feakes,Fafe,
+2448,4057,Éfeso,2448,,,
+2449,4058,La Guardia,2449,Las Galeras,La Savina,La Gineta
+2450,4059,Chile Chico,2450,Chile Chico,,
+2451,4060,Puerto Williams,2451,Puerto Williams,Puerto Villamil,Puerto Varas
+2452,4061,Mallín Grande,2452,Vargem Grande,Quinta Grande,Marine Parade
+2453,4062,Porvoo,2453,Provo,Porto,Popoyo
+2454,4063,Vestman Islands,2454,Pemba Island,Similan Islands,Batanes Islands
+2455,4064,Vera ,2455,Versam,Verona,Verul
+2456,4065,Gaucín,2456,Jaun,,
+2457,4066,Yazd ,2457,Yaiza,,
+2458,4067,Tabriz,2458,Thab Prik,Tarifa,Tarxien
+2459,4068,La Rivière,2459,La Virgen,,
+2460,4069,Sassenage,2460,Senglea,Seengen,
+2461,4070,Saint-Gervais,2461,Sintra,,
+2462,4071,Poros,2462,Porto,Tourlos,Toro
+2463,4072,Rascafría,2463,Sassafras,Ratsada,
+2464,4073,Garda,2464,Gaira,Garraf,Vardzia
+2465,4074,Malcesine,2465,Manchester,Mae Win,Maple Ridge
+2466,4075,Brenzone,2466,Brienz,Brno,Bargemon
+2467,4076,Torbole,2467,Toro,Moroleón,Toledo
+2468,4077,Riva del Garda,2468,Viña del Mar,Ribera de Cardós,Vila Nova de Gaia
+2469,4078,Lazise,2469,Lisse,Lastres,
+2470,4079,Peschiera del Garda,2470,Ribera de Cardós,,
+2471,4080,Chetumal ,2471,Chetumal,,
+2472,4081,San Gerardo de Dota,2472,San Pedro de la Paz,Santa Maria de Besora,
+2473,4082,Providencia de Dota,2473,Providencia,Providencia Island,
+2474,4083,Bribrí,2474,Bari,,
+2475,4084,San Marcos de Tarrazú,2475,San Pedro de la Paz,San Carlos de Bariloche,Santa Maria de Besora
+2476,4085,Guácimo,2476,,,
+2477,4086,Santa Rosa de Pocosol,2477,Santiago de Compostela,Santiago de Surco,Santa Maria de Besora
+2478,4087,Uranópolis,2478,,,
+2479,4088,Santa Bárbara,2479,Sant Ferran,Santa Venera,Stari Bar
+2480,4089,Bodrum,2480,Bormla,Boom,
+2481,4090,Sami,2481,Miami,Karmi,Hampi
+2482,4091,Punta Hermosa,2482,Punta Hermosa,Punta Prieta,Punta Arenas
+2483,4092,Punta Negra,2483,Punta Hermosa,Punta Prieta,Punta Arenas
+2484,4093,Alanya,2484,Anyang,Ajanta,Alexandria
+2485,4094,Purullena,2485,Pollença,Punta Ballena,Pupukea
+2486,4095,Salt Lake City,2486,Salt Lake City,Vatican City,Lake Tekapo City
+2487,4096,Quiroga ,2487,Quito,,
+2488,4097,Honda,2488,Ronda,Condado,Volendam
+2489,4098,Mariquita,2489,Marousi,,
+2490,4099,Armero,2490,Aveiro,Agrelo,
+2491,4100,Fresno,2491,Forest,Flores,Fiorentino
+2492,4101,Charleston ,2492,Charleston,Carlton,Chalong
+2493,4102,Carrapateira,2493,Karpaseia,Paraparaumu,Charkeia
+2494,4103,Collioure ,2494,,,
+2495,4104,Cobija,2495,Córdoba,Córdoba,Copiapó
+2496,4105,Líbano ,2496,Lugano,,
+2497,4106,Aldán ,2497,,,
+2498,4107,Los Hinojosos,2498,,,
+2499,4108,Guernica,2499,Cuenca,Ftericha,Quena
+2500,4109,Santa Cruz,2500,Santa Cruz,Santa Cruz Uno,Santa Pau
+2501,4110,Cauquenes,2501,Lauenen,Clarens,Calldetenes
+2502,4111,Cocorná,2502,Hoorn,Coron,
+2503,4112,San Francisco de Macorís,2503,San Francisco,Sant Francesc de s'Estany,Sant Fruitós de Bages
+2504,4113,Binibeca,2504,Binibeca,Biescas,
+2505,4114,Cala en Bosch,2505,Cala en Porter,Caleta d'en Gorries,Clarens
+2506,4115,Cala en Porter,2506,Cala en Porter,Caleta d'en Gorries,Cala Morell
+2507,4116,Cala Galdana,2507,Cala Galdana,Cala Llonga,Caleta Gonzalo
+2508,4117,Cala Torret,2508,Cala Morell,Cala en Porter,Cabarete
+2509,4118,Ciudadela,2509,Ciutadella,Ciudad Perdida,Ciudad Juarez
+2510,4119,Es Grau,2510,Graus,,
+2511,4120,Es Mercadal,2511,Es Mercadal,Ensenada,
+2512,4121,Ferrerías,2512,Ferreries,Pereira,Pedrera
+2513,4122,Fornells,2513,Fornells,Monells,Forest
+2514,4123,Mahón,2514,Maó,Mazagón,Mahinog
+2515,4124,Port Addaia,2515,Porto de Galinhas,Portinatx,
+2516,4125,Alenquer,2516,Palenque,Aljezur,Benasque
+2517,4126,Villablino,2517,Villaricos,Vilaflor,Villar
+2518,4127,Agrigento,2518,Agrelo,,
+2519,4128,Panama City Beach,2519,Panama City,Miami Beach,
+2520,4129,El Rosal,2520,El Salto,El Peñol,El Colls
+2521,4130,Arganza,2521,Artagnan,Arona,Dogana
+2522,4131,Alfaro,2522,Algarrobo,,
+2523,4132,Sardón de Duero,2523,Santiago de Surco,Carcedo de Burgos,Santiago de Querétaro
+2524,4133,Huete ,2524,Hue,,
+2525,4134,Gorafe ,2525,Gormaz,Gordes,Garraf
+2526,4135,Bayárcal,2526,Bacalar,Barva,
+2527,4136,Puerto López,2527,Puerto Viejo,Puerto Iguazú,Puerto Galera
+2528,4137,Mutigny,2528,Maincy,,
+2529,4138,Alcantarilla,2529,Islantilla,Altafulla,Granadilla
+2530,4139,Silves,2530,Sitges,Saldes,Sabile
+2531,4140,San Ġwann,2531,San Ġwann,Sian Ka'an,Siangan
+2532,4141,Lago Ranco,2532,Lagoa,La Romana,La Franca
+2533,4142,Castellammare del Golfo,2533,Castellammare del Golfo,Castellar del Riu,Castellar de n'Hug
+2534,4143,Galarza,2534,Kalkara,Gallarus,Gaira
+2535,4144,Limerick,2535,Liberec,,
+2536,4145,Ennis,2536,Enna,,
+2537,4146,Grundarfjörður,2537,,,
+2538,4148,Bunratty,2538,,,
+2539,4149,Exaltación de la Cruz,2539,Puerto de la Cruz,Balcón del Mar,
+2540,4150,Mandelieu-la-Napoule,2540,,,
+2541,4151,Cala Codolar,2541,Paul do Mar,Cala Morell,Cala Llonga
+2542,4152,Puerto Sánchez,2542,Puerto Princesa,Puerto Cisnes,Puerto San José
+2543,4153,Figueretas,2543,Figueres,Fgura,Singakerta
+2544,4154,Santa Eulalia del Río,2544,Santa Maria de Besora,Sant Feliu de Guíxols,Sant Julià de Lòria
+2545,4155,Hólmavík,2545,Húsavík,,
+2546,4156,San José de Sa Talaia,2546,San José de Maipo,San José del Cabo,Sant Jordi de ses Salines
+2547,4157,Ólafsvík,2547,,,
+2548,4158,Invergordon,2548,,,
+2549,4159,Portinatx,2549,Portinatx,Portlligat,Pristina
+2550,4160,Cala Conta,2550,Cala Llonga,Cala Montjoi,Cala Santandria
+2551,4161,Cala Bassa,2551,Cala Galdana,Coral Bay,La Massana
+2552,4162,San Antonio Abad,2552,Sant Antoni de Calonge,San Lorenzo Albarradas,Sant Antoni de Portmany
+2553,4163,San Jorge de ses Salines,2553,Sant Jordi de ses Salines,,
+2554,4164,Playa d'en Bossa,2554,Playa de Bolonia,,
+2555,4165,Ibiza Town,2555,Ibiza,Cape Town,
+2556,4166,San Lorenzo de Balàfia,2556,San Lorenzo de El Escorial,Sant Llorenç de Montgai,San Lorenzo Albarradas
+2557,4167,Alcudia,2557,Alcúdia,Ancud,Alcalá
+2558,4168,Colonia de San Jorge,2558,Horta de Sant Joan,,
+2559,4169,Sóller,2559,Sóller,Vallter,Seville
+2560,4170,Port d'Andratx,2560,Portinatx,,
+2561,4171,Cala Figuera,2561,Cala Agulla,Cala Llonga,Cala Gració
+2562,4172,El Arenal,2562,El Pangal,,
+2563,4173,Magaluf,2563,Marganell,Málaga,Manaus
+2564,4174,Santa Ponsa,2564,Santa Ponsa,Santa Pau,Santa Monica
+2565,4175,Peguera,2565,Pereira,Pedrera,Pedreira
+2566,4176,Mancor del Valle,2566,Santa Cruz del Valle,Cuevas del Valle,Mollet del Vallès
+2567,4177,Cala Millor,2567,Cala Morell,Canillo,Cala Llonga
+2568,4178,Cala Mayor,2568,Cala Morell,Calatañazor,Cala Montjoi
+2569,4179,Valldemossa,2569,Valletta,Gallegos,
+2570,4180,Cilaos,2570,Milos,Comillas,Bilbao
+2571,4181,San Agustín,2571,San Agustín,San Luis,
+2572,4182,La Possession,2572,,,
+2573,4183,Campanet,2573,Kalmane,Zakopane,Savaneta
+2574,4184,Costa d'en Blanes,2574,Costa Adeje,Can Blanc,Caleta d'en Gorries
+2575,4185,Saint-Benoît,2575,,,
+2576,4186,Sainte-Rose,2576,Sant Josep,Saint-Eustache,
+2577,4187,Costitx,2577,Portinatx,,
+2578,4188,Gullfoss,2578,Gallegos,,
+2579,4189,Manacor,2579,Manapouri,Manyara,Manarola
+2580,4190,La Graciosa,2580,La Franca,Baracoa,Las Galeras
+2581,4191,Riccione,2581,Sirmione,Richmond,
+2582,4192,Ceriale,2582,Crociale,Cerler,Berriedale
+2583,4193,Clifden,2583,Clyde,,
+2584,4194,Lluchmayor,2584,,,
+2585,4195,Westport,2585,West Point,Espot,West Jakarta
+2586,4196,Penha,2586,Pollença,Palencia,Isenthal
+2587,4197,Blumenau,2587,Benasque,Quena,
+2588,4198,Joinville,2588,Yountville,Grouville,Seville
+2589,4199,Los Angeles,2589,Los Angeles,Anglesea,Los Llaos
+2590,4200,Placilla,2590,Melilla,Islantilla,Sircilla
+2591,4201,Tausa,2591,Naousa,Taba,Traquair
+2592,4202,Chocontá,2592,Chocohuital,Coron,Chichén Itzá
+2593,4203,Zipaquirá,2593,,,
+2594,4204,Salto del Laja,2594,Salto de Agua,Cabo de Gata,Valle de la Luna
+2595,4205,Pomerode,2595,Peroulades,Pembroke,Porto
+2596,4206,Vers-Pont-du-Gard,2596,Vers-Pont-du-Gard,,
+2597,4207,Hyères ,2597,Hyères,Gruyères,
+2598,4208,Sliema,2598,Sliema,Siena,Sigean
+2599,4209,San Pawl il-Baħar,2599,Saint Paul's Bay,,
+2600,4210,Qawra,2600,Qala,Nara,Zarqa
+2601,4211,San Julián,2601,Saint Julian's,San Luis,San Javier
+2602,4212,Gżira,2602,Gżira,Gaira,Girona
+2603,4213,La Valeta,2603,La Goleta,La Vega,Valletta
+2604,4214,Ċirkewwa,2604,,,
+2605,4215,Ta' Xbiex,2605,Ta' Xbiex,,
+2606,4216,Boca Ratón,2606,,,
+2607,4217,Sancellas,2607,San Nicolaas,Salcea,Dallas
+2608,4218,Playa del Carmen,2608,Playa del Carmen,Playa Blanca,Playa de Bolonia
+2609,4219,Puerto Morelos,2609,Puerto Viejo,Puerto Varas,Puerto Montt
+2610,4220,Puerto Aventuras,2610,Puerto Aventura,Puerto Varas,Puerto Ayora
+2611,4221,Akumal,2611,Akumal,Tumbalá,
+2612,4222,Tulum,2612,Tulum,Tumbu,
+2613,4223,Alnwick,2613,,,
+2614,4224,Rosarito,2614,Rosarito,Zorritos,Positano
+2615,4225,Curicó,2615,,,
+2616,4226,Molina,2616,La Molina,Morelia,Mdina
+2617,4227,Costa Adeje,2617,Costa Adeje,Costa Azul,Adeje
+2618,4228,Puerto de la Cruz,2618,Puerto de la Cruz,Porto da Cruz,San Pedro de la Paz
+2619,4229,Las Cañadas del Teide ,2619,Las Cañadas del Teide,Los Caños de Meca,Santiago del Teide
+2620,4230,Los Cristianos,2620,Los Cristianos,Los Cabos,Isla Cristina
+2621,4231,San Cristóbal de La Laguna,2621,San Cristóbal de las Casas,San Juan La Laguna,San Cristóbal
+2622,4232,Buenavista del Norte,2622,Buenavista del Norte,,
+2623,4233,Playa de San Juan,2623,Horta de Sant Joan,Playa del Carmen,Playa de Bolonia
+2624,4234,San Miguel de Abona,2624,San Miguel de Allende,San Miguel,Sant Miquel de Balenyà
+2625,4235,Garachico,2625,Garachico,Machico,San Francisco
+2626,4236,Icod de los Vinos,2626,Icod de los Vinos,Río de los Chilares,
+2627,4237,La Orotava,2627,La Orotava,La Oliva,La Mar Blava
+2628,4238,El Sauzal,2628,El Salto,El Pangal,
+2629,4239,San Andrés,2629,San Andrés,Sant'Andrea,San Alfonso
+2630,4240,Santa Cruz de Tenerife,2630,Santa Cruz de Tenerife,Santa Cruz del Valle,Santa Cruz Uno
+2631,4241,Radazul,2631,,,
+2632,4242,Candelaria,2632,Candelaria,Claveria,Canberra
+2633,4243,Güímar,2633,,,
+2634,4244,Punta de Abona,2634,Punta de Mita,Punta Arenas,Punta Hermosa
+2635,4245,Los Abrigos,2635,Los Cabos,Los Cristianos,Los Pocitos
+2636,4246,Las Galletas,2636,Las Galeras,La Goleta,Las Vegas
+2637,4247,Playa de las Américas,2637,Playa de las Américas,Playa de Bolonia,Playa Blanca
+2638,4248,La Caleta,2638,La Goleta,Las Galeras,La Tejita
+2639,4249,Adeje,2639,Adeje,Costa Adeje,Geoje
+2640,4250,Santiago del Teide,2640,Santiago del Teide,Santiago de la Ribera,Santiago de Cuba
+2641,4251,El Tanque,2641,El Tarter,Llanquihue,
+2642,4252,Hossegor,2642,Fossbergom,Hoorn,
+2643,4253,Arona,2643,Arona,Verona,Girona
+2644,4254,Sonoma ,2644,Sotomayor,,
+2645,4255,Indianapolis ,2645,Indiana,,
+2646,4256,Vitznau,2646,Vitacura,Vienna,Aitona
+2647,4257,Támara de Campos,2647,,,
+2648,4258,San Pedro de Alcántara,2648,San Pedro de la Paz,San Pedro Tlaquepaque,Sant Pere Pescador
+2649,4259,Costa Mujeres,2649,Isla Mujeres,Costa Adeje,Costa Azul
+2650,4260,Banjul ,2650,Banjul,Chajul,Bangli
+2651,4261,El Médano,2651,El Paso,El Paso,El Nido
+2652,4262,Los Gigantes,2652,Los Cristianos,Acantilados de Los Gigantes,Los Pocitos
+2653,4263,Baltimore,2653,Canmore,,
+2654,4264,Iglesias ,2654,,,
+2655,4265,Carbonia,2655,Cardonal,Carnac,Catania
+2656,4266,Agaete,2656,Agaete,Aguascalientes,Agra
+2657,4267,Las Palmas de Gran Canaria,2657,Las Palmas de Gran Canaria,Las Casas de Alcanar,
+2658,4268,Santa Brigida,2658,Santa Venera,Santa Monica,Santa Luċija
+2659,4269,Tejeda,2659,Tejeda,,
+2660,4270,Agüimes,2660,Agüimes,,
+2661,4271,Maspalomas,2661,Maspalomas,Maalhos,Musoma
+2662,4272,Mogán,2662,Mogán,Mosen,
+2663,4273,Puerto Rico,2663,Puerto Viejo,Puerto Montt,Puerto Ayora
+2664,4274,Arguineguin,2664,Agung Mount,,
+2665,4275,San Bartolomé de Tirajana,2665,,,
+2666,4276,Veneguera,2666,Villeneuve,Vinuesa,Senglea
+2667,4277,La Raya,2667,La Romana,La Roda,La Manga
+2668,4278,Las Caldas,2668,Las Cascadas,Las Galeras,Las Lajas
+2669,4279,Leuven,2669,Lupeni,Lucerne,Lauenen
+2670,4280,Mechelen,2670,Medellín,,
+2671,4281,Tweed Heads,2671,,,
+2672,4282,Cassis,2672,Cascais,Cairns,
+2673,4283,San Clemente,2673,St. Clement,Salento,Sao Vicente
+2674,4284,Vilches,2674,Viñales,Elche,Vis
+2675,4285,Villa Carlos Paz,2675,Villaricos,Villarreal de San Carlos,
+2676,4286,San Fabián de Alico,2676,San Francisco,San Martin de los Andes,Mairena del Alcor
+2677,4287,Hornopiren ,2677,Hornopirén,,
+2678,4288,Playa del Inglés,2678,Playa del Carmen,Playa de Bolonia,
+2679,4289,Bahía Feliz,2679,,,
+2680,4290,Puerto de Mogan,2680,Puerto Montt,Puerto Madryn,Puerto de la Cruz
+2681,4291,Meloneras,2681,Melbourne,Meknes,Montserrat
+2682,4292,Telde,2682,Telč,Feldberg,Belgrade
+2683,4293,Taurito,2683,Tamarit,Tartu,Rosarito
+2684,4294,Corralejo,2684,,,
+2685,4295,Morro Jable,2685,Moroleón,,
+2686,4296,Castillo Caleta de Fuste,2686,Castilleja de la Cuesta,,
+2687,4297,Puerto del Rosario,2687,Puerto de la Cruz,Puerto Río Tranquilo,Puerto Vallarta
+2688,4298,La Lajita,2688,Las Lajas,La Tejita,La Savina
+2689,4299,Costa Calma,2689,Costa Azul,Santa Coloma,
+2690,4300,Jandía,2690,Jamundí,Zaandam,Jaén
+2691,4301,Siles,2691,Sitges,Saldes,Sabile
+2692,4302,San Rafael de la Cruz,2692,San Pedro de la Paz,Puerto de la Cruz,
+2693,4303,Valle de Bravo,2693,Valle de Banderas,Valle de la Luna,Venta de Baños
+2694,4304,Melipeuco ,2694,,,
+2695,4305,Ölüdeniz,2695,Ölüdeniz,,
+2696,4306,Cochrane,2696,Crociale,Coura,Coron
+2697,4307,Mina Clavero,2697,Claveria,,
+2698,4308,Iporanga,2698,Tauranga,Floriana,Braga
+2699,4309,Barra do Turvo,2699,Barra do Bugres,,
+2700,4310,Belo Horizonte,2700,Belo Horizonte,,
+2701,4311,Brescia,2701,Biescas,Brasília,Brzezinka
+2702,4312,Treviso,2702,Trevor,Trevelin,
+2703,4313,Sutatausa,2703,,,
+2704,4314,Cucunubá,2704,,,
+2705,4315,Simijaca,2705,,,
+2706,4316,Ubaté,2706,Ubatuba,Rabat,
+2707,4317,Fúquene,2707,,,
+2708,4318,San Juan de Marcona,2708,San Juan del Sur,Sant Jaume de Frontanyà,San José de Maipo
+2709,4319,Moyobamba,2709,Moab,,
+2710,4320,Arrecife,2710,Arbúcies,,
+2711,4321,Tías,2711,,,
+2712,4322,Caleta de Famara,2712,Calella de Palafrugell,Caleta d'en Gorries,Caldes de Malavella
+2713,4323,Costa Teguise,2713,Costa Adeje,Costa Azul,
+2714,4324,Playa Blanca,2714,Playa Blanca,Playa de Bolonia,Can Blanc
+2715,4325,Puerto del Carmen,2715,Puerto de la Cruz,Playa del Carmen,Puerto Madryn
+2716,4326,Órzola,2716,,,
+2717,4327,Yaundé,2717,Jamundí,Lund,Jaun
+2718,4328,Tinajo,2718,Pingyao,Teno,
+2719,4329,Ye,2719,,,
+2720,4330,Yaiza,2720,Yaiza,Ibiza,Gaira
+2721,4331,La-Bastide-des-Jourdans,2721,,,
+2722,4332,Breña Baja,2722,Oroteanda Baja,,
+2723,4333,Tazacorte,2723,Lanzarote,Tamarit,Tabacon
+2724,4334,El Remo,2724,El Retén,El Peñol,El Cuervo
+2725,4335,Los Llanos de Aridane,2725,Los Caños de Meca,Los Llaos,
+2726,4336,Tijarafe,2726,Mijares,Tigre,
+2727,4337,Santa Cruz de La Palma,2727,Santa Cruz de la Palma,Santa Cruz del Valle,Santa María de la Alameda
+2728,4338,Marina di Camerota,2728,Mar de Cristal,Marina South,
+2729,4339,Fuencaliente de la Palma,2729,Santa Cruz de la Palma,San Vicente de la Barquera,
+2730,4340,Barlovento,2730,Salento,Broto,Barcelona
+2731,4341,El Paso,2731,El Paso,El Paso,Elvas
+2732,4342,Puntallana,2732,Punta Cana,Punta Ballena,La Puntilla
+2733,4343,Cala Rajada,2733,Cala Galdana,Cala Santandria,
+2734,4344,Cala Bona,2734,Cala Llonga,Caleta Gonzalo,Coral Bay
+2735,4345,Sa Coma,2735,Santa Coloma,Lake Como,La Romana
+2736,4346,Cales de Mallorca,2736,Caldes de Malavella,Cuevas del Valle,San Carlos de Bariloche
+2737,4347,Sa Font de Sa Cala,2737,Torrent de Cala Pi,Santa Coloma,
+2738,4348,Cala Romántica ,2738,Cala Montjoi,Cala Llonga,
+2739,4349,Porto Cristo,2739,Porto Ercole,Monte Cristi,Puerto Cisnes
+2740,4350,San Sebastián de La Gomera,2740,San Sebastián - Donostia,,
+2741,4351,Playa de Santiago,2741,Playa de Bolonia,Puebla de Sanabria,Playa del Carmen
+2742,4352,Valle Gran Rey,2742,Vargem Grande,,
+2743,4353,Hermigua,2743,Hermanus,Berga,
+2744,4354,Valverde,2744,Vallter,Vale,Rakvere
+2745,4355,La Restinga,2745,La Vega,La Manga,Lesignano
+2746,4356,San Andrés El Hierro,2746,San Andrés,,
+2747,4357,Frontera,2747,Montserrat,Montserrat,Fontana
+2748,4358,Plovdiv ,2748,,,
+2749,4359,Kaunas ,2749,Kaunas,Lagunas,Manaus
+2750,4360,Teguise ,2750,,,
+2751,4361,Las Tricias,2751,Las Terrenas,La Trinitaria,Los Cristianos
+2752,4362,Puerto Naos,2752,Puerto Natales,Puerto Varas,Puerto San José
+2753,4363,Breña Alta,2753,Delina Alta,Marsa Alam,
+2754,4364,Barruera,2754,Paradera,Barranco,Narra
+2755,4365,Durro,2755,Barro,,
+2756,4366,Erill la Vall,2756,Mollet del Vallès,,
+2757,4367,Bohi,2757,Buhi,Sochi,Moshi
+2758,4368,El Cercado,2758,El Cuervo,Es Mercadal,El Cairo
+2759,4369,Sierra de la Ventana,2759,Talavera de la Reina,Barranco de la Verga,Cabo de la Vela
+2760,4370,Abisko ,2760,Abidos,,
+2761,4371,Albuquerque,2761,,,
+2762,4372,Benahavís ,2762,,,
+2763,4373,Niaga,2763,Siangan,Nara,Arinaga
+2764,4374,M'Bour,2764,Moguer,,
+2765,4375,Somone,2765,Somo,Sirmione,Stromness
+2766,4376,Ngaparou ,2766,,,
+2767,4377,Xcalak,2767,Icalma,X-Calakoop,Žabljak
+2768,4378,Kirkjubæjarklaustur,2768,,,
+2769,4379,Selfoss,2769,,,
+2770,4380,Casma,2770,Cascais,Naoshima,Catarman
+2771,4381,Roseto degli Abruzzi,2771,,,
+2772,4382,Saint-Maximin-la-Sainte-Baume,2772,,,
+2773,4383,Melide ,2773,Mellieħa,,
+2774,4384,Ballyconneely,2774,,,
+2775,4385,San Luis Potosí,2775,San Luis,San Agustín,Los Pocitos
+2776,4386,Zacatecas,2776,,,
+2777,4387,Chapa de Mota,2777,Cabo de Gata,Alhama de Murcia,Punta de Mita
+2778,4388,Luleå ,2778,,,
+2779,4389,Pakbeng ,2779,Pang Mu,,
+2780,4390,Giverny ,2780,Girne,,
+2781,4391,San Cristóbal de Cea,2781,San Cristóbal,San Cristóbal de las Casas,Santa Maria de Besora
+2782,4392,Toubab Dialaw,2782,,,
+2783,4393,Amorgos,2783,Burgos,Almora,
+2784,4394,Saltillo,2784,Salento,Canillo,El Castillo
+2785,4395,Trou d'Eau Douce,2785,,,
+2786,4396,Río Negro,2786,Río Negro,Cerro Negro,Río de Janeiro
+2787,4397,Mahébourg ,2787,,,
+2788,4398,Grand Baie,2788,Gran Bahia Principe,Skara Brae,San Javier
+2789,4399,Flacq,2789,Fellbach,,
+2790,4400,Rivière du Rempart,2790,,,
+2791,4401,Plaines Wilhems,2791,Platis Gialos,,
+2792,4402,Maipú ,2792,Maipú,,
+2793,4403,Ioannina,2793,,,
+2794,4404,Locmariaquer,2794,,,
+2795,4405,Le Puy-en-Velay,2795,,,
+2796,4406,Åre,2796,,,
+2797,4407,Weymouth,2797,,,
+2798,4408,Dorchester,2798,Manchester,Nordeste,Forest
+2799,4409,Isle of Portland,2799,Islets of Granada,,
+2800,4410,Bélesta,2800,Blanes,Bielsa,Besalú
+2801,4411,Novellana,2801,Morella,,
+2802,4412,Oviñana,2802,Havana,Oia,
+2803,4413,Gozón,2803,Temozón,Gijón,Donón
+2804,4414,Buelna,2804,Quena,Puebla,Huelva
+2805,4415,Caravia,2805,Karavas,Catania,Claveria
+2806,4416,Priañes,2806,Paris,Prague,
+2807,4417,San Juan de Nieva,2807,San Juan del Sur,Sant Julià de Lòria,San Juan de Gaztelugatxe
+2808,4418,Page,2808,Page,Prague,Paje
+2809,4419,Campos do Jordão,2809,,,
+2810,4420,Útica,2810,Leticia,Ftericha,Arica
+2811,4421,Tobia,2811,Xàbia,Soria,Sofia
+2812,4422,Ipiales,2812,Viñales,Manizales,Saldes
+2813,4423,Mondariz ,2813,,,
+2814,4424,Kongens Lyngby,2814,,,
+2815,4425,Savelletri,2815,Castellet,Sóller,Savuti
+2816,4426,Paestum,2816,Perast,Pecatu,Batumi
+2817,4427,Padula,2817,Paola,Palma,Puebla
+2818,4428,Metaponto ,2818,Menton,Maputo,
+2819,4429,Grottaglie,2819,,,
+2820,4430,Cisternino,2820,Corianino,Chichicastenango,Fiorentino
+2821,4431,Santa Barbara,2821,Santa Catalina,Sant Ferran,Santa Maria de Besora
+2822,4432,Venosa,2822,Ventoso,Vienna,Versam
+2823,4433,Savannah,2823,Savaneta,Sannat,Havana
+2824,4434,Warmond,2824,Bargemon,Watertown,
+2825,4435,Benagil,2825,Bernal,Beng,Bengkulu
+2826,4436,Ilha Grande,2826,Vargem Grande,Quinta Grande,
+2827,4437,Santo Amaro da Imperatriz,2827,,,
+2828,4438,Três Coroas,2828,,,
+2829,4439,Gramado,2829,Granada,Granada,Gormaz
+2830,4440,Canela,2830,Canepa,Calella,Candelaria
+2831,4441,Itacarambi,2831,,,
+2832,4442,Cala Nova,2832,Cala Llonga,Zagala Nueva,Caleta Gonzalo
+2833,4443,Mellieħa,2833,Mellieħa,Morella,Morelia
+2834,4444,Porto Alegre,2834,Porto Ercole,Puerto Galera,
+2835,4445,Monza ,2835,Montezuma,Menznau,Mendoza
+2836,4446,Tuiza de Arriba,2836,,,
+2837,4447,Cadavedo,2837,Condado,Cardedeu,Caladino
+2838,4448,Pría,2838,Prčanj,Prague,Perast
+2839,4449,Mont-Dauphin,2839,Mit-Rahineh,Mont-ral,
+2840,4450,Villeneuve-lès-Avignon,2840,Villeneuve,,
+2841,4451,Malalcahuello ,2841,,,
+2842,4452,Nova Petrópolis,2842,,,
+2843,4453,Bento Gonçalves,2843,,,
+2844,4454,Angra de Heroísmo,2844,,,
+2845,4456,Ponta Delgada,2845,Ponta Delgada,Punta Cana,
+2846,4457,Vila Franca do Campo,2846,Vilafranca de Bonany,,
+2847,4458,Velas,2847,Verul,Elvas,
+2848,4459,Vila do Porto,2848,,,
+2849,4460,Madalena,2849,Mandalay,Badalona,Madaba
+2850,4461,Lajes do Pico,2850,,,
+2851,4462,Santa Cruz das Flores,2851,Santa Cruz Uno,Santa Cruz,Santa Cruz del Valle
+2852,4463,Horta,2852,Sort,Torteval,Sortelha
+2853,4464,Vila do Corvo,2853,,,
+2854,4465,Arucas,2854,Arica,Arusha,Araucária
+2855,4466,Castellana Grotte,2855,Castelsardo,Castellet,Castellammare del Golfo
+2856,4467,Marina di Ginosa,2856,Mar de Cristal,,
+2857,4469,Los Navalmorales,2857,,,
+2858,4470,Ribes de Freser,2858,Ribes de Freser,Ribera de Cardós,Riells del Fai
+2859,4471,Policoro,2859,Porto,,
+2860,4472,Aliano,2860,Falciano,Alicante,Volcano
+2861,4473,Castelmezzano,2861,Castelsardo,Castellet,Castel
+2862,4474,Rionero In Vulture,2862,,,
+2863,4475,Ceglie Messapica,2863,Ceglie Messapica,,
+2864,4476,Sasso di Castalda,2864,Las Cascadas,,
+2865,4477,Castellaneta,2865,Castellet,Castel,Castelldefels
+2866,4478,San Marino,2866,City of San Marino,Capanne San Marino,St. Martin
+2867,4479,Caniço,2867,Caniçal,Canillo,Corianino
+2868,4480,Ponta do Sol,2868,Ponta do Sol,,
+2869,4481,Santa Cruz,2869,Santa Cruz,Santa Cruz Uno,Santa Pau
+2870,4482,Calheta,2870,Calella,Valletta,Chetumal
+2871,4483,Machico,2871,Machico,Garachico,Mahinog
+2872,4484,Santana,2872,Santana,Santa Ponsa,Sannat
+2873,4485,Caniçal,2873,Caniçal,Catania,Canillo
+2874,4486,Câmara de Lobos,2874,,,
+2875,4487,São Vicente,2875,Sao Vicente,,
+2876,4488,Porto da Cruz,2876,Porto da Cruz,Puerto de la Cruz,Santa Cruz
+2877,4489,Vila Baleira,2877,Villa de Valverde,Las Galeras,Vilaflor
+2878,4490,Ponta da Calheta,2878,Ponta do Sol,Punta de Mita,Punta Ballena
+2879,4491,Pachuca,2879,Pachacamac,Pahoa,Tapachula
+2880,4492,Björkliden ,2880,,,
+2881,4493,Appietto,2881,,,
+2882,4494,Curitiba ,2882,Curitiba,Yuriria,
+2883,4495,Serrada ,2883,Serradilla,Serravalle,
+2884,4496,Villanueva ,2884,Vinuesa,Villanueva de la Cañada,Vilanova de Sau
+2885,4497,Guaduas,2885,Gudja,Guaso,Graus
+2886,4498,Barú ,2886,Barú,Bari,Barva
+2887,4499,Ulldecona,2887,,,
+2888,4500,Alcanar,2888,Llanars,Alicante,Ankara
+2889,4501,Poblenou del Delta,2889,Poblenou del Delta,,
+2890,4502,Calafell,2890,Calella,Palafrugell,Cala Morell
+2891,4503,Enna,2891,Enna,Esna,Ensenada
+2892,4504,Pantelleria,2892,Candelaria,Montpellier,Palencia
+2893,4505,Alcamo,2893,Almora,Alcalá,Volcano
+2894,4506,Mussomeli,2894,Musoma,Morelia,
+2895,4507,Skaland,2895,Salvador,Saona Island,Santander
+2896,4508,Castel Gandolfo,2896,Castelsardo,Castellammare del Golfo,
+2897,4509,Pistoia,2897,Pristina,Pisa,Victoria
+2898,4510,Adís Abeba,2898,,,
+2899,4511,Gondar,2899,Ronda,Kondur,Konark
+2900,4512,Dinsho,2900,Disah,Windsor,
+2901,4513,Shashamane,2901,Salamanca,,
+2902,4514,Bahir Dar,2902,Baia Mare,,
+2903,4515,Guiza,2903,Yaiza,Ibiza,Gżira
+2904,4516,Los Llanos,2904,Los Llaos,Los Cabos,Los Cristianos
+2905,4517,Láchar,2905,Sychari,,
+2906,4518,Pamukkale,2906,Pamukkale,Pimpale,
+2907,4519,Cenes de la Vega,2907,Cabo de la Vela,Cabezón de la Sal,Barranco de la Verga
+2908,4520,Isla de Pemba,2908,Islamabad,,
+2909,4521,Isla de Mafia,2909,Tossa de Mar,Alhama de Murcia,Punta de Mita
+2910,4522,Ischia ,2910,Ica,,
+2911,4523,Aracaju,2911,Arica,Aarau,Arauco
+2912,4524,Tlaxcala,2912,Bacalar,Tlamacas,Chacalal
+2913,4525,Damajagua ,2913,Damajagua,,
+2914,4526,Tlaxco,2914,Tabacon,,
+2915,4527,Artajona,2915,Arona,Artagnan,Aitona
+2916,4528,Palm Springs,2916,Palm Springs,Tarpon Springs,Palomino
+2917,4529,Lismore,2917,Lisse,Loreto,Lisbon
+2918,4530,Plettenberg Bay,2918,Plettenberg Bay,,
+2919,4531,Puerto Elizabeth,2919,Puerto Plata,Puerto Williams,Puerto Viejo
+2920,4532,Espejo,2920,Espot,,
+2921,4533,Granadilla,2921,Granadilla,Granada,Granada
+2922,4534,Villalba de Duero,2922,Villa de Valverde,Vilanova de Sau,Valdevaqueros
+2923,4535,Pessac,2923,Perissa,Pisac,Pisa
+2924,4536,Saint-Christophe-des-Bardes,2924,,,
+2925,4537,Saint-Laurent-Médoc,2925,,,
+2926,4538,Monte Verde,2926,Monteverde,Montevideo,Montpellier
+2927,4539,São Francisco de Paula,2927,San Francisco,,
+2928,4540,Pollensa ,2928,Pollença,,
+2929,4541,Cala Sant Vicenç,2929,Cala Santandria,,
+2930,4542,Pitimbu,2930,,,
+2931,4543,Pelotas,2931,Puelo,Pieta,Pavilosta
+2932,4544,Maracajaú ,2932,Marsaskala,,
+2933,4545,Lago Kleifarvatn,2933,,,
+2934,4546,Hafnarfjörður,2934,,,
+2935,4547,Passau,2935,Putussibau,Perissa,Pasajes
+2936,4548,Alcañiz,2936,Alcalá,,
+2937,4549,Banbridge,2937,Cambridge,Bari,
+2938,4550,Huamantla,2938,Havana,Huacachina,Hana
+2939,4551,Montemonaco,2939,Montezuma,Kontemenos,Mount Kenya
+2940,4552,Ascoli Piceno,2940,,,
+2941,4553,Sarnano,2941,Sarnen,Santana,Safranbolu
+2942,4554,Acquasanta Terme,2942,,,
+2943,4555,Rubbiano,2943,Rembitan,,
+2944,4556,Offida,2944,Oia,,
+2945,4557,Cingoli,2945,Dingli,Cailungo,Corgoloin
+2946,4558,Numana,2946,Zumaia,Siurana,Uman
+2947,4559,Fiastra,2947,Frómista,Sintra,Fustat
+2948,4560,Pioraco,2948,Piornal,Porto,Pisac
+2949,4561,Carassai,2949,Cascais,Carcassonne,Marsa
+2950,4562,Castelsantangelo sul Nera,2950,,,
+2951,4563,Sirolo,2951,Airolo,Sirjbal,Mirasol
+2952,4564,San Ginesio,2952,San Diego,San Isidro,San Gimignano
+2953,4565,Acqualagna,2953,Acquaviva,,
+2954,4566,Grottammare,2954,,,
+2955,4567,San Vittore,2955,Sao Jorge,San Diego,La Virgen
+2956,4568,Cala Moresca,2956,Cala Morell,Clarens,Cala en Porter
+2957,4569,Urbino,2957,Udabno,Ordino,Eurobin
+2958,4570,Campitello di Fassa,2958,,,
+2959,4571,Ollantaytambo,2959,Ollantaytambo,,
+2960,4572,Yucay,2960,Yucay,Duchray,Yuanyang
+2961,4573,Chascomús,2961,Cascais,,
+2962,4574,La Aldea de San Nicolás,2962,,,
+2963,4575,Carrara ,2963,Catarman,Canberra,Narra
+2964,4576,Cardeñosa,2964,Cardonal,Córdoba,Córdoba
+2965,4577,Arraial do Cabo,2965,Arraial do Cabo,,
+2966,4578,Yaxuná ,2966,,,
+2967,4579,La Rasa,2967,La Romana,La Roda,La Pastora
+2968,4580,Nagu,2968,Nadur,Prague,Naousa
+2969,4581,Valderilla de Torio,2969,,,
+2970,4582,Pasajes,2970,Pasajes,Paje,Las Lajas
+2971,4583,Cabo Frío,2971,Cabot Trail,,
+2972,4584,Urubici ,2972,,,
+2973,4585,São Joaquim,2973,São Paulo,,
+2974,4586,Bom Jardim da Serra,2974,,,
+2975,4587,Imbituba,2975,Ubatuba,Rembitan,Ibiza
+2976,4588,Garopaba ,2976,,,
+2977,4589,Laguna,2977,Lagunas,La Laguna,Lagoa
+2978,4590,Bonito,2978,Broto,Boston,Benijo
+2979,4591,Ihéus,2979,Ilhéus,,
+2980,4592,Carate Urio,2980,Varadero,Paraty Mirim,Barbastro
+2981,4593,Villamanrique de la Condesa,2981,Villanueva de la Cañada,Valle de la Luna,Pilar de la Mola
+2982,4594,Socuéllamos,2982,,,
+2983,4595,Espinaredo,2983,Elsinore,Laredo,Espartinas
+2984,4596,Mollina,2984,La Molina,Morella,Morelia
+2985,4597,Isla Aguada,2985,Cala Agulla,Igualada,La Adrada
+2986,4598,Samaniego,2986,San Diego,Santiago,Saignon
+2987,4599,Petrópolis ,2987,,,
+2988,4600,Isla Mujeres,2988,Isla Mujeres,,
+2989,4601,Azcoitia,2989,,,
+2990,4602,São Sebastião,2990,São Sebastião,,
+2991,4603,Arévalo ,2991,Nuévalos,,
+2992,4604,Pargas ,2992,Paracas,Paris,Pardiñas
+2993,4605,Favaios,2993,Faros,Pavilosta,Lavrio
+2994,4606,Gubbio ,2994,,,
+2995,4607,Cesantes ,2995,Cervantes,Centelles,Constantine
+2996,4608,South Queensferry,2996,,,
+2997,4609,Oban,2997,,,
+2998,4610,Juliaca,2998,Jaca,Luarca,
+2999,4611,Kapolei,2999,Kampyli,Karpaseia,Naples
+3000,4612,Waimanalo,3000,Waimanalo,Waimea,
+3001,4613,Douz,3001,,,
+3002,4614,Riad,3002,,,
+3003,4615,Al-Ula,3003,,,
+3004,4616,Yeda,3004,Ikeda,Tejeda,Lleida
+3005,4617,Aldeaquemada,3005,Alajuela,,
+3006,4618,Kriens ,3006,Krini,Darien,Brienz
+3007,4619,Parauta ,3007,Paraty,Paracas,Paradera
+3008,4620,Alpnach,3008,Aachen,,
+3009,4621,Petra,3009,Pieta,Petrovac,Perast
+3010,4622,Wadi Rum,3010,Wadi Musa,Wadi Rum Village,
+3011,4623,Aÿ,3011,,,
+3012,4624,Sowayma ,3012,,,
+3013,4625,Kuusamo,3013,,,
+3014,4626,Santiago del Estero,3014,Santiago de Surco,Santiago del Teide,Santiago de Querétaro
+3015,4627,Termas de Río Hondo,3015,,,
+3016,4628,Macael,3016,Masca,Marganell,Masella
+3017,4629,Chinon ,3017,Chinatown,Chinchero,
+3018,4630,Álora ,3018,Almora,,
+3019,4631,Veytaux,3019,Veytaux,,
+3020,4632,Portland ,3020,Portlligat,Orlando,
+3021,4633,Fermo,3021,Palermo,Bergamo,Faros
+3022,4634,Fabriano,3022,Falciano,Faetano,Jambiani
+3023,4635,Cesenatico,3023,,,
+3024,4636,Cesena,3024,Cuenca,Cee,Cayena
+3025,4637,Fano,3025,Faetano,Sanok,Hanoi
+3026,4638,Nursia,3026,Ourika,Murcia,Yuriria
+3027,4639,Ancona,3027,Arona,Inchon,Aitona
+3028,4640,Fondotoce,3028,,,
+3029,4641,Rabo de Peixe,3029,,,
+3030,4642,Firgas,3030,Mirasol,Fiorina,Orga
+3031,4643,Escorca,3031,Lorca,Evora,
+3032,4644,Buñola,3032,Bukoba,Bormla,Bol
+3033,4645,Muriel de la Fuente,3033,Vejer de la Frontera,Palos de la Frontera,Arcos de la Frontera
+3034,4646,Viareggio ,3034,Villaricos,,
+3035,4647,Denali,3035,Delhi,Feeali,Dingli
+3036,4648,Thun,3036,Thun,,
+3037,4649,Brienz ,3037,Brienz,Darien,Bergen
+3038,4650,Spiez,3038,Spiez,Spiazzi,Split
+3039,4651,Villa Unión,3039,,,
+3040,4652,Begíjar ,3040,Níjar,Begur,
+3041,4653,Starnberg,3041,Stavanger,Sarnen,Santander
+3042,4654,Caxias do Sul,3042,,,
+3043,4655,Udawalawe,3043,,,
+3044,4656,Grengiols,3044,,,
+3045,4657,Fiesch,3045,Fieschertal,Biescas,
+3046,4658,Georgetown,3046,Germantown,Watertown,Loreto
+3047,4659,Quero,3047,Quezon,Quepos,Queralbs
+3048,4660,Pigeon Forge,3048,,,
+3049,4661,Tadoussac,3049,Naousa,,
+3050,4662,Pinilla de Buitrago,3050,Punta de Mita,,
+3051,4663,Apizaco,3051,Arauco,,
+3052,4664,Casares,3052,Cres,Pasajes,Lastres
+3053,4665,Caloura,3053,Coura,Salou,Kalograia
+3054,4666,Achada,3054,Alcúdia,,
+3055,4667,Sete Cidades,3055,Setcases,,
+3056,4668,Puerto Calero,3056,Puerto Galera,Puerto Natales,Puerto Viejo
+3057,4669,Alayor,3057,Almora,Alcover,
+3058,4670,Jafre ,3058,Fafe,,
+3059,4671,Fontanals de Cerdaña,3059,Hontanares de Eresma,,
+3060,4672,Ouro Preto,3060,Ouro Preto,Loreto,
+3061,4673,Capitólio ,3061,,,
+3062,4674,São Roque de Minas,3062,,,
+3063,4675,Pica,3063,Pisa,Pisac,Pieta
+3064,4676,Ovalle,3064,Halle,Serravalle,Vallter
+3065,4677,Aldeanueva del Camino,3065,Playa del Carmen,Villanueva de la Cañada,
+3066,4678,Ribeira Grande,3066,Ribeira da Janela,Quinta Grande,Ribera de Cardós
+3067,4679,Letojanni,3067,Methoni,,
+3068,4680,Caltagirone,3068,Valdragone,Carlton,Calonge
+3069,4681,Mondello,3069,Monells,Monticello,Morella
+3070,4682,Ispica,3070,Ica,,
+3071,4683,Módica,3071,Mdina,,
+3072,4684,Castelbuono,3072,Castel,Castelsardo,Cailungo
+3073,4685,Erice,3073,Eriste,Nice,Trier
+3074,4686,Ragusa,3074,Roaguia,Naousa,Ratsada
+3075,4687,Cava de' Tirreni,3075,,,
+3076,4688,Conversano,3076,Monsanto,Corianino,Copper Canyon
+3077,4689,Resistencia ,3077,,,
+3078,4690,Lomba de São Pedro,3078,Arenas de San Pedro,,
+3079,4691,Motta Camastra,3079,Matamata,,
+3080,4692,Hornachuelos,3080,Fornells,,
+3081,4693,Châteaudun,3081,,,
+3082,4694,Kitulgala,3082,Kuldiga,Kula,
+3083,4695,Unawatuna,3083,Ungasan,Ubatuba,Batunya
+3084,4696,Weligama,3084,,,
+3085,4697,Sant'Agata de' Goti,3085,,,
+3086,4698,Castelvenere,3086,Castellet,Castel,Castelldefels
+3087,4699,Benevento,3087,,,
+3088,4700,Cerreto Sannita,3088,,,
+3089,4701,Brinchang,3089,Arinaga,,
+3090,4703,Pesche ,3090,,,
+3091,4704,Baranello,3091,Marganell,Barranco,Barcelona
+3092,4705,Roccamandolfi ,3092,,,
+3093,4706,Larino ,3093,Lavrio,Ordino,Lugano
+3094,4707,Castel San Vincenzo,3094,,,
+3095,4708,Maiori ,3095,Manapouri,Maihar,Madrid
+3096,4709,Alfaz del Pi,3096,Alcolea del Pinar,,
+3097,4710,Cuetzalán,3097,,,
+3098,4711,Jalcomulco,3098,Tajumulco,,
+3099,4712,Mineápolis,3099,,,
+3100,4713,Salas Bajas,3100,Las Lajas,Salamanca,
+3101,4714,Manzanillo,3101,Manzanillo,Canillo,Mazamitla
+3102,4715,Benamejí,3102,Benares,Benasque,
+3103,4716,Otivar ,3103,Oia,,
+3104,4717,Buggerru,3104,Bagergue,,
+3105,4718,Stintino,3105,Fiorentino,Stirling,Santiago
+3106,4719,Aparecida ,3106,,,
+3107,4720,Padilla de Duero,3107,Villa de Valverde,Santiago de Surco,
+3108,4721,Yauco,3108,Arauco,Yangshuo,Yucay
+3109,4722,Eisenstadt ,3109,Ensenada,,
+3110,4723,Maranello,3110,Marganell,Manzanillo,Marmagne
+3111,4724,Bettmeralp,3111,Bernal,,
+3112,4725,Vallon-Pont-d'Arc,3112,,,
+3113,4726,Pied-de-Borne,3113,,,
+3114,4727,Vogüé,3114,,,
+3115,4728,Thueyts,3115,Phuket,,
+3116,4729,O Faramello,3116,Farellones,Marganell,
+3117,4730,Carucedo ,3117,Laredo,Carcedo de Burgos,
+3118,4731,Corsier-sur-Vevey,3118,,,
+3119,4732,La Seca,3119,La Vega,Dead Sea,Las Vegas
+3120,4733,Borne,3120,Brno,Blarney,Bern
+3121,4734,Mayres,3121,Mijares,Marsa,Maras
+3122,4735,Salavas,3122,Saldaña,Karavas,Salvador
+3123,4736,Berrias-et-Casteljau,3123,,,
+3124,4737,Las Médulas,3124,Las Galeras,Las Águilas Bay,Los Llaos
+3125,4738,Cabueñes,3125,Cabarete,,
+3126,4739,Cabezabellosa,3126,Cabezabellosa,Calella,
+3127,4740,Gaspar ,3127,Galapagar,Jasper,Għasri
+3128,4741,Minori,3128,Manapouri,Windsor,Morelia
+3129,4742,Praiano,3129,Preah Sihanouk,Positano,Palomino
+3130,4743,Atrani,3130,Catania,Agra,
+3131,4744,Te Anau,3131,Te Anau,The Hague,
+3132,4745,Praia Grande,3132,Quinta Grande,Vargem Grande,Fazenda Rio Grande
+3133,4746,San Lorenzello,3133,San Lawrenz,San Lorenzo Albarradas,
+3134,4747,Portalegre,3134,Porqueres,Prague,Puerto Galera
+3135,4748,Roa de Duero,3135,Río de Janeiro,Toluca de Lerdo,Bocas del Toro
+3136,4749,San Martín de Valdeiglesias,3136,San Martin de los Andes,,
+3137,4750,Portovenere,3137,Porto,Puerto Aventura,Porto Ercole
+3138,4751,San José de Maipo,3138,San José de Maipo,San José del Cabo,Sant Josep
+3139,4752,Badesse,3139,Bassella,Basel,Saldes
+3140,4753,Belfast,3140,Belcastel,Delft,Bellapais
+3141,4754,Cavalcante,3141,Navalcán,Alicante,Cervantes
+3142,4755,Campina Grande,3142,Quinta Grande,Vargem Grande,Fazenda Rio Grande
+3143,4756,Etna,3143,Esna,Enna,Encamp
+3144,4757,Villa del Carbón,3144,Viña del Mar,Playa del Carmen,Villa de Valverde
+3145,4758,Sacramento,3145,Salento,Sarnen,Safranbolu
+3146,4759,Cannigione ,3146,,,
+3147,4760,Saint John,3147,St. John,Alt Saint Johann,Saignon
+3148,4761,Castelluccio di Norcia,3148,,,
+3149,4762,San Lorenzo al Lago,3149,San Lorenzo Albarradas,San Lorenzo de El Escorial,San Lawrenz
+3150,4763,Torre di Palme,3150,Torres del Paine,Torrent de Cala Pi,
+3151,4764,Tallacano,3151,Falciano,Tegallalang,Tal-y-cafn
+3152,4765,Porto San Giorgio,3152,Puerto San José,Porto Santo Stefano,Porto da Cruz
+3153,4766,Montegiorgio,3153,Montegiardino,Monteriggioni,Montevideo
+3154,4767,Coles Bay,3154,Coral Bay,Mossel Bay,Glendhu Bay
+3155,4768,Cattolica ,3155,,,
+3156,4769,Isla de Tabarca,3156,Cap de Barbaria,Puebla de Sanabria,
+3157,4770,Béjar,3157,Barú,Bari,Níjar
+3158,4771,Sopelana,3158,Sortelha,Scopello,Siena
+3159,4772,Cáparra,3159,Narra,Canberra,Pájara
+3160,4773,Calasetta ,3160,Valletta,,
+3161,4774,Botucatu,3161,,,
+3162,4775,Teutônia ,3162,,,
+3163,4776,Bad Tölz,3163,,,
+3164,4777,Passy-Grigny,3164,,,
+3165,4778,Taxco,3165,Tabacon,Trancoso,Paxoi
+3166,4779,Jackson,3166,,,
+3167,4780,Portals Nous,3167,,,
+3168,4781,Cala d'Or,3168,Cala Morell,Cala Gració,
+3169,4782,Holambra ,3169,Hamburg,,
+3170,4783,Mission Beach,3170,Mission Beach,Miami Beach,Bondi Beach
+3171,4784,Fort Myers,3171,Forest,Flores,Fort Worth
+3172,4785,Caldera,3172,Calella,Paradera,Clyde
+3173,4786,Olmedo,3173,Toledo,Toledo,Oviedo
+3174,4787,L'Ampolla,3174,Amposta,,
+3175,4788,Penamacor,3175,,,
+3176,4789,Amboseli,3176,,,
+3177,4790,Vilar Maior,3177,Villaricos,Vilaflor,Viña del Mar
+3178,4791,Shkodra,3178,Soria,,
+3179,4792,Monsanto,3179,Monsanto,Mosman,Constantine
+3180,4793,Idanha-a-Velha,3180,,,
+3181,4794,Ajmán,3181,Amman,,
+3182,4795,Nanacamilpa,3182,Mazamitla,,
+3183,4796,Riumar,3183,Lima,,
+3184,4797,Proença-a-Velha,3184,,,
+3185,4798,Segura,3185,Fgura,Begur,Siurana
+3186,4799,Corrientes,3186,Zorritos,Cervantes,Centelles
+3187,4800,Caleruega ,3187,,,
+3188,4801,Matosinhos,3188,Matosinhos,,
+3189,4802,Molinaseca ,3189,Masca,La Molina,
+3190,4803,Montes de Valdueza,3190,,,
+3191,4804,Villafranca del Bierzo,3191,Vilafranca de Bonany,,
+3192,4805,Corleone ,3192,Coron,Charleston,Carlton
+3193,4806,Tagle ,3193,Vale,Page,
+3194,4807,Damasco,3194,Dallas,,
+3195,4808,Çanakkale,3195,Wanaka,Pamukkale,Hanalei
+3196,4809,Trebisonda,3196,Trinidad,Arriondas,
+3197,4810,Campinas,3197,Cangas,Cairns,Pamplona
+3198,4811,Neuquén,3198,Neuquén,,
+3199,4812,Whitianga,3199,Chiang Mai,Siangan,Whitsundays
+3200,4813,Kaneohe ,3200,Kaneohe,,
+3201,4814,Ucagiz,3201,,,
+3202,4815,Alto Paraíso de Goiás,3202,,,
+3203,4816,Japaratinga ,3203,Espartinas,Jakarta,Tauranga
+3204,4817,San Fernando,3204,Sant Ferran,San Francisco,San Candido
+3205,4818,Cos,3205,,,
+3206,4819,Carlota Amalia,3206,Cala Agulla,Cala Galdana,
+3207,4820,Fuentespalda,3207,Fuensanta,,
+3208,4821,Borovets,3208,Bormujos,Broto,Baros
+3209,4822,Uvita,3209,Pieta,,
+3210,4823,Sierpe,3210,Bierge,Sidemen,Liberec
+3211,4824,Dominical,3211,Goiânia,,
+3212,4825,Ciudad Cortés,3212,Ciudad Juarez,,
+3213,4826,Cambre,3213,Camber,Cambridge,Canmore
+3214,4827,Kanab,3214,Kaunas,Kalambo,Hana
+3215,4828,Isernia ,3215,Isenthal,,
+3216,4829,Sant'Agapito,3216,Yangapi,Sant'Andrea,Shanghai
+3217,4830,Loreto,3217,Loreto,Porto,Laredo
+3218,4831,Militello in Val di Catania,3218,,,
+3219,4832,Hamn,3219,Hana,Hanoi,Hanko
+3220,4833,Guitiriz,3220,,,
+3221,4834,Belén,3221,Berlin,Bern,Beng
+3222,4835,Vitória,3222,Victoria,Victoria,Vitré
+3223,4836,Vila Velha,3223,Cacela Velha,Viña del Mar,Villar
+3224,4837,Navegantes,3224,Nova Levante,Cervantes,Bagnes
+3225,4838,Cuiabá,3225,Cuiabá,,
+3226,4839,Pointe Sarène,3226,,,
+3227,4840,Murillo de Gállego,3227,Sallent de Gállego,,
+3228,4841,La Roda,3228,La Roda,La Romana,Ronda
+3229,4842,Santa Fe de Mondújar,3229,Sant Llorenç de Montgai,Santa Monica,Sant Jaume de Frontanyà
+3230,4843,Pedrajas de San Esteban,3230,Vegas de San Esteban,,
+3231,4844,Puerto de Carti,3231,Puerto de la Cruz,Puerto Varas,Puerto Vallarta
+3232,4845,Ceiba,3232,Cebu,Sesimbra,Curitiba
+3233,4846,Culebra,3233,Coura,Cudillero,Consuegra
