@@ -9,7 +9,6 @@ destination_citivatis_id,civitatis_name,final_name,english_name,city_id
 8,New York,New York City,New York City,100146
 9,Las Vegas,Las Vegas,Las Vegas,1200206
 12,Valladolid,Valladolid,Valladolid,1342
-12,Valladolid,Valladolid,Valladolid,1200307
 13,Bangkok,Bangkok,Bangkok,600026
 14,Budapest,Budapest,Budapest,281
 16,Paris,Paris,Paris,100095
@@ -40,7 +39,6 @@ destination_citivatis_id,civitatis_name,final_name,english_name,city_id
 50,Munich,Munich,Munich,224
 51,Bruges,Bruges,Bruges,1200152
 52,Granada,Granada,Granada,2
-52,Granada,Granada,Granada,988
 53,Cuenca,Cuenca,Cuenca,668
 54,Riviera Maya,Riviera Maya,Riviera Maya,1113
 55,Krakow,Kraków,Kraków,56
@@ -60,10 +58,8 @@ destination_citivatis_id,civitatis_name,final_name,english_name,city_id
 75,Bilbao,Bilbao,Bilbao,18
 77,Abu Dhabi,Abu Dhabi,Abu Dhabi,600031
 79,Toledo,Toledo,Toledo,21
-79,Toledo,Toledo,Toledo,1200326
 80,Mallorca,Palma,Palma,300083
 81,Córdoba,Córdoba,Córdoba,3
-81,Córdoba,Córdoba,Córdoba,1060
 83,Málaga,Málaga,Málaga,4
 91,Nice,Nice,Nice,220
 92,Mexico City,Mexico City,Mexico City,100133
@@ -102,7 +98,6 @@ destination_citivatis_id,civitatis_name,final_name,english_name,city_id
 134,Lanzarote,Lanzarote,Lanzarote,527
 137,San Sebastián,San Sebastián,San Sebastián,17
 138,Cáceres,Cáceres,Cáceres,1133
-139,Mérida,Mérida,Mérida,100141
 139,Mérida,Mérida,Mérida,1200049
 140,Ica,Ica,Ica,1200276
 141,Alexandria,Alexandria,Alexandria,900012
@@ -192,7 +187,6 @@ destination_citivatis_id,civitatis_name,final_name,english_name,city_id
 282,Delhi,Delhi,Delhi,1200520
 283,Guadalajara,Guadalajara,Guadalajara,100140
 284,Mérida,Mérida,Mérida,100141
-284,Mérida,Mérida,Mérida,1200049
 288,Bath,Bath,Bath,100018
 289,Cardiff,Cardiff,Cardiff,100013
 290,Bristol,Bristol,Bristol,968
@@ -203,8 +197,6 @@ destination_citivatis_id,civitatis_name,final_name,english_name,city_id
 296,Haarlem,Haarlem,Haarlem,1200156
 297,Vancouver,Vancouver,Vancouver,300070
 303,Trujillo,Trujillo,Trujillo,300077
-304,San José,San José,San José,1261
-304,San José,San José,San José,1271
 304,San José,San José,San José,300030
 305,Oaxaca,Oaxaca,Oaxaca,100142
 306,El Hierro,Valverde,Valverde,1224
@@ -220,7 +212,6 @@ destination_citivatis_id,civitatis_name,final_name,english_name,city_id
 325,Phnom Penh,Phnom Penh,Phnom Penh,567
 327,Sochi,Sochi,Sochi,100087
 328,Sao Paulo,São Paulo,São Paulo,100114
-329,Victoria,Victoria,Victoria,135
 329,Victoria,Victoria,Victoria,1200038
 330,Zadar,Zadar,Zadar,100009
 334,Sintra,Sintra,Sintra,100076
@@ -242,12 +233,10 @@ destination_citivatis_id,civitatis_name,final_name,english_name,city_id
 356,Melbourne,Melbourne,Melbourne,1200001
 357,Salvador,Salvador,Salvador,100117
 358,Chichen Itza,Chichén Itzá,Chichén Itzá,834
-358,Chichen Itza,Chichén Itzá,Chichén Itzá,1110
 359,Stavanger,Stavanger,Stavanger,1200204
 361,Tbilisi,Tbilisi,Tbilisi,1278
 362,Foz de Iguacu,Foz do Iguaçu,Foz do Iguaçu,1200581
 364,Vladivostok,Vladivostok,Vladivostok,100090
-366,Córdoba,Córdoba,Córdoba,3
 366,Córdoba,Córdoba,Córdoba,1060
 367,Manaus,Manaus,Manaus,1117
 370,Agadir,Agadir,Agadir,1200427
@@ -346,7 +335,6 @@ destination_citivatis_id,civitatis_name,final_name,english_name,city_id
 1051,Aveiro,Aveiro,Aveiro,1200697
 1063,Leticia,Leticia,Leticia,100126
 1069,Santiago de Querétaro,Santiago de Querétaro,Santiago de Querétaro,1200119
-1075,Valladolid,Valladolid,Valladolid,1342
 1075,Valladolid,Valladolid,Valladolid,1200307
 1078,Albarracín,Albarracín,Albarracín,11
 1081,Interlaken,Interlaken,Interlaken,100038
@@ -367,13 +355,11 @@ destination_citivatis_id,civitatis_name,final_name,english_name,city_id
 1231,Jakarta,Jakarta,Jakarta,307
 1234,Aqaba,Aqaba,Aqaba,300032
 1237,Cartagena,Cartagena,Cartagena,100157
-1237,Cartagena,Cartagena,Cartagena,1200169
 1240,Brno,Brno,Brno,100058
 1252,Islamabad,Islamabad,Islamabad,646
 1264,Lecce,Lecce,Lecce,216
 1267,San Martín de los Andes,San Martín de los Andes,San Martín de los Andes,883
 1270,Niagara Falls,Niagara Falls,Niagara Falls,1183
-1273,Niagara Falls,Niagara Falls,Niagara Falls,1183
 1285,Toro,Toro,Toro,1200689
 1288,San Gimignano,San Gimignano,San Gimignano,1200486
 1294,Viña del Mar,Viña del Mar,Viña del Mar,1200164
@@ -386,9 +372,6 @@ destination_citivatis_id,civitatis_name,final_name,english_name,city_id
 1376,Nafplio,Nafplio,Nafplio,100065
 1379,Hvar,Hvar,Hvar,1082
 1396,Cagliari,Cagliari,Cagliari,100044
-1402,San José,San José,San José,1261
-1402,San José,San José,San José,1271
-1402,San José,San José,San José,300030
 1405,Disneyland Paris,Chessy,Chessy,1200130
 1411,Melilla,Melilla,Melilla,296
 1417,Kaatsheuvel,Kaatsheuvel,Kaatsheuvel,1098
@@ -572,8 +555,6 @@ destination_citivatis_id,civitatis_name,final_name,english_name,city_id
 3326,Espot,Espot,Espot,1200054
 3340,Killarney,Killarney,Killarney,1310
 3352,Zakopane,Zakopane,Zakopane,1028
-3357,Victoria,Victoria,Victoria,135
-3357,Victoria,Victoria,Victoria,1200038
 3373,Holbox,Holbox,Holbox,832
 3377,Capri,Capri,Capri,100049
 3390,Asheville,Asheville,Asheville,100111
@@ -746,7 +727,6 @@ destination_citivatis_id,civitatis_name,final_name,english_name,city_id
 4324,Playa Blanca,Playa Blanca,Playa Blanca,1200263
 4330,Yaiza,Yaiza,Yaiza,585
 4337,Santa Cruz de La Palma,Santa Cruz de la Palma,Santa Cruz de la Palma,997
-4341,El Paso,El Paso,El Paso,637
 4341,El Paso,El Paso,El Paso,748
 4359,Kaunas ,Kaunas,Kaunas,45
 4396,Río Negro,Río Negro,Río Negro,689
